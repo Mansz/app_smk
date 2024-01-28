@@ -1,0 +1,16 @@
+2024-01-15T08:00:57+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: int * string in /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/royal-elementor-addons/modules/media-grid/widgets/wpr-media-grid.php:6561
+Stack trace:
+#0 /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/royal-elementor-addons/modules/media-grid/widgets/wpr-media-grid.php(7650): WprAddons\Modules\MediaGrid\Widgets\Wpr_Media_Grid->get_main_query_args()
+#1 /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): WprAddons\Modules\MediaGrid\Widgets\Wpr_Media_Grid->render()
+#2 /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#3 /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/elementor/core/base/document.php(328): Elementor\Widget_Base->render_content()
+#4 /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/elementor/includes/managers/widgets.php(459): Elementor\Core\Base\Document->render_element()
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget()
+#6 /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#7 /home/n1601386/public_html/nuha.smkbisa.id/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#8 /home/n1601386/public_html/nuha.smkbisa.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/n1601386/public_html/nuha.smkbisa.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/n1601386/public_html/nuha.smkbisa.id/wp-admin/admin-ajax.php(188): do_action()
+#11 {main}
+  thrown di /home/n1601386/public_html/nuha.smkbisa.id/wp-content/plugins/royal-elementor-addons/modules/media-grid/widgets/wpr-media-grid.php pada baris 6561
+

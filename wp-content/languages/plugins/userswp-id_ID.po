@@ -1,0 +1,5110 @@
+# Translation of Plugins - UsersWP &#8211; Front-end login form, User Registration, User Profile &amp; Members Directory plugin for WordPress - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - UsersWP &#8211; Front-end login form, User Registration, User Profile &amp; Members Directory plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-26 13:15:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - UsersWP &#8211; Front-end login form, User Registration, User Profile &amp; Members Directory plugin for WordPress - Stable (latest release)\n"
+
+#: upgrade.php:405
+msgid "You must read and accept our terms and conditions."
+msgstr "Anda harus membaca dan menerima syarat dan ketentuan kami."
+
+#: includes/helpers/pages.php:580
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: includes/helpers/pages.php:579
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: includes/helpers/pages.php:578
+msgid "Google"
+msgstr "Google"
+
+#: includes/helpers/pages.php:558
+msgid "Orange"
+msgstr "Orange"
+
+#: includes/helpers/pages.php:557
+msgid "Indigo"
+msgstr "Indigo"
+
+#: includes/helpers/pages.php:556
+msgid "Gray"
+msgstr "Kelabu"
+
+#: includes/helpers/pages.php:555
+msgid "Cyan"
+msgstr "Cyan"
+
+#: includes/helpers/pages.php:554
+msgid "Salmon"
+msgstr "Salmon"
+
+#: includes/helpers/pages.php:553
+msgid "Purple"
+msgstr "Ungu"
+
+#: includes/helpers/pages.php:552
+msgid "White"
+msgstr "Putih"
+
+#: includes/helpers/pages.php:551
+msgid "Dark"
+msgstr "Gelap"
+
+#: includes/helpers/pages.php:550
+msgid "Light"
+msgstr "Terang"
+
+#: includes/helpers/pages.php:548
+msgid "Warning"
+msgstr "Peringatan"
+
+#: includes/helpers/pages.php:547
+msgid "Danger"
+msgstr "Bahaya"
+
+#: includes/helpers/pages.php:546
+msgid "Success"
+msgstr "Berhasil"
+
+#: includes/helpers/pages.php:545
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: includes/helpers/pages.php:544
+msgid "Primary"
+msgstr "Utama"
+
+#: includes/class-validation.php:251
+msgid "You must accept our terms and conditions."
+msgstr "Anda harus menerima persyaratan dan ketentuan kami."
+
+#: includes/class-validation.php:248 upgrade.php:388
+msgid "You must read and accept our GDPR policy."
+msgstr "Anda harus membaca dan menerima kebijakan GDPR kami."
+
+#: admin/class-admin.php:849 admin/class-admin.php:913
+#: includes/class-forms.php:368
+msgid "Something went wrong. Please try again."
+msgstr "Ada yang tidak beres. Silakan coba lagi."
+
+#: admin/settings/class-formbuilder.php:380
+#: admin/settings/class-formbuilder.php:396
+#: admin/settings/class-formbuilder.php:421 includes/class-forms.php:1989
+msgid "%s"
+msgstr "%s"
+
+#: includes/class-forms.php:567
+msgid "User registration is currently not allowed. Please check settings of your site."
+msgstr "Pendaftaran pengguna saat ini tidak diperbolehkan. Silakan periksa pengaturan situs Anda."
+
+#: admin/settings/class-formbuilder.php:1445
+msgid "Field Description:"
+msgstr "Deskripsi Bidang:"
+
+#: admin/settings/class-formbuilder.php:1443
+msgid "This will be displayed below the field in the form."
+msgstr "Ini akan ditampilkan di bawah bidang dalam formulir."
+
+#: admin/settings/class-formbuilder.php:1084
+msgid "Adds a wysiwyg editor input"
+msgstr "Menambahkan input editor wysiwyg"
+
+#: admin/settings/class-formbuilder.php:762
+msgid "Adds Register TOS page."
+msgstr "Menambahkan halaman Daftar TOS."
+
+#: admin/settings/class-formbuilder.php:761
+#: admin/settings/class-formbuilder.php:767 upgrade.php:400
+msgid "Terms & Conditions"
+msgstr "Syarat & Ketentuan"
+
+#: admin/settings/class-formbuilder.php:746 upgrade.php:383
+msgid "GDPR Policy"
+msgstr "Kebijakan GDPR"
+
+#: admin/settings/class-formbuilder.php:742
+msgid "Adds Register GDPR page."
+msgstr "Menambahkan halaman DaftarKAN GDPR."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:793
+msgid "Content to display in profile tab. Shortcode allowed."
+msgstr "Konten untuk ditampilkan di tab profil. Shortcode diizinkan."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:770
+msgid "Enable to allow user to decide privacy for displaying profile tab and content."
+msgstr "Aktifkan untuk mengizinkan pengguna memutuskan privasi untuk menampilkan tab profil dan konten."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:734
+msgid "Select privacy for displaying profile tab and content."
+msgstr "Pilih privasi untuk menampilkan tab profil dan konten."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:721
+msgid "This will be the icon for profile tab."
+msgstr "Ini akan menjadi ikon untuk tab profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:694
+msgid "This will be the name of profile tab."
+msgstr "Ini akan menjadi nama tab profil."
+
+#: widgets/user-avatar.php:52
+msgid "Allow to change avatar:"
+msgstr "Izinkan untuk mengubah avatar:"
+
+#: widgets/user-badge.php:120
+msgid "Custom colors"
+msgstr "Warna kustom"
+
+#: widgets/user-badge.php:117
+msgid "Select the the badge color."
+msgstr "Pilih warna lencana."
+
+#: widgets/user-badge.php:116
+msgid "Badge Color"
+msgstr "Label Warna"
+
+#: widgets/user-badge.php:345
+msgid "is not empty"
+msgstr "tidak kosong"
+
+#: widgets/user-badge.php:344
+msgid "is empty"
+msgstr "kosong"
+
+#: widgets/user-badge.php:343
+msgid "is less than"
+msgstr "kurang dari"
+
+#: widgets/user-badge.php:342
+msgid "is greater than"
+msgstr "lebih besar dari"
+
+#: widgets/user-badge.php:341
+msgid "is not equal"
+msgstr "tidak sama"
+
+#: widgets/user-badge.php:340
+msgid "is equal"
+msgstr "tidak sama"
+
+#: widgets/user-badge.php:296
+msgid "Field key is missing"
+msgstr "Tombol bidang hilang"
+
+#: widgets/user-badge.php:293
+msgid "User ID is missing"
+msgstr "User ID hilang"
+
+#: widgets/user-badge.php:168
+msgid "Center"
+msgstr "Tengah"
+
+#: widgets/user-badge.php:164
+msgid "How the item should be positioned on the page."
+msgstr "Bagaimana item harus diposisikan pada halaman."
+
+#: widgets/user-badge.php:163
+msgid "Alignment:"
+msgstr "Perataan:"
+
+#: widgets/user-badge.php:155
+msgid "Extra Large"
+msgstr "Sangat Besar"
+
+#: widgets/user-badge.php:150
+msgid "Size of the badge."
+msgstr "Ukuran lencana."
+
+#: widgets/user-badge.php:149
+msgid "Badge size:"
+msgstr "Ukuran lencana:"
+
+#: widgets/user-badge.php:140
+msgid "Color for the badge text."
+msgstr "Warna untuk teks lencana."
+
+#: widgets/user-badge.php:139
+msgid "Badge text color:"
+msgstr "Warna teks lencana:"
+
+#: widgets/user-badge.php:130
+msgid "Color for the badge background."
+msgstr "Warna untuk latar belakang lencana."
+
+#: widgets/user-badge.php:129
+msgid "Badge background color:"
+msgstr "Warna latar belakang lencana:"
+
+#: widgets/user-badge.php:109 widgets/user-badge.php:154
+msgid "Large"
+msgstr "Besar"
+
+#: widgets/user-badge.php:108 widgets/user-badge.php:152
+msgid "Medium"
+msgstr "Sedang"
+
+#: widgets/user-badge.php:107 widgets/user-badge.php:153
+msgid "Small"
+msgstr "Kecil"
+
+#: widgets/user-badge.php:106 widgets/user-badge.php:166
+msgid "None"
+msgstr "Nihil"
+
+#: widgets/user-badge.php:103
+msgid "Select the shadow badge type."
+msgstr "Pilih jenis lencana bayangan."
+
+#: widgets/user-badge.php:102
+msgid "Shadow"
+msgstr "Bayang"
+
+#: widgets/user-badge.php:94
+msgid "Pill"
+msgstr "Pil"
+
+#: widgets/user-badge.php:93
+msgid "Badge"
+msgstr "Lambang"
+
+#: widgets/user-badge.php:90
+msgid "Select the badge type."
+msgstr "Pilih jenis lencana."
+
+#: widgets/user-badge.php:89
+msgid "Type"
+msgstr "Tipe"
+
+#: widgets/user-badge.php:250
+msgid "Change the button icon on hover. You can show a font-awesome icon here by entering the icon class."
+msgstr "Ubah ikon tombol pada hover. Anda dapat menampilkan ikon font-awesome di sini dengan memasukkan kelas ikon."
+
+#: widgets/user-badge.php:249
+msgid "Hover icon:"
+msgstr "Ikon hover:"
+
+#: widgets/user-badge.php:241
+msgid "Change the button text on hover. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%."
+msgstr "Mengubah teks tombol pada hover. Masukkan beberapa teks atau gunakan %%input%% untuk menggunakan nilai input dari bidang atau kunci bidang untuk info lain %%email%%."
+
+#: widgets/user-badge.php:240
+msgid "Hover content:"
+msgstr "Arahkan konten:"
+
+#: widgets/user-badge.php:236 widgets/user-badge.php:245
+#: widgets/user-badge.php:254
+msgid "Hover Action"
+msgstr "Aksi Hover"
+
+#: widgets/user-badge.php:232
+msgid "Reveals some text on hover. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%. (this can NOT be used with popover text)"
+msgstr "Mengungkapkan beberapa teks di hover. Masukkan beberapa teks atau gunakan %%input%% untuk menggunakan nilai input dari bidang atau kunci bidang untuk info lain %%email%%. (ini TIDAK dapat digunakan dengan teks popover)"
+
+#: widgets/user-badge.php:231
+msgid "Tooltip text:"
+msgstr "Teks tooltip:"
+
+#: widgets/user-badge.php:223
+msgid "Reveals some text onclick. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%."
+msgstr "Mengungkapkan beberapa onclick teks. Masukkan beberapa teks atau gunakan %%input%% untuk menggunakan nilai input dari bidang atau kunci bidang untuk info lain %%email%%."
+
+#: widgets/user-badge.php:222
+msgid "Popover text:"
+msgstr "Teks popover:"
+
+#: widgets/user-badge.php:214
+msgid "Reveals some title text onclick. Enter some text or use %%input%% to use the input value of the field or the field key for any other info %%email%%."
+msgstr "Mengungkapkan beberapa teks judul onclick. Masukkan beberapa teks atau gunakan %%input%% untuk menggunakan nilai input dari bidang atau kunci bidang untuk info lain %%email%%."
+
+#: widgets/user-badge.php:213
+msgid "Popover title:"
+msgstr "Judul popover:"
+
+#: widgets/user-badge.php:204
+msgid "This will open the link in a new window."
+msgstr "Ini akan membuka tautan di jendela baru."
+
+#: widgets/user-badge.php:203
+msgid "Open link in new window:"
+msgstr "Buka tautan di jendela baru:"
+
+#: widgets/user-badge.php:200 widgets/user-badge.php:209
+#: widgets/user-badge.php:218 widgets/user-badge.php:227
+msgid "Click Action"
+msgstr "Klik Tindakan"
+
+#: widgets/user-badge.php:196
+msgid "Badge link url. You can use this to make the button link to something, %%input%% can be used here if a link or %%profile_url%% for the user profile url."
+msgstr "Url tautan lencana. Anda dapat menggunakan ini untuk membuat link tombol ke sesuatu, %%input%% dapat digunakan di sini jika link atau %%profile_url%% untuk url profil pengguna."
+
+#: widgets/user-badge.php:195
+msgid "Link url:"
+msgstr "Url tautan:"
+
+#: widgets/user-badge.php:82
+msgid "Badge text. Leave blank to show field title as a badge, or use %%input%% to use the input value of the field or %%profile_url%% for the user profile url, or the field key for any other info %%email%%."
+msgstr "Teks lencana. Biarkan kosong untuk menampilkan judul bidang sebagai lencana, atau gunakan %%input%% untuk menggunakan nilai input bidang atau %%profile_url%% untuk url profil pengguna, atau kunci bidang untuk info lain %%email%%."
+
+#: widgets/user-badge.php:81
+msgid "Badge:"
+msgstr "Lencana:"
+
+#: widgets/user-badge.php:178
+msgid "You can show a font-awesome icon here by entering the icon class."
+msgstr "Anda dapat menampilkan ikon font-awesome di sini dengan memasukkan kelas ikon."
+
+#: widgets/user-badge.php:177
+msgid "Icon class:"
+msgstr "Kelas ikon:"
+
+#: widgets/user-badge.php:72
+msgid "Match this text with field value to display user badge."
+msgstr "Cocokkan teks ini dengan nilai bidang untuk menampilkan lencana pengguna."
+
+#: widgets/user-badge.php:71
+msgid "Value to match:"
+msgstr "Nilai yang cocok:"
+
+#: widgets/user-badge.php:62
+msgid "Select the custom field condition."
+msgstr "Pilih kondisi bidang kustom."
+
+#: widgets/user-badge.php:61
+msgid "Field condition:"
+msgstr "Kondisi lapangan:"
+
+#: widgets/user-badge.php:51
+msgid "Field Key:"
+msgstr "Tombol Bidang:"
+
+#: widgets/user-badge.php:43 widgets/user-badge.php:44
+msgid "Leave blank to use current user id."
+msgstr "Biarkan kosong untuk menggunakan id pengguna saat ini."
+
+#: widgets/user-badge.php:26
+msgid "Displays the user badge."
+msgstr "Menampilkan lencana pengguna."
+
+#: widgets/user-badge.php:22
+msgid "UWP > User Badge"
+msgstr "UWP • Lencana Pengguna"
+
+#: admin/class-admin.php:729
+msgid "Activate Users"
+msgstr "Aktifkan Pengguna"
+
+#: includes/class-templates.php:1179
+msgid " (Default)"
+msgstr "(Bawaan)"
+
+#: includes/class-validation.php:239
+msgid "<strong>Error</strong>: Username must be %s characters or more."
+msgstr "<strong>Galat</strong>: Nama pengguna harus karakter %s atau lebih."
+
+#: admin/class-admin-setup-wizard.php:678
+msgid "Allows you to install any purchased AyeCode Ltd product add-ons without a zip file. It also installs and activates licences automatically, so there is no need to copy/paste licenses."
+msgstr "Memungkinkan Anda untuk menginstal add-on AyeCode Ltd produk yang dibeli tanpa file zip. Ini juga menginstal dan mengaktifkan lisensi secara otomatis, sehingga tidak perlu untuk copy/paste lisensi."
+
+#: admin/class-admin.php:471
+msgid "Pending Email Activation"
+msgstr "Aktivasi Email Tertunda"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:772
+msgid "N/A"
+msgstr "N/A"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:752
+msgid "%s (Not Changeable)"
+msgstr "%s (Tidak Dapat Diubah)"
+
+#: admin/settings/class-uwp-settings-general.php:534
+msgid "Don't allow users to delete their own account. Default enabled."
+msgstr "Jangan izinkan pengguna menghapus akun mereka sendiri. Default diaktifkan."
+
+#: admin/settings/class-uwp-settings-general.php:533
+msgid "Disable Account Delete"
+msgstr "Nonaktifkan Penghapusan Akun"
+
+#: admin/settings/class-uwp-settings-general.php:526
+msgid "User Account Settings"
+msgstr "Pengaturan Akun Pengguna"
+
+#: admin/settings/class-uwp-settings-general.php:509
+msgid "Select users to exclude from the users listing."
+msgstr "Pilih pengguna yang akan dikecualikan dari listingan pengguna."
+
+#: admin/settings/class-uwp-settings-general.php:502
+msgid "Enter number of items to display in users list page."
+msgstr "Masukkan jumlah item yang akan ditampilkan di halaman daftar pengguna."
+
+#: admin/settings/class-uwp-settings-general.php:166
+msgid "Maximum Password limit user should enter in the form."
+msgstr "Maksimum Sandi batas pengguna harus memasukkan dalam bentuk."
+
+#: admin/settings/class-uwp-settings-general.php:165
+msgid "Maximum Password Limit"
+msgstr "Batas Kata Sandi Maksimum"
+
+#: admin/settings/class-uwp-settings-general.php:157
+msgid "Minimum Password limit user should enter in the form."
+msgstr "Minimum Sandi batas pengguna harus memasukkan dalam bentuk."
+
+#: admin/settings/class-uwp-settings-general.php:156
+msgid "Minimum Password Limit"
+msgstr "Batas Kata Sandi Minimum"
+
+#: includes/class-forms.php:1607
+msgid "Invalid email or user doesn't exists."
+msgstr "Email atau pengguna tidak valid tidak ada."
+
+#: includes/class-uwp-seo.php:97
+msgid "Enter the meta description to use for the page."
+msgstr "Masukkan deskripsi meta yang akan digunakan untuk halaman."
+
+#: includes/class-uwp-seo.php:94
+msgid "Meta Description"
+msgstr "Meta Deskripsi"
+
+#: includes/class-uwp-seo.php:86 includes/class-uwp-seo.php:101
+msgid "Available SEO tags:"
+msgstr "Tag SEO yang tersedia:"
+
+#: includes/class-uwp-seo.php:82
+msgid "Meta Title"
+msgstr "Judul Meta"
+
+#: includes/class-uwp-seo.php:65
+msgid "Choose the symbol to use as your title separator. This will display, for instance, between your user profile title and site name. Symbols are shown in the size they will appear in the search results."
+msgstr "Pilih simbol yang akan digunakan sebagai pemisah judul Anda. Ini akan menampilkan, misalnya, antara judul profil pengguna dan nama situs Anda. Simbol ditampilkan dalam ukuran yang akan muncul di hasil pencarian."
+
+#: includes/class-uwp-seo.php:61
+msgid "Title separator"
+msgstr "Pemisah judul"
+
+#: includes/class-uwp-seo.php:53
+msgid "This will disable adding SEO meta tags on profile page."
+msgstr "Ini akan menonaktifkan menambahkan tag meta SEO pada halaman profil."
+
+#: includes/class-uwp-seo.php:52
+msgid "Disable meta tags"
+msgstr "Menonaktifkan tag meta"
+
+#: includes/class-uwp-seo.php:44
+msgid "Profile SEO"
+msgstr "Profil SEO"
+
+#: includes/helpers/forms.php:185
+msgid "Choose %s&hellip;"
+msgstr "Pilih %s..."
+
+#: admin/class-admin-setup-wizard.php:332
+msgid " Anyone can register"
+msgstr " Siapapun dapat mendaftar"
+
+#: admin/class-admin-setup-wizard.php:295
+#: admin/class-admin-setup-wizard.php:329
+msgid " User registration is currently not allowed."
+msgstr " Pendaftaran pengguna tidak diizinkan saat ini."
+
+#: admin/settings/class-uwp-settings-general.php:435
+msgid "Profile banner height"
+msgstr "Tinggi banner profil"
+
+#: admin/settings/class-uwp-settings-general.php:421
+msgid "Profile avatar height"
+msgstr "Tinggi avatar profil"
+
+#: admin/settings/class-uwp-settings-general.php:414
+msgid "Profile avatar width"
+msgstr "Lebar avatar profil"
+
+#: admin/settings/class-formbuilder.php:1510
+msgid "Enter placeholder text for this field."
+msgstr "Masukkan teks placeholder untuk bidang ini."
+
+#: admin/settings/class-formbuilder.php:1505
+msgid "Placeholder :"
+msgstr "Placeholder:"
+
+#: admin/settings/class-formbuilder.php:1504
+msgid "Display placeholder text for this field."
+msgstr "Tampilkan teks placeholder untuk bidang ini."
+
+#: templates/bootstrap/modal-profile-image.php:94
+#: templates/modal-profile-image.php:45
+msgid "Reset to Default"
+msgstr "Atur ulang ke Default"
+
+#: includes/class-forms.php:4544
+msgid "Privacy settings updated successfully."
+msgstr "Pengaturan privasi berhasil diperbarui."
+
+#: includes/class-forms.php:101
+msgid "Banner reset successfully."
+msgstr "Banner reset berhasil."
+
+#: includes/class-forms.php:94
+msgid "Avatar reset successfully."
+msgstr "Avatar berhasil mengatur ulang."
+
+#: includes/class-user-notifications.php:106
+msgid "Notification settings updated successfully."
+msgstr "Pengaturan pemberitahuan berhasil diperbarui."
+
+#: includes/class-notices.php:63
+msgid "Resend"
+msgstr "Kirim lagi"
+
+#: widgets/user-cover.php:46
+msgid "Allow user to change cover image in profile page."
+msgstr "Izinkan pengguna untuk mengubah gambar sampul di halaman profil."
+
+#: widgets/user-cover.php:45
+msgid "Allow to change cover:"
+msgstr "Izinkan untuk mengubah penutup:"
+
+#: widgets/user-cover.php:37
+msgid "Link cover image to user's profile page."
+msgstr "Gambar sampul tautan ke halaman profil pengguna."
+
+#: widgets/user-cover.php:32
+msgid "Displays user cover image for user."
+msgstr "Menampilkan gambar sampul pengguna untuk pengguna."
+
+#: widgets/user-cover.php:27
+msgid "UWP > User Cover Image"
+msgstr "UWP : Gambar Sampul Pengguna"
+
+#: widgets/user-post-counts.php:30
+msgid "Display user post, comments and other custom post type counts."
+msgstr "Tampilkan postingan pengguna, komentar, dan jumlah jenis postingan kustom lainnya."
+
+#: widgets/user-post-counts.php:25
+msgid "UWP > User Post Counts"
+msgstr "UWP : Jumlah Posting Pengguna"
+
+#: widgets/user-avatar.php:53
+msgid "Allow user to change avatar image in profile page."
+msgstr "Izinkan pengguna untuk mengubah gambar avatar di halaman profil."
+
+#: widgets/user-avatar.php:31
+msgid "Displays user avatar image for user."
+msgstr "Menampilkan gambar avatar pengguna untuk pengguna."
+
+#: includes/class-tools.php:832
+msgid "This tool will collect any texts stored in the DB and put them in the file db-language.php so they can then be used to translate them by translations tools."
+msgstr "Alat ini akan mengumpulkan teks yang disimpan dalam DB dan memasukkannya ke dalam file db-language.php sehingga mereka kemudian dapat digunakan untuk menerjemahkannya dengan alat terjemahan."
+
+#: includes/class-tools.php:831
+msgid "DB text translation"
+msgstr "Terjemahan teks DB"
+
+#: includes/helpers/misc.php:1319
+msgid "Something went wrong, please retry."
+msgstr "Ada yang tidak beres, coba lagi."
+
+#: admin/class-admin.php:108
+msgid "Something went wrong, please refresh and try again."
+msgstr "Ada yang tidak beres, silakan refresh dan coba lagi."
+
+#: admin/class-admin.php:107
+msgid "This service will only work with a live domain, not a localhost."
+msgstr "Layanan ini hanya akan bekerja dengan domain langsung, bukan localhost."
+
+#: admin/class-admin.php:106
+msgid "Connecting..."
+msgstr "Menghubungkan..."
+
+#: admin/class-admin.php:105
+msgid "Connect Site"
+msgstr "Hubungkan Situs"
+
+#: admin/class-admin.php:104
+msgid "<strong>Have a license?</strong> Forget about entering license keys or downloading zip files, connect your site for instant access. %slearn more%s"
+msgstr "<strong>Punya lisensi?</strong> Lupakan memasukkan kunci lisensi atau mengunduh file zip, hubungkan situs Anda untuk akses cepat. %spelajari lebih%s"
+
+#: admin/class-admin.php:103
+msgid "Please confirm you wish to connect your site?"
+msgstr "Silakan konfirmasi Anda ingin menghubungkan situs Anda?"
+
+#: admin/class-admin.php:102
+msgid "UsersWP - an AyeCode product!"
+msgstr "UsersWP - produk AyeCode!"
+
+#: includes/class-forms.php:841
+msgid "Password you entered during registration."
+msgstr "Kata sandi yang Anda masukkan saat pendaftaran."
+
+#: admin/settings/class-uwp-settings-emails.php:639
+msgid "Plain text"
+msgstr "Teks biasa"
+
+#: admin/settings/class-formbuilder.php:1083
+#: admin/settings/class-uwp-settings-emails.php:637
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/settings/class-uwp-settings-emails.php:601
+msgid "The footer text color. Default <code>#dddddd</code>."
+msgstr "Warna teks footer. Default <code>#dddddd</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:600
+msgid "Footer Text Color"
+msgstr "Warna teks footer"
+
+#: admin/settings/class-uwp-settings-emails.php:592
+msgid "The footer background color of email template. Default <code>#666666</code>."
+msgstr "Warna latar belakang footer template email. Default <code>#666666</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:591
+msgid "Footer Background Color"
+msgstr "Warna Latar Belakang Footer"
+
+#: admin/settings/class-uwp-settings-emails.php:583
+msgid "The footer text color. Default <code>#ffffff</code>."
+msgstr "Warna teks footer. Default <code>#ffffff</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:582
+msgid "Header Text Color"
+msgstr "Warna Teks Header"
+
+#: admin/settings/class-uwp-settings-emails.php:574
+msgid "The header background color of email template. Default <code>#555555</code>."
+msgstr "Warna latar belakang header template email. Default <code>#555555</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:573
+msgid "Header Background Color"
+msgstr "Header Warna Latar Belakang"
+
+#: admin/settings/class-uwp-settings-emails.php:565
+msgid "The main body text color. Default <code>#505050</code>."
+msgstr "Warna teks badan utama. Default <code>#505050</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:564
+msgid "Body Text Color"
+msgstr "Warna Teks Body"
+
+#: admin/settings/class-uwp-settings-emails.php:556
+msgid "The main body background color of email template. Default <code>#fdfdfd</code>."
+msgstr "Warna latar belakang utama dari template email. Default <code>#fdfdfd</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:555
+msgid "Body Background Color"
+msgstr "Warna Latar Belakang Body"
+
+#: admin/settings/class-uwp-settings-emails.php:547
+msgid "The background color of email template. Default <code>#f5f5f5</code>."
+msgstr "Warna latar belakang template email. Default <code>#f5f5f5</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:546
+msgid "Background Color"
+msgstr "Warna Latar"
+
+#: admin/settings/class-uwp-settings-emails.php:538
+msgid "The base color for UsersWP email template. Default <code>#557da2</code>."
+msgstr "Warna dasar untuk template email UsersWP. Default <code>#557da2</code> ."
+
+#: admin/settings/class-uwp-settings-emails.php:537
+msgid "Base Color"
+msgstr "Warna Dasar"
+
+#: admin/settings/class-uwp-settings-emails.php:528
+msgid "The text to appear in the footer of all UsersWP emails."
+msgstr "Teks yang muncul di footer semua email UsersWP."
+
+#: admin/settings/class-uwp-settings-emails.php:527
+msgid "Footer Text"
+msgstr "Teks Footer"
+
+#: admin/settings/class-uwp-settings-emails.php:520
+msgid "Upload a logo to be displayed at the top of the emails. Displayed on HTML emails only."
+msgstr "Unggah logo yang akan ditampilkan di bagian atas email. Ditampilkan hanya pada email HTML."
+
+#: admin/settings/class-uwp-settings-emails.php:519
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/settings/class-uwp-settings-emails.php:512
+msgid "Select format of the email to send."
+msgstr "Pilih format email yang akan dikirim."
+
+#: admin/settings/class-uwp-settings-emails.php:511
+msgid "Email type"
+msgstr "Tipe email"
+
+#: admin/settings/class-uwp-settings-emails.php:506
+msgid "This section lets you customize the UsersWP email template. %sClick here to preview your email template%s."
+msgstr "Bagian ini memungkinkan Anda menyesuaikan template email UsersWP. %sKlik di sini untuk melihat pratinjau template email Anda%s."
+
+#: admin/settings/class-uwp-settings-emails.php:506
+msgid "Email Template"
+msgstr "Template Email"
+
+#: admin/settings/class-uwp-settings-emails.php:497
+msgid "How the sender email appears in outgoing UsersWP emails."
+msgstr "Bagaimana email pengirim muncul di email UsersWP keluar."
+
+#: admin/settings/class-uwp-settings-emails.php:496
+msgid "Email address"
+msgstr "Alamat surel"
+
+#: admin/settings/class-uwp-settings-emails.php:489
+msgid "How the sender name appears in outgoing UsersWP emails."
+msgstr "Bagaimana nama pengirim muncul di email UsersWP keluar."
+
+#: admin/settings/class-uwp-settings-emails.php:488
+msgid "Sender name"
+msgstr "Nama pengirim"
+
+#: admin/settings/class-uwp-settings-emails.php:485
+msgid "Email sender options"
+msgstr "Pilihan Pengirim Email"
+
+#: admin/settings/class-uwp-settings-emails.php:451
+msgid "Send an email to user after deleting account from the site."
+msgstr "Kirim email ke pengguna setelah menghapus akun dari situs."
+
+#: admin/settings/class-uwp-settings-emails.php:150
+msgid "Send an email to admin after user account deleted from the site."
+msgstr "Kirim email ke admin setelah akun pengguna dihapus dari situs."
+
+#: admin/settings/class-uwp-settings-emails.php:146
+#: admin/settings/class-uwp-settings-emails.php:447
+msgid "Account delete email"
+msgstr "Email hapus akun"
+
+#: admin/settings/class-uwp-settings-emails.php:67
+msgid "Email Options"
+msgstr "Opsi Email"
+
+#: admin/settings/class-formbuilder.php:784
+msgid "Let users enter their website url."
+msgstr "Biarkan pengguna memasukkan url situs web mereka."
+
+#: admin/settings/class-formbuilder.php:783
+#: admin/settings/class-formbuilder.php:788
+msgid "Website"
+msgstr "Situs"
+
+#: includes/class-uwp-defaults.php:317
+msgid ""
+"Dear Admin,\n"
+"\n"
+"User has deleted own account from the site.\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Admin yang terhormat,\n"
+"\n"
+"Pengguna telah menghapus akun sendiri dari situs.\n"
+"\n"
+"[#login_details# ]\n"
+"\n"
+"Terima kasih\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:307
+msgid "[#site_name#] - Account has been deleted by a user."
+msgstr "[#site_name#] - Akun telah dihapus oleh pengguna."
+
+#: includes/class-uwp-defaults.php:291
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your account has been deleted successfully.\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Yang terhormat [#user_name#],\n"
+"\n"
+"Akun Anda telah berhasil dihapus.\n"
+"\n"
+"Terima kasih\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:281
+msgid "[#site_name#] - Your account has been deleted."
+msgstr "[#site_name#] - Akun Anda telah dihapus."
+
+#: includes/class-emails.php:531
+msgid ""
+"Email from UsersWP failed to send.\n"
+"Time: %s\n"
+"To: %s\n"
+"Subject: %s\n"
+"Error: %s\n"
+"\n"
+msgstr ""
+"Email from UsersWP failed to send.\n"
+"Time: %s\n"
+"To: %s\n"
+"Subject: %s\n"
+"Error: %s\n"
+"\n"
+
+#: admin/settings/class-uwp-settings-emails.php:624
+#: includes/class-emails.php:96
+msgid "%s - Powered by UsersWP"
+msgstr "%s - Didukung oleh UsersWP"
+
+#: includes/class-uwp-privacy-exporters.php:28
+msgid "The UsersWP user data"
+msgstr "UserWP User Data"
+
+#: includes/class-uwp-privacy-exporters.php:27
+msgid "UsersWP user data"
+msgstr "UserWP User Data"
+
+#: includes/template-functions.php:95
+msgid "%s does not exist."
+msgstr "%s tidak ada."
+
+#: includes/class-account.php:150
+msgid "Deleted user information :"
+msgstr "Informasi pengguna yang dihapus :"
+
+#: includes/class-account.php:169
+msgid "<strong>Error</strong>: Super Administrators cannot be deleted."
+msgstr "<strong>Galat:</strong>Administrator super tidak dapat dihapus."
+
+#: includes/class-account.php:115
+msgid "<strong>Error</strong>: Incorrect password."
+msgstr "<strong>Kesalahan</strong>: password lama salah."
+
+#: includes/class-account.php:77 includes/helpers/misc.php:574
+#: includes/helpers/tabs.php:154
+msgid "Delete Account"
+msgstr "Hapus Akun"
+
+#: includes/class-forms.php:3851
+msgid "By using this form I agree to the storage and handling of my data by this website. View our %s %s %s."
+msgstr "Dengan menggunakan formulir ini saya setuju dengan penyimpanan dan penanganan data saya oleh situs web ini. Lihat %s %s %s kami."
+
+#: admin/class-admin-setup-wizard.php:690
+msgid "This plugin allows you to implement a super security captcha into forms like registration, login forms etc."
+msgstr "Plugin ini memungkinkan Anda untuk menerapkan captcha keamanan super ke dalam bentuk-bentuk seperti pendaftaran, formulir login dll."
+
+#: admin/class-admin-setup-wizard.php:689
+msgid "UsersWP – ReCaptcha"
+msgstr "UsersWP – ReCaptcha"
+
+#: admin/class-admin-setup-wizard.php:684
+msgid "This plugin lets your user to register and login with popular sites like Facebook, Google, Twitter, LinkedIn, Instagram, Yahoo, WordPress, vkontakte etc."
+msgstr "Plugin ini memungkinkan pengguna Anda untuk mendaftar dan login dengan situs populer seperti Facebook, Google, Twitter, LinkedIn, Instagram, Yahoo, WordPress, vkontakte dll."
+
+#: admin/class-admin-setup-wizard.php:683
+msgid "UsersWP – Social Login"
+msgstr "UsersWP – Login Sosial"
+
+#: admin/class-admin-setup-wizard.php:643
+msgid "Tick to install"
+msgstr "Centang untuk menginstal"
+
+#: admin/class-admin-setup-wizard.php:606
+msgid "Below are a few recommended plugins that will help you with your site."
+msgstr "Berikut adalah beberapa plugin yang direkomendasikan yang akan membantu Anda dengan situs Anda."
+
+#: admin/class-admin-setup-wizard.php:605
+msgid "Recommended Plugins"
+msgstr "Daftar plugin yang disarankan"
+
+#: admin/class-admin-setup-wizard.php:86
+msgid "Recommend"
+msgstr "Rekomendasikan"
+
+#: admin/settings/class-formbuilder.php:741
+msgid "GDPR Policy Page"
+msgstr "Halaman Kebijakan GDPR"
+
+#: admin/class-admin-setup-wizard.php:295
+#: admin/class-admin-setup-wizard.php:329 includes/class-notices.php:25
+msgid "Heads Up!"
+msgstr "Kepala Up!"
+
+#: includes/class-forms.php:2112 includes/class-forms.php:2142
+msgid "User Information:"
+msgstr "Informasi Pengguna:"
+
+#: includes/class-forms.php:536 includes/class-forms.php:1118
+#: includes/class-forms.php:1565
+msgid "Security verification failed. Try again."
+msgstr "Verifikasi keamanan gagal. Coba lagi."
+
+#: includes/class-tools.php:1125
+msgid "Something went wrong, you can manually add items in Appearance > Menus"
+msgstr "Sesuatu yang tidak beres, Anda dapat secara manual menambahkan item dalam Appearance> menu"
+
+#: includes/class-tools.php:1123
+msgid "Menu items added successfully."
+msgstr "Item menu ditambahkan berhasil."
+
+#: includes/class-tools.php:1121
+msgid "Menu items already exist, none added."
+msgstr "Item menu sudah ada, tidak ada ditambahkan."
+
+#: includes/class-tools.php:1115
+msgid "Menu already exists."
+msgstr "Menu sudah ada."
+
+#: includes/class-tools.php:1037 includes/class-tools.php:1048
+msgid "The menu is not valid."
+msgstr "Menu tidak valid."
+
+#: admin/class-admin-setup-wizard.php:723
+msgid "Have questions? Get help."
+msgstr "Ada pertanyaan? Dapatkan bantuan."
+
+#: admin/class-admin-setup-wizard.php:719
+msgid "Get Userswp advice in your inbox"
+msgstr "Dapatkan saran Userswp di kotak masuk Anda"
+
+#: admin/class-admin-setup-wizard.php:715
+msgid "Getting started guide"
+msgstr "Panduan memulai"
+
+#: admin/class-admin-setup-wizard.php:711
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: admin/class-admin-setup-wizard.php:708
+msgid "Thank you for using UsersWP :)"
+msgstr "Terima kasih telah menggunakan UsersWP :)"
+
+#: admin/class-admin-setup-wizard.php:706
+msgid "Awesome, you are ready to go!"
+msgstr "Mengagumkan, Anda siap untuk pergi!"
+
+#: admin/class-admin-setup-wizard.php:478
+msgid "Create Users"
+msgstr "Buat Pengguna"
+
+#: admin/class-admin-setup-wizard.php:470
+msgid "Dummy Users for Testing. Password for all dummy users: <strong>%s</strong>"
+msgstr "Dummy Pengguna untuk Pengujian. Kata sandi untuk semua pengguna dummy: <strong>%s</strong>"
+
+#: admin/class-admin-setup-wizard.php:445
+msgid "Insert menu items"
+msgstr "Menyisipkan item menu"
+
+#: admin/class-admin-setup-wizard.php:429
+msgid "Create new menu in:"
+msgstr "Buat menu baru di:"
+
+#: admin/class-admin-setup-wizard.php:406
+#: admin/class-admin-setup-wizard.php:433
+msgid "( Auto detected )"
+msgstr "( Auto terdeteksi )"
+
+#: admin/class-admin-setup-wizard.php:376
+msgid "Select the theme main menu"
+msgstr "Pilih menu utama tema"
+
+#: admin/class-admin-setup-wizard.php:362
+msgid "Members Directory"
+msgstr "Direktori Anggota"
+
+#: admin/class-admin-setup-wizard.php:356
+msgid "User Profiles"
+msgstr "Profil pengguna"
+
+#: admin/class-admin-setup-wizard.php:350
+msgid "Login/Register"
+msgstr "Masuk/Daftar"
+
+#: admin/class-admin-setup-wizard.php:274
+#: admin/class-admin-setup-wizard.php:662
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: admin/class-admin-setup-wizard.php:272
+#: admin/class-admin-setup-wizard.php:660
+msgid "Skip this step"
+msgstr "Lewati langkah ini"
+
+#: admin/class-admin-setup-wizard.php:249
+msgid "Menus"
+msgstr "Menus"
+
+#: admin/class-admin-setup-wizard.php:248
+msgid "How will you use UsersWP"
+msgstr "Bagaimana Anda akan menggunakan UsersWP"
+
+#: admin/class-admin-setup-wizard.php:208
+msgid "Let's go!"
+msgstr "Ayo!"
+
+#: admin/class-admin-setup-wizard.php:206
+msgid "Not right now"
+msgstr "Tidak saat ini"
+
+#: admin/class-admin-setup-wizard.php:202
+msgid "No time right now? If you don't want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr "Tidak ada waktu sekarang? Jika Anda tidak ingin melewati wizard, Anda dapat melewati dan kembali ke dasbor WordPress. Kembali kapan saja jika Anda berubah pikiran!"
+
+#: admin/class-admin-setup-wizard.php:201
+msgid "This quick setup wizard will help you configure the basic settings. It's completely optional and shouldn't take longer than two minutes."
+msgstr "Wizard penyiapan cepat ini akan membantu Anda mengonfigurasi setelan dasar. Ini sepenuhnya opsional dan tidak boleh memakan waktu lebih dari dua menit."
+
+#: admin/class-admin-setup-wizard.php:200
+msgid "Thank you for choosing UsersWP!"
+msgstr "Terima kasih telah memilih UsersWP!"
+
+#: admin/class-admin-setup-wizard.php:189
+msgid "Return to the WordPress Dashboard"
+msgstr "Kembali ke Dashboard WordPress"
+
+#: admin/class-admin-setup-wizard.php:143
+msgid "Userswp &rsaquo; Setup Wizard"
+msgstr "Userswp › Wizard Penyiapan"
+
+#: admin/class-admin-setup-wizard.php:91
+msgid "Ready!"
+msgstr "Siap!"
+
+#: admin/class-admin-setup-wizard.php:81
+msgid "Content"
+msgstr "Isi"
+
+#: admin/class-admin-setup-wizard.php:76
+msgid "Introduction"
+msgstr "Pengantar"
+
+#: admin/class-admin-setup-wizard.php:55
+msgid "Cheatin&#8217; huh?"
+msgstr "Mau curang, ya?"
+
+#: admin/class-admin-setup-wizard.php:38
+msgid "Skip setup"
+msgstr "Lewati penyiapan"
+
+#: admin/class-admin-setup-wizard.php:36
+msgid "Run the Setup Wizard"
+msgstr "Jalankan Wizard penyiapan"
+
+#: admin/class-admin-setup-wizard.php:33
+msgid "<strong>Welcome to UsersWP</strong> &#8211; You&lsquo;re almost ready to start your site. :)"
+msgstr "<strong>Selamat datang di UsersWP</strong> - Anda hampir siap untuk memulai situs Anda. :)"
+
+#: admin/settings/class-uwp-settings-general.php:767
+msgid "Grid View - 1 Column (List View)"
+msgstr "Tampilan Grid - Kolom 1 (Tampilan Daftar)"
+
+#: admin/settings/class-uwp-settings-general.php:225
+#: admin/settings/class-uwp-settings-redirects.php:137
+msgid "Set the custom url to redirect the user to after logging in."
+msgstr "Atur url kustom untuk mengalihkan pengguna setelah masuk."
+
+#: admin/settings/class-uwp-settings-general.php:224
+#: admin/settings/class-uwp-settings-redirects.php:136
+msgid "Redirect Custom URL"
+msgstr "Alihkan URL Kustom"
+
+#: admin/settings/class-formbuilder.php:411
+#: admin/settings/class-uwp-settings-general.php:185
+#: admin/settings/class-uwp-settings-redirects.php:93
+msgid "Custom Redirect"
+msgstr "Pengalihan Khusus"
+
+#: admin/settings/class-formbuilder.php:410
+#: admin/settings/class-uwp-settings-general.php:184
+#: admin/settings/class-uwp-settings-redirects.php:92
+msgid "Default Redirect"
+msgstr "Pengalihan default"
+
+#: admin/class-uwp-admin-help.php:98
+msgid "Official extensions"
+msgstr "Ekstensi resmi"
+
+#: admin/class-uwp-admin-help.php:97
+msgid "Github project"
+msgstr "Github project"
+
+#: admin/class-uwp-admin-help.php:96
+msgid "WordPress.org project"
+msgstr "WordPress.org project"
+
+#: admin/class-uwp-admin-help.php:95
+msgid "About UsersWP"
+msgstr "Tentang UsersWP"
+
+#: admin/class-uwp-admin-help.php:94
+msgid "For more information:"
+msgstr "Untuk informasi lebih lanjut:"
+
+#: admin/class-uwp-admin-help.php:85
+msgid "Running the wizard again will not delete your current settings. You will have the option to change any current settings."
+msgstr "Menjalankan wizard lagi tidak akan menghapus pengaturan Anda saat ini. Anda akan memiliki pilihan untuk mengubah pengaturan saat ini."
+
+#: admin/class-uwp-admin-help.php:84
+msgid "If you need to access the setup wizard again, please click on the button below."
+msgstr "Jika Anda perlu untuk mengakses setup wizard lagi, silakan klik pada tombol di bawah."
+
+#: admin/class-uwp-admin-help.php:76
+msgid "Report a bug"
+msgstr "Laporan bug"
+
+#: admin/class-uwp-admin-help.php:75
+msgid "If you find a bug within UsersWP core you can create a ticket via <a href=\"%1$s\">Github issues</a>. Ensure you read the <a href=\"%2$s\">contribution guide</a> prior to submitting your report. To help us solve your issue, please be as descriptive as possible and include your <a href=\"%3$s\">system status report</a>"
+msgstr "Jika Anda menemukan bug dalam inti UsersWP Anda dapat membuat tiket melalui <a href=\"%1$s\">isu-isu Github</a>. Pastikan Anda membaca <a href=\"%2$s\">panduan kontribusi</a> sebelum mengirimkan laporan. Untuk membantu kami memecahkan masalah Anda, harap menjadi deskriptif mungkin dan sertakan laporan <a href=\"%3$s\">status sistem Anda</a>"
+
+#: admin/class-uwp-admin-help.php:68
+msgid "UsersWP support"
+msgstr "Dukungan UsersWP"
+
+#: admin/class-uwp-admin-help.php:67
+msgid "Before asking for help we recommend checking the system status page to identify any problems with your configuration."
+msgstr "Sebelum meminta bantuan kami sarankan memeriksa halaman status sistem untuk mengidentifikasi masalah dengan konfigurasi Anda."
+
+#: admin/class-uwp-admin-help.php:66
+msgid "For further assistance with UsersWP core or with premium extensions sold by UsersWP you can use our <a href=\"%1$s\">support forums</a>."
+msgstr "Untuk bantuan lebih lanjut dengan UsersWP inti atau dengan ekstensi premium yang dijual oleh UsersWP Anda dapat menggunakan <a href=\"%1$s\">forum dukungan kami</a>."
+
+#: admin/class-uwp-admin-help.php:65
+msgid "Should you need help understanding, using, or extending UsersWP <a href=\"%1$s\">please read our documentation</a>. You will find all kinds of resources including snippets, tutorials and much more.,"
+msgstr "Jika Anda memerlukan bantuan memahami, menggunakan, atau memperluas UsersWP <a href=\"%1$s\">silahkan baca dokumentasi kami.</a> Anda akan menemukan semua jenis sumber daya termasuk potongan, tutorial dan banyak lagi.,"
+
+#: admin/class-uwp-admin-help.php:64
+msgid "Help & Support"
+msgstr "Bantuan & amp; Dukungan"
+
+#: admin/class-uwp-admin-help.php:50 admin/class-uwp-admin-help.php:83
+#: admin/class-uwp-admin-help.php:86
+msgid "Setup wizard"
+msgstr "Wizard pengaturan"
+
+#: admin/class-uwp-admin-help.php:44 admin/class-uwp-admin-help.php:74
+msgid "Found a bug?"
+msgstr "Menemukan bug?"
+
+#: admin/class-uwp-admin-help.php:38
+msgid "Help &amp; Support"
+msgstr "Bantuan & amp; Dukungan"
+
+#: includes/libraries/class-geodirectory-plugin.php:351
+msgid "Lists"
+msgstr "Daftar"
+
+#: includes/class-templates.php:1140
+msgid "Tab Name"
+msgstr "Nama Tab"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:771
+msgid "Let user decide :"
+msgstr "Memungkinakan pengguna memutuskan:"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:742
+#: includes/class-templates.php:1160
+msgid "Author only"
+msgstr "Penulis saja"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:741
+#: includes/class-templates.php:1159
+msgid "Logged in"
+msgstr "Masuk"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:740
+#: includes/class-templates.php:1158
+msgid "Anyone"
+msgstr "Siapa Saja"
+
+#: templates/bootstrap/profile-header.php:71
+#: templates/bootstrap/user-avatar.php:34 templates/profile-header.php:70
+#: templates/user-avatar.php:32
+msgid "User avatar"
+msgstr "Avatar pengguna"
+
+#: templates/bootstrap/profile-header.php:34
+#: templates/bootstrap/user-cover.php:30 templates/profile-header.php:43
+#: templates/user-cover.php:31
+msgid "User banner image"
+msgstr "Gambar banner pengguna"
+
+#: includes/class-profile.php:1793
+msgid "File too big."
+msgstr "File terlalu besar."
+
+#: includes/class-notices.php:181
+msgid "View Settings"
+msgstr "Lihat Pengaturan"
+
+#: includes/class-notices.php:179
+msgid "Yoast SEO has disabled user profiles, please enable them."
+msgstr "Yoast SEO telah menonaktifkan profil pengguna, aktifkan mereka."
+
+#: admin/settings/class-formbuilder.php:957
+msgid "WordPress url"
+msgstr "Url WordPress"
+
+#: admin/settings/class-formbuilder.php:953
+msgid "Let users enter their WordPress profile url."
+msgstr "Biarkan pengguna memasukkan url profil WordPress mereka."
+
+#: admin/settings/class-formbuilder.php:952 includes/helpers/pages.php:577
+msgid "WordPress"
+msgstr "WordPress"
+
+#: admin/settings/class-formbuilder.php:936
+msgid "YouTube url"
+msgstr "Url YouTube"
+
+#: admin/settings/class-formbuilder.php:932
+msgid "Let users enter their YouTube url."
+msgstr "Mengizinkan pengguna memasukkan url YouTube mereka."
+
+#: admin/settings/class-formbuilder.php:931 includes/helpers/pages.php:576
+msgid "YouTube"
+msgstr "YouTube"
+
+#: admin/settings/class-formbuilder.php:915
+msgid "GitHub url"
+msgstr "Url GitHub"
+
+#: admin/settings/class-formbuilder.php:911
+msgid "Let users enter their GitHub url."
+msgstr "Biarkan pengguna memasukkan url GitHub mereka."
+
+#: admin/settings/class-formbuilder.php:910 includes/helpers/pages.php:575
+msgid "GitHub"
+msgstr "Github project"
+
+#: admin/settings/class-formbuilder.php:894
+msgid "Flickr url"
+msgstr "Flickr url (bahasa Indonesia)"
+
+#: admin/settings/class-formbuilder.php:890
+msgid "Let users enter their Flickr url."
+msgstr "Biarkan pengguna memasukkan url Flickr mereka."
+
+#: admin/settings/class-formbuilder.php:889 includes/helpers/pages.php:574
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/settings/class-formbuilder.php:872
+msgid "Linkedin url"
+msgstr "Url Linkedin"
+
+#: admin/settings/class-formbuilder.php:868
+msgid "Let users enter their linkedin url."
+msgstr "Biarkan pengguna memasukkan url linkedin mereka."
+
+#: admin/settings/class-formbuilder.php:867 includes/helpers/pages.php:573
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: admin/settings/class-formbuilder.php:851
+msgid "Instagram url"
+msgstr "Url Instagram"
+
+#: admin/settings/class-formbuilder.php:847
+msgid "Let users enter their instagram url."
+msgstr "Biarkan pengguna memasukkan url instagram mereka."
+
+#: admin/settings/class-formbuilder.php:846 includes/helpers/pages.php:572
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/settings/class-formbuilder.php:826
+msgid "Let users enter their twitter url."
+msgstr "Biarkan pengguna memasukkan url twitter mereka."
+
+#: admin/settings/class-formbuilder.php:825 includes/helpers/pages.php:571
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/settings/class-formbuilder.php:805
+msgid "Let users enter their facebook url."
+msgstr "Biarkan pengguna memasukkan url facebook mereka."
+
+#: admin/settings/class-formbuilder.php:804 includes/helpers/pages.php:570
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/settings/class-formbuilder.php:700
+msgid "Enter your date of birth."
+msgstr "Masukkan tanggal lahir Anda."
+
+#: admin/settings/class-formbuilder.php:695
+msgid "Adds a date input for users to enter their date of birth."
+msgstr "Menambahkan input tanggal bagi pengguna untuk memasukkan tanggal lahir mereka."
+
+#: admin/settings/class-formbuilder.php:694
+#: admin/settings/class-formbuilder.php:698
+#: admin/settings/class-formbuilder.php:699
+msgid "Date of birth"
+msgstr "Tanggal lahir"
+
+#: admin/settings/class-formbuilder.php:125
+msgid "Custom Fields"
+msgstr "Field Kostum"
+
+#: admin/settings/class-uwp-settings-general.php:658
+msgid "Legacy (non-bootstrap)"
+msgstr "Warisan (non-bootstrap)"
+
+#: admin/settings/class-uwp-settings-general.php:657
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+#: admin/settings/class-uwp-settings-general.php:654
+msgid "The default design style to use."
+msgstr "Gaya desain default untuk digunakan."
+
+#: admin/settings/class-uwp-settings-general.php:653
+msgid "Default Design Style"
+msgstr "Gaya Desain Default"
+
+#: admin/settings/class-uwp-settings-general.php:603
+msgid "Author box Content (bootstrap)"
+msgstr "Kotak penulis Konten (bootstrap)"
+
+#: admin/settings/class-uwp-settings-general.php:299
+msgid "When enabled some forgot password links will open in a lightbox instead of changing page."
+msgstr "Bila diaktifkan beberapa lupa password link akan terbuka di lightbox bukannya mengubah halaman."
+
+#: admin/settings/class-uwp-settings-general.php:298
+msgid "Forgot password lightbox"
+msgstr "Lupa lightbox kata sandi"
+
+#: admin/settings/class-uwp-settings-general.php:254
+msgid "When enabled /wp-login.php page will be redirected to UsersWP login page."
+msgstr "Bila diaktifkan /wp-login.php halaman akan diarahkan ke halaman login UsersWP."
+
+#: admin/settings/class-uwp-settings-general.php:201
+msgid "Login Lightbox"
+msgstr "Kotak Lampu Masuk"
+
+#: admin/settings/class-uwp-settings-general.php:106
+msgid "When enabled some register links will open in a lightbox instead of changing page."
+msgstr "Bila diaktifkan beberapa link register akan terbuka di lightbox bukannya mengubah halaman."
+
+#: admin/settings/class-uwp-settings-general.php:105
+msgid "Register Lightbox"
+msgstr "Daftar Lightbox"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:1029
+#: admin/settings/class-uwp-settings-profile-tabs.php:1032
+#: admin/settings/class-uwp-settings-user-sorting.php:816
+#: admin/settings/class-uwp-settings-user-sorting.php:819
+msgid "Failed to sort tab items."
+msgstr "Gagal mengurutkan item tab."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:799
+msgid "Add shortcode here."
+msgstr "Tambahkan shortcode di sini."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:794
+msgid "Tab content:"
+msgstr "Konten tab:"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:695
+msgid "Tab Name:"
+msgstr "Nama Tab:"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:135
+msgid "Choose the items from left panel to create the profile tabs."
+msgstr "Pilih item dari panel kiri untuk membuat tab profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:91
+msgid "Fields that can be added to the profile tabs."
+msgstr "Bidang yang dapat ditambahkan ke tab profil."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:69
+msgid "Available profile tabs."
+msgstr "Tab profil yang tersedia."
+
+#: templates/bootstrap/modal-profile-image.php:49
+msgid "Note: Max upload image size: %s"
+msgstr "Catatan: Ukuran gambar upload maks: %s"
+
+#: templates/bootstrap/search-form.php:11
+#: templates/bootstrap/search-form.php:19
+#: templates/bootstrap/search-form.php:20 templates/search-form.php:10
+#: templates/search-form.php:11
+msgid "Search for users..."
+msgstr "Cari pengguna..."
+
+#: templates/bootstrap/users-actions.php:112
+#: templates/bootstrap/users-actions.php:119
+#: templates/bootstrap/users-actions.php:126
+#: templates/bootstrap/users-actions.php:133
+#: templates/bootstrap/users-actions.php:140 templates/users-actions.php:23
+#: templates/users-actions.php:24 templates/users-actions.php:25
+#: templates/users-actions.php:26
+msgid "Grid %d"
+msgstr "Kisi %d"
+
+#: templates/bootstrap/users-actions.php:90
+msgid "Clear Sort"
+msgstr "Hapus Urutkan"
+
+#: templates/bootstrap/users-actions.php:48
+msgid "Sort Options"
+msgstr "Pilihan pengurutan listing"
+
+#: templates/bootstrap/users-actions.php:35
+msgid "Sort By"
+msgstr "Urut Berdasarkan"
+
+#: templates/bootstrap/comments-item.php:43
+#: templates/bootstrap/comments-item.php:44
+msgid "View Comment"
+msgstr "Lihat Komentar"
+
+#: templates/bootstrap/profile-header.php:50
+#: templates/bootstrap/profile-header.php:87
+#: templates/bootstrap/user-avatar.php:46
+msgid "Update Profile Image"
+msgstr "Perbarui Gambar Profil"
+
+#: templates/bootstrap/user-cover.php:44
+msgid "Update Cover Image"
+msgstr "Perbarui Gambar Sampul"
+
+#: templates/change.php:7
+msgid "Change"
+msgstr "Ubah"
+
+#: widgets/users-item.php:32
+msgid "Template for displaying a single user item inside the users loop."
+msgstr "Template untuk menampilkan satu item pengguna di dalam loop pengguna."
+
+#: widgets/users-item.php:29
+msgid "UWP > Users Item"
+msgstr "UWP : Item Pengguna"
+
+#: widgets/register.php:58
+msgid "Form Title"
+msgstr "Judul Form"
+
+#: widgets/account.php:43 widgets/change.php:43 widgets/forgot.php:43
+#: widgets/register.php:59 widgets/reset.php:43
+msgid "Enter the form title (or \"0\" for no title)"
+msgstr "Masukkan judul formulir (atau \"0\" tanpa judul)"
+
+#: widgets/login.php:85 widgets/login.php:94 widgets/user-avatar.php:40
+#: widgets/user-badge.php:99 widgets/user-badge.php:113
+#: widgets/user-badge.php:125 widgets/user-badge.php:134
+#: widgets/user-badge.php:144 widgets/user-badge.php:159
+#: widgets/user-badge.php:173 widgets/user-badge.php:182
+#: widgets/user-badge.php:191
+msgid "Design"
+msgstr "Desain"
+
+#: widgets/account.php:56 widgets/change.php:56 widgets/forgot.php:56
+#: widgets/login.php:81 widgets/register.php:81
+msgid "Style 1"
+msgstr "Style 1"
+
+#: widgets/account.php:55 widgets/change.php:55 widgets/forgot.php:55
+#: widgets/login.php:80 widgets/register.php:80
+msgid "default"
+msgstr "bawaan"
+
+#: widgets/account.php:52 widgets/change.php:52 widgets/forgot.php:52
+#: widgets/login.php:77 widgets/register.php:77
+msgid "The design style to use."
+msgstr "Gaya desain untuk digunakan."
+
+#: widgets/account.php:51 widgets/change.php:51 widgets/forgot.php:51
+#: widgets/login.php:76 widgets/register.php:76
+msgid "Design Style"
+msgstr "Gaya Desain"
+
+#: widgets/login.php:46
+msgid "Enter the form title (or `0` for no title)"
+msgstr "Masukkan judul formulir (atau '0' tanpa judul)"
+
+#: widgets/account.php:42 widgets/change.php:42 widgets/forgot.php:42
+#: widgets/login.php:45 widgets/reset.php:42
+msgid "Form title"
+msgstr "Judul formulir"
+
+#: widgets/profile-tabs.php:159
+msgid "No content found."
+msgstr "Tidak ada konten yang ditemukan."
+
+#: widgets/profile-tabs.php:142
+msgid "No content, please make sure tabs have been added %shere.%s"
+msgstr "Tidak ada konten, pastikan tab telah ditambahkan %shere.%s"
+
+#: widgets/profile-tabs.php:123
+msgid "<strong>ERROR</strong>: This tab does not exist."
+msgstr "<strong>GALAT:</strong>Tab ini tidak ada."
+
+#: widgets/profile-tabs.php:118
+msgid "Not Found"
+msgstr "Tidak ditemukan"
+
+#: widgets/profile-tabs.php:50
+msgid "JSON Array (developer option)"
+msgstr "JSON array (opsi pengembang)"
+
+#: widgets/profile-tabs.php:49
+msgid "Body only"
+msgstr "Hanya bodi"
+
+#: widgets/profile-tabs.php:48
+msgid "Head only"
+msgstr "Hanya kepala"
+
+#: includes/helpers/forms.php:537 widgets/profile-tabs.php:47
+msgid "Default"
+msgstr "Standar"
+
+#: widgets/profile-tabs.php:44
+msgid "What parts should be output."
+msgstr "Bagian apa yang harus output."
+
+#: widgets/profile-tabs.php:43
+msgid "Output Type:"
+msgstr "Jenis Output:"
+
+#: widgets/button-group.php:35
+msgid "Enter a comma separated list of field keys. (leave empty for default social fields)"
+msgstr "Masukkan daftar kunci bidang yang dipisahkan koma. (biarkan kosong untuk bidang sosial default)"
+
+#: widgets/button-group.php:34
+msgid "Fields"
+msgstr "Bidang"
+
+#: widgets/button-group.php:30
+msgid "Displays a group of buttons from the custom fields."
+msgstr "Menampilkan sekelompok tombol dari bidang kustom."
+
+#: widgets/button-group.php:27
+msgid "UWP > Button Group"
+msgstr "UWP & Grup Tombol"
+
+#: upgrade.php:324
+msgid "Replies"
+msgstr "Balasan"
+
+#: upgrade.php:315
+msgid "Topics"
+msgstr "Topik"
+
+#: upgrade.php:307
+msgid "Jobs"
+msgstr "Lowongan Kerja"
+
+#: upgrade.php:299
+msgid "Orders"
+msgstr "Pesanan"
+
+#: upgrade.php:291
+msgid "Products"
+msgstr "Produk"
+
+#: upgrade.php:283
+msgid "MyCred"
+msgstr "MyCred (Dalam 30000"
+
+#: upgrade.php:275
+msgid "Friends"
+msgstr "Teman"
+
+#: upgrade.php:267
+msgid "Following"
+msgstr "Mengikuti"
+
+#: upgrade.php:259
+msgid "Followers"
+msgstr "Pengikut"
+
+#: upgrade.php:251
+msgid "Purchases"
+msgstr "Belanjaan"
+
+#: upgrade.php:243
+msgid "Downloads"
+msgstr "Unduhan"
+
+#: upgrade.php:235
+msgid "Activity"
+msgstr "Aktivitas"
+
+#: includes/libraries/class-invoicing-plugin.php:119
+msgid "Quotes"
+msgstr "Tanda kutip"
+
+#: includes/libraries/class-invoicing-plugin.php:108
+msgid "Subscriptions"
+msgstr "Langganan"
+
+#: includes/libraries/class-geodirectory-plugin.php:1245
+#: templates/bootstrap/posts-post.php:59
+msgid "View"
+msgstr "Lihat"
+
+#: includes/class-notices.php:144
+msgid "Try Now"
+msgstr "Coba Sekarang"
+
+#: includes/class-notices.php:143
+msgid "Try our exciting new bootstrap styling for a more modern and clean look (switch back at any time)."
+msgstr "Cobalah gaya bootstrap baru kami yang menarik untuk tampilan yang lebih modern dan bersih (beralih kembali kapan saja)."
+
+#: includes/class-notices.php:137
+msgid "Congratulations your site is now set to use the new Bootstrap styles!"
+msgstr "Selamat situs Anda sekarang diatur untuk menggunakan gaya Bootstrap baru!"
+
+#: includes/class-notices.php:26
+msgid "User registration is currently not allowed."
+msgstr "Pendaftaran user saat ini tidak diperbolehkan."
+
+#: includes/class-tools.php:1020
+msgid "Version numbers cleared. Install/upgrade functions will run on next page load."
+msgstr "Nomor versi dihapus. Fungsi install/upgrade akan berjalan pada pemuatan halaman berikutnya."
+
+#: includes/class-tools.php:794
+msgid "This will force install/upgrade functions to run."
+msgstr "Ini akan memaksa fungsi install/upgrade untuk dijalankan."
+
+#: includes/class-tools.php:793
+msgid "Clear version numbers"
+msgstr "Menghapus nomor versi"
+
+#: includes/class-forms.php:1210
+msgid "Login successful. Redirecting..."
+msgstr "Login berhasil. Mengarahkan..."
+
+#: includes/class-forms.php:924
+msgid "Account registered successfully. Redirecting..."
+msgstr "Akun yang berhasil terdaftar. Mengarahkan..."
+
+#: includes/class-forms.php:682
+msgid "Sorry, that username is not allowed."
+msgstr "Maaf, Username tersebut tidak diperbolehkan."
+
+#: includes/class-profile.php:828
+msgid "Posts navigation"
+msgstr "Navigasi posting"
+
+#: includes/class-profile.php:827
+msgctxt "next set of posts"
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: includes/class-profile.php:826
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr "Sebelum"
+
+#: includes/class-profile.php:817
+msgid "Older posts"
+msgstr "Pos lama"
+
+#: includes/class-profile.php:813
+msgid "Newer posts"
+msgstr "Posting terbaru"
+
+#: includes/helpers/misc.php:1505
+msgid "Profile side (non bootstrap)"
+msgstr "Sisi profil (non bootstrap)"
+
+#. Description of the plugin
+msgid "The only lightweight user profile plugin for WordPress. UsersWP features front end user profile, users directory, a registration and a login form."
+msgstr "Satu-satunya plugin profil pengguna ringan untuk WordPress. UsersWP memiliki profil pengguna akhir depan, direktori pengguna, registrasi dan formulir login."
+
+#: admin/class-admin.php:283
+msgid "User(s) has been activated!"
+msgstr "Pengguna telah diaktifkan!"
+
+#: admin/class-admin.php:712
+msgid "Activate User"
+msgstr "Aktifkan Pengguna"
+
+#: includes/class-pages.php:539
+msgid "UWP Change Password Page"
+msgstr "Halaman Ubah Kata Sandi UWP"
+
+#: includes/class-pages.php:535
+msgid "UWP User Item Page"
+msgstr "Halaman Item Pengguna UWP"
+
+#: includes/class-pages.php:531
+msgid "UWP Users Page"
+msgstr "Halaman Pengguna UWP"
+
+#: includes/class-pages.php:527
+msgid "UWP Profile Page"
+msgstr "Halaman Profil UWP"
+
+#: includes/class-pages.php:523
+msgid "UWP Account Page"
+msgstr "Halaman Akun UWP"
+
+#: includes/class-pages.php:519
+msgid "UWP Reset Password Page"
+msgstr "UWP Reset Password Halaman"
+
+#: includes/class-pages.php:515
+msgid "UWP Forgot Password Page"
+msgstr "UWP Lupa Halaman Kata Sandi"
+
+#: includes/class-pages.php:511
+msgid "UWP Login Page"
+msgstr "Halaman Login UWP"
+
+#: includes/class-pages.php:507
+msgid "UWP Register Page"
+msgstr "UWP Daftar Halaman"
+
+#: includes/class-pages.php:332
+msgid "Users List Item"
+msgstr "Item Daftar Pengguna"
+
+#: includes/class-pages.php:332
+msgctxt "page_slug"
+msgid "user-list-item"
+msgstr "user-list-item"
+
+#: admin/settings/class-uwp-settings-general.php:632
+msgid "By default UsersWP will change the avatar to profile image. You can disable this using this option."
+msgstr "Secara default UsersWP akan mengubah avatar menjadi gambar profil. Anda dapat menonaktifkan ini menggunakan opsi ini."
+
+#: admin/settings/class-uwp-settings-general.php:631
+msgid "Disable Avatar Override?"
+msgstr "Nonaktifkan Avatar Override?"
+
+#: admin/settings/class-uwp-settings-general.php:624
+msgid "Developer Settings"
+msgstr "Pengaturan Pengembang"
+
+#: admin/settings/class-uwp-settings-general.php:738
+msgid "This is the page/template for displaying user item in users list page. You can change the template as you want which will apply to each user item in users list page."
+msgstr "Ini adalah halaman/template untuk menampilkan item pengguna di halaman daftar pengguna. Anda dapat mengubah template yang Anda inginkan yang akan berlaku untuk setiap item pengguna di halaman daftar pengguna."
+
+#: admin/settings/class-uwp-settings-general.php:737
+msgid "Users List Item Page"
+msgstr "Halaman Item Daftar Pengguna"
+
+#: admin/settings/class-uwp-settings-general.php:77
+msgid "Developer"
+msgstr "Pengembang"
+
+#: admin/menus/class-menus.php:102
+msgid "Select all"
+msgstr "Pilih semua"
+
+#: admin/menus/class-menus.php:28
+msgid "UsersWP Endpoints"
+msgstr "Titik Akhir UsersWP"
+
+#: widgets/users-search.php:31
+msgid "Displays users search form."
+msgstr "Menampilkan formulir pencarian pengguna."
+
+#: widgets/users-search.php:27
+msgid "UWP > Users Search Form"
+msgstr "UWP & Formulir Pencarian Pengguna"
+
+#: widgets/output-location.php:35
+msgid "The location type to output."
+msgstr "Jenis lokasi untuk output."
+
+#: widgets/output-location.php:34
+msgid "Location:"
+msgstr "Lokasi:"
+
+#: widgets/output-location.php:30
+msgid "Displays fields which are selected to display in selected output location from form builder."
+msgstr "Menampilkan bidang yang dipilih untuk ditampilkan di lokasi output yang dipilih dari pembuat formulir."
+
+#: widgets/output-location.php:27
+msgid "UWP > Output Location"
+msgstr "UWP : Lokasi Output"
+
+#: widgets/users-loop.php:30
+msgid "Displays users loop."
+msgstr "Menampilkan pengguna loop."
+
+#: widgets/users-loop.php:26
+msgid "UWP > Users Loop"
+msgstr "UWP : Pengguna Loop"
+
+#: widgets/user-actions.php:32
+msgid "Display user actions."
+msgstr "Menampilkan tindakan pengguna."
+
+#: widgets/user-actions.php:27
+msgid "UWP > User Actions"
+msgstr "UWP : Tindakan Pengguna"
+
+#: widgets/profile-social.php:35
+msgid "Enter comma separated field keys to exclude from displaying in social location."
+msgstr "Masukkan kunci bidang yang dipisahkan koma untuk dikecualikan dari tampilan di lokasi sosial."
+
+#: widgets/profile-social.php:34
+msgid "Exclude Fields"
+msgstr "Kecualikan Bidang"
+
+#: widgets/profile-social.php:30
+msgid "Displays fields which are selected to display in social location from form builder."
+msgstr "Menampilkan bidang yang dipilih untuk ditampilkan di lokasi sosial dari pembuat formulir."
+
+#: widgets/profile-social.php:27
+msgid "UWP > Profile Social"
+msgstr "UWP : Profil Sosial"
+
+#: widgets/user-title.php:36
+msgid "Header tag for the user title."
+msgstr "Tag header untuk judul pengguna."
+
+#: widgets/user-title.php:27
+msgid "UWP > User Title"
+msgstr "UWP : Judul Pengguna"
+
+#: widgets/profile-header.php:62
+msgid "Allow user to change cover and avatar image in profile page."
+msgstr "Izinkan pengguna untuk mengubah gambar sampul dan avatar di halaman profil."
+
+#: widgets/profile-header.php:61
+msgid "Allow to change cover and avatar:"
+msgstr "Izinkan untuk mengubah penutup dan avatar:"
+
+#: widgets/profile-header.php:45
+msgid "Hide avatar image in user profile page."
+msgstr "Sembunyikan gambar avatar di halaman profil pengguna."
+
+#: widgets/profile-header.php:44
+msgid "Hide avatar image:"
+msgstr "Sembunyikan gambar avatar:"
+
+#: widgets/profile-header.php:36
+msgid "Hide cover image in user profile page."
+msgstr "Sembunyikan gambar sampul di halaman profil pengguna."
+
+#: widgets/profile-header.php:35
+msgid "Hide cover image:"
+msgstr "Sembunyikan gambar sampul:"
+
+#: widgets/profile-header.php:31
+msgid "Displays user profile header."
+msgstr "Menampilkan header profil pengguna."
+
+#: widgets/profile-header.php:27
+msgid "UWP > Profile Header"
+msgstr "UWP : Header Profil"
+
+#: widgets/users-loop-actions.php:30
+msgid "Displays user loop actions."
+msgstr "Menampilkan tindakan loop pengguna."
+
+#: widgets/users-loop-actions.php:27
+msgid "UWP > User Loop Action"
+msgstr "UWP : Tindakan Loop Pengguna"
+
+#: widgets/user-avatar.php:44
+msgid "Link avatar image to user's profile page."
+msgstr "Tautkan gambar avatar ke halaman profil pengguna."
+
+#: widgets/user-avatar.php:43 widgets/user-cover.php:36
+msgid "Link to profile?:"
+msgstr "Link ke profil?:"
+
+#: widgets/user-avatar.php:36
+msgid "Avatar image size in px. Default is 50px."
+msgstr "Ukuran gambar Avatar dalam px. Default adalah 50px."
+
+#: widgets/user-avatar.php:35
+msgid "Avatar size:"
+msgstr "Ukuran avatar:"
+
+#: widgets/user-title.php:35
+msgid "Header Tag:"
+msgstr "Header Tag:"
+
+#: widgets/user-title.php:31
+msgid "Displays user name."
+msgstr "Menampilkan nama pengguna."
+
+#: widgets/user-avatar.php:27
+msgid "UWP > User Avatar"
+msgstr "UWP : Avatar Pengguna"
+
+#: widgets/profile-tabs.php:31
+msgid "Displays profile tabs."
+msgstr "Menampilkan tab profil."
+
+#: widgets/profile-tabs.php:27
+msgid "UWP > Profile Tabs"
+msgstr "UWP : Tab Profil"
+
+#: widgets/user-meta.php:95
+msgid "Select Key"
+msgstr "Pilih Tombol"
+
+#: widgets/account.php:65 widgets/button-group.php:53 widgets/change.php:65
+#: widgets/forgot.php:65 widgets/login.php:90 widgets/register.php:90
+#: widgets/reset.php:53 widgets/user-badge.php:187 widgets/user-meta.php:70
+msgid "Give the wrapper an extra class so you can style things as you want."
+msgstr "Berikan wrapper kelas tambahan sehingga Anda dapat gaya hal-hal yang Anda inginkan."
+
+#: widgets/account.php:64 widgets/button-group.php:52 widgets/change.php:64
+#: widgets/forgot.php:64 widgets/login.php:89 widgets/register.php:89
+#: widgets/reset.php:52 widgets/user-badge.php:186 widgets/user-meta.php:69
+msgid "Extra class:"
+msgstr "Kelas tambahan:"
+
+#: widgets/user-meta.php:61
+msgid "Value (strip_tags)"
+msgstr "Nilai (strip_tags)"
+
+#: widgets/user-meta.php:60
+msgid "Value"
+msgstr "Nilai"
+
+#: widgets/user-meta.php:58
+msgid "Label + Value"
+msgstr "Label + Nilai"
+
+#: widgets/user-meta.php:57
+msgid "Icon + Value"
+msgstr "Ikon + Nilai"
+
+#: widgets/user-meta.php:56
+msgid "Icon + Label + Value"
+msgstr "Ikon + Label + Nilai"
+
+#: widgets/user-meta.php:53
+msgid "What part of the post meta to show."
+msgstr "Apa bagian dari meta posting untuk menunjukkan."
+
+#: widgets/user-meta.php:52
+msgid "Show:"
+msgstr "Tampilkan:"
+
+#: widgets/button-group.php:43 widgets/profile-header.php:53
+#: widgets/user-avatar.php:61 widgets/user-badge.php:42
+#: widgets/user-cover.php:54 widgets/user-meta.php:44 widgets/user-title.php:50
+msgid "User ID:"
+msgstr "ID pengguna:"
+
+#: widgets/user-badge.php:52 widgets/user-meta.php:36
+msgid "This is the custom field key."
+msgstr "Filter item berdasarkan tombol bidang kustom."
+
+#: widgets/user-meta.php:35
+msgid "Key:"
+msgstr "Kunci:"
+
+#: widgets/user-meta.php:31
+msgid "Displays user meta."
+msgstr "Menampilkan meta pengguna."
+
+#: widgets/user-meta.php:27
+msgid "UWP > User Meta"
+msgstr "UWP : Meta Pengguna"
+
+#: widgets/profile-section.php:94
+msgid "Archive Item Section: <b>%s : %s</b> <small>(requires %s section to work)</small>"
+msgstr "Daerah Item Arsip: <b>%s : %s</b> <small>(membutuhkan %s daerah untuk bekerja)</small>"
+
+#: widgets/profile-section.php:93
+msgid "opening"
+msgstr "jam buka"
+
+#: widgets/profile-section.php:93
+msgid "closing"
+msgstr "penutupan"
+
+#: widgets/profile-section.php:54
+msgid "Full"
+msgstr "Penuh"
+
+#: widgets/profile-section.php:53 widgets/user-badge.php:169
+msgid "Right"
+msgstr "Kanan"
+
+#: widgets/profile-section.php:52 widgets/user-badge.php:167
+msgid "Left"
+msgstr "Kiri"
+
+#: widgets/profile-section.php:49
+msgid "This is position of the section."
+msgstr "Ini adalah posisi bagian."
+
+#: widgets/profile-section.php:48
+msgid "Position:"
+msgstr "Posisi:"
+
+#: templates/bootstrap/forgot.php:27 templates/bootstrap/login.php:27
+#: templates/bootstrap/register.php:27 widgets/profile-section.php:41
+msgid "Close"
+msgstr "Tutup"
+
+#: widgets/profile-section.php:40
+msgid "Open"
+msgstr "Buka"
+
+#: widgets/profile-section.php:37
+msgid "This is the opening or closing section."
+msgstr "Ini adalah bagian pembukaan atau penutupan."
+
+#: widgets/profile-section.php:36
+msgid "Type:"
+msgstr "Tipe:"
+
+#: widgets/profile-section.php:32
+msgid "Display section to contain other elements."
+msgstr "Tampilkan bagian berisi elemen lain."
+
+#: widgets/profile-section.php:28
+msgid "UWP > Profile Section"
+msgstr "UWP & Bagian Profil"
+
+#: widgets/profile-actions.php:34 widgets/profile-tabs.php:35
+#: widgets/user-actions.php:36 widgets/user-post-counts.php:34
+#: widgets/users-search.php:35
+msgid "Title"
+msgstr "Judul"
+
+#: widgets/profile-actions.php:30
+msgid "Display profile actions."
+msgstr "Tampilkan tindakan profil."
+
+#: widgets/profile-actions.php:27
+msgid "UWP > Profile Actions"
+msgstr "UWP : Profil Tindakan"
+
+#: templates/bootstrap/no-users-found.php:11 templates/no-users-found.php:12
+msgid "No users were found matching your selection."
+msgstr "Tidak ada pengguna yang ditemukan cocok dengan pilihan Anda."
+
+#: admin/class-uwp-admin-menus.php:140
+msgid "Extensions"
+msgstr "Ekstensi"
+
+#: admin/views/html-admin-page-addons.php:123
+msgid "%sFind your licence key here%s OR %sBuy one here%s"
+msgstr "%sFind kunci lisensi Anda di sini%s ATAU %sBeli satu di sini%s"
+
+#: admin/views/html-admin-page-addons.php:120
+msgid "Enter your licence key"
+msgstr "Masukkan kunci lisensi Anda"
+
+#: admin/views/html-admin-page-addons.php:119
+msgid "Licence key"
+msgstr "Kunci lisensi"
+
+#: admin/views/html-admin-page-addons.php:116
+msgid "The plugin <a href='https://wpeasyupdates.com/' target='_blank'>WP Easy Updates</a> is required to check for and update some installed plugins/themes, please <a href='%s' onclick='window.open(\"https://wpeasyupdates.com/wp-easy-updates.zip\", \"_blank\");' >download</a> and install it now."
+msgstr "Plugin <a href='https://wpeasyupdates.com/' target='_blank'>WP Easy Updates</a> diperlukan untuk memeriksa dan memperbarui beberapa plugin / tema yang diinstal, silakan <a href='%s' onclick='window.open(\"https://wpeasyupdates.com/wp-easy-updates.zip\", \"_blank\");' >unduh</a> dan instal sekarang."
+
+#: admin/views/html-admin-page-addons.php:115
+msgid "The plugin <a href='https://wpeasyupdates.com/' target='_blank'>WP Easy Updates</a> is required to check for and update some installed plugins/themes, please <a href='%s'>activate</a> it now."
+msgstr "Plugin <a href='https://wpeasyupdates.com/' target='_blank'>WP Easy Updates</a> diperlukan untuk memeriksa dan memperbarui beberapa plugin / tema yang diinstal, silakan <a href='%s'>aktifkan</a> sekarang."
+
+#: admin/views/html-admin-page-addons.php:112
+msgid "All of our UsersWP Addons can be found on UsersWP.io here: <a href=\"%s\">UsersWP Addons</a>"
+msgstr "Semua UsersWP Addons kami dapat ditemukan di UsersWP.io sini: <a href=\"%s\">UsersWP Addons</a>"
+
+#: admin/class-admin-setup-wizard.php:641
+#: admin/views/html-admin-page-addons.php:72
+#: admin/views/html-admin-page-addons.php:86
+msgid "More info"
+msgstr "Info lebih lanjut"
+
+#: includes/class-addons.php:272
+msgid "Create & Send Invoices, Manage Taxes & VAT. Collect One Time & Recurring Payments."
+msgstr "Buat &amp; Kirim Faktur, Kelola Pajak &amp; PPN. Kumpulkan Satu Kali &amp; Pembayaran Berulang."
+
+#: includes/class-addons.php:266
+msgid "Turn any WordPress theme into a global business directory portal."
+msgstr "Ubah tema WordPress apa pun menjadi portal direktori bisnis global."
+
+#: includes/class-addons.php:232
+msgid "Error"
+msgstr "Kesalahan"
+
+#: admin/class-admin-setup-wizard.php:616 includes/class-addons.php:231
+msgid "Installing"
+msgstr "Menginstal"
+
+#: admin/class-admin-setup-wizard.php:615 includes/class-addons.php:229
+msgid "Installed"
+msgstr "Dipasang"
+
+#: includes/class-addons.php:228
+msgid "Deactivate"
+msgstr "Nonaktifkan"
+
+#: includes/class-addons.php:227
+msgid "Activating"
+msgstr "Mengaktifkan"
+
+#: includes/class-addons.php:225
+msgid "Something went wrong!"
+msgstr "Terjadi kesalahan!"
+
+#: includes/class-addons.php:195
+msgid "Get it"
+msgstr "Dapatkan"
+
+#: admin/class-admin-setup-wizard.php:664
+#: admin/views/html-admin-page-addons.php:120 includes/class-addons.php:193
+#: includes/class-addons.php:230
+msgid "Install"
+msgstr "Install"
+
+#: includes/class-addons.php:175 includes/class-addons.php:226
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: includes/class-addons.php:172
+msgid "Active"
+msgstr "Aktif"
+
+#: includes/class-addons.php:151
+msgid "From: $%d"
+msgstr "Dari: $%d"
+
+#: includes/class-addons.php:102 includes/class-addons.php:103
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/class-addons.php:28
+msgid "Membership"
+msgstr "Keanggotaan"
+
+#: includes/class-addons.php:27
+msgid "Recommended plugins"
+msgstr "Daftar plugin yang disarankan"
+
+#: widgets/authorbox.php:30
+msgid "Displays author box."
+msgstr "Menampilkan kotak penulis."
+
+#: widgets/authorbox.php:27
+msgid "UWP > Author Box"
+msgstr "UWP : Kotak Penulis"
+
+#: includes/class-uwp-defaults.php:345
+msgid ""
+"Dear Admin,\n"
+"\n"
+"A user has been registered recently on your website.\n"
+"\n"
+"[#extras#]"
+msgstr ""
+"Admin yang terhormat,\n"
+"\n"
+"Pengguna telah terdaftar baru-baru ini di situs web Anda.\n"
+"\n"
+"[#extras#]"
+
+#: includes/class-uwp-defaults.php:335
+msgid "[[#site_name#]] New account registration"
+msgstr "[[#site_name]] Pendaftaran akun baru"
+
+#: includes/class-uwp-defaults.php:237
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your account has been updated successfully.\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Yang terhormat [#user_name#],\n"
+"\n"
+"Akun Anda telah berhasil diperbarui.\n"
+"\n"
+"Terima kasih\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:209
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your password has been reset.\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Yang terhormat [#user_name#],\n"
+"\n"
+"Kata sandi Anda telah diatur ulang.\n"
+"\n"
+"Anda dapat login di sini: [#login_url #]\n"
+"\n"
+"Terima kasih\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:181
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Your password has been changed successfully.\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Yang terhormat [#user_name#],\n"
+"\n"
+"Kata sandi Anda telah berhasil diubah.\n"
+"\n"
+"Anda dapat login di sini: [#login_url #]\n"
+"\n"
+"Terima kasih\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:153
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"You can login here: [#login_url#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Yang terhormat [#user_name#],\n"
+"\n"
+"[#login_details# ]\n"
+"\n"
+"Anda dapat login di sini: [#login_url #]\n"
+"\n"
+"Terima kasih\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:113
+msgid "[[#site_name#]] Your Log In Details"
+msgstr "[[#site_name]] Detail Masuk Anda"
+
+#: includes/class-uwp-defaults.php:95
+msgid ""
+"Dear [#user_name#],\n"
+"\n"
+"Thank you for signing up with [#site_name#]\n"
+"\n"
+"[#login_details#]\n"
+"\n"
+"Thank you,\n"
+"[#site_name_url#]"
+msgstr ""
+"Yang terhormat [#user_name#],\n"
+"\n"
+"Terima kasih telah mendaftar dengan [#site_name#]\n"
+"\n"
+"[#login_details# ]\n"
+"\n"
+"Terima kasih\n"
+"[#site_name_url#]"
+
+#: includes/class-uwp-defaults.php:85
+msgid "[[#site_name#]] Please activate your account"
+msgstr "[[#site_name]] Silakan aktifkan akun Anda"
+
+#: includes/class-validation.php:196
+msgid "<strong>Error</strong>: %s %s"
+msgstr "<strong>Galat</strong>: %s %s"
+
+#: admin/views/html-admin-settings.php:31
+msgid "Save changes"
+msgstr "Simpan Perubahan"
+
+#: admin/class-uwp-admin-help.php:68 admin/class-uwp-admin-help.php:76
+msgid "System status"
+msgstr "Sistem Status"
+
+#: admin/class-admin.php:250
+msgid "Use image"
+msgstr "Gunakan gambar"
+
+#: admin/class-admin.php:249
+msgid "Choose an image"
+msgstr "Pilih gambar"
+
+#: admin/class-admin.php:245
+msgid "Field key should be a unique name."
+msgstr "Tombol bidang harus menjadi nama yang unik."
+
+#: admin/class-admin.php:244
+msgid "Please do not use special character and spaces in field key."
+msgstr "Jangan gunakan karakter dan spasi khusus di kunci bidang."
+
+#: admin/class-admin.php:242
+msgid "Field key must not be blank"
+msgstr "Tombol bidang tidak boleh kosong"
+
+#: admin/settings/class-uwp-settings-addons.php:84
+msgid "Please select an addon to view its settings. Check our list of addons available for UsersWP %s here %s"
+msgstr "Silakan pilih addon untuk melihat pengaturannya. Periksa daftar addons kami yang tersedia untuk UsersWP %s di sini %s"
+
+#: admin/settings/class-uwp-settings-addons.php:82
+msgid "UsersWP Addons"
+msgstr "UsersWP Addons"
+
+#: admin/settings/class-uwp-settings-addons.php:25
+#: admin/settings/class-uwp-settings-addons.php:65 includes/class-addons.php:26
+#: widgets/login.php:108 widgets/login.php:121
+msgid "Addons"
+msgstr "Addons"
+
+#: admin/settings/class-uwp-settings-emails.php:385
+#: admin/settings/class-uwp-settings-emails.php:418
+msgid "Send an email to user when updating account details."
+msgstr "Kirim email ke pengguna saat memperbarui detail akun."
+
+#: admin/settings/class-uwp-settings-emails.php:352
+msgid "Send an email to user for reset password."
+msgstr "Kirim email ke pengguna untuk mengatur ulang kata sandi."
+
+#: admin/settings/class-uwp-settings-emails.php:319
+msgid "Send an email to user for change password."
+msgstr "Kirim email ke pengguna untuk mengubah kata sandi."
+
+#: admin/settings/class-uwp-settings-emails.php:286
+msgid "Send an email to user for forgot password."
+msgstr "Kirim email ke pengguna untuk lupa kata sandi."
+
+#: admin/settings/class-uwp-settings-emails.php:220
+msgid "Send an email to user for activation when registered."
+msgstr "Kirim email ke pengguna untuk aktivasi saat terdaftar."
+
+#: admin/settings/class-uwp-settings-emails.php:101
+#: admin/settings/class-uwp-settings-emails.php:134
+#: admin/settings/class-uwp-settings-emails.php:167
+#: admin/settings/class-uwp-settings-emails.php:204
+#: admin/settings/class-uwp-settings-emails.php:237
+#: admin/settings/class-uwp-settings-emails.php:270
+#: admin/settings/class-uwp-settings-emails.php:303
+#: admin/settings/class-uwp-settings-emails.php:336
+#: admin/settings/class-uwp-settings-emails.php:369
+#: admin/settings/class-uwp-settings-emails.php:402
+#: admin/settings/class-uwp-settings-emails.php:435
+#: admin/settings/class-uwp-settings-emails.php:468
+msgid "The email body, this can be text or HTML."
+msgstr "Badan email, ini bisa teks atau HTML."
+
+#: admin/settings/class-uwp-settings-emails.php:100
+#: admin/settings/class-uwp-settings-emails.php:133
+#: admin/settings/class-uwp-settings-emails.php:166
+#: admin/settings/class-uwp-settings-emails.php:203
+#: admin/settings/class-uwp-settings-emails.php:236
+#: admin/settings/class-uwp-settings-emails.php:269
+#: admin/settings/class-uwp-settings-emails.php:302
+#: admin/settings/class-uwp-settings-emails.php:335
+#: admin/settings/class-uwp-settings-emails.php:368
+#: admin/settings/class-uwp-settings-emails.php:401
+#: admin/settings/class-uwp-settings-emails.php:434
+#: admin/settings/class-uwp-settings-emails.php:467
+msgid "Body"
+msgstr "Body"
+
+#: admin/settings/class-uwp-settings-emails.php:91
+#: admin/settings/class-uwp-settings-emails.php:124
+#: admin/settings/class-uwp-settings-emails.php:157
+#: admin/settings/class-uwp-settings-emails.php:194
+#: admin/settings/class-uwp-settings-emails.php:227
+#: admin/settings/class-uwp-settings-emails.php:260
+#: admin/settings/class-uwp-settings-emails.php:293
+#: admin/settings/class-uwp-settings-emails.php:326
+#: admin/settings/class-uwp-settings-emails.php:359
+#: admin/settings/class-uwp-settings-emails.php:392
+#: admin/settings/class-uwp-settings-emails.php:425
+#: admin/settings/class-uwp-settings-emails.php:458
+msgid "The email subject."
+msgstr "Subjek email."
+
+#: admin/settings/class-uwp-settings-emails.php:90
+#: admin/settings/class-uwp-settings-emails.php:123
+#: admin/settings/class-uwp-settings-emails.php:156
+#: admin/settings/class-uwp-settings-emails.php:193
+#: admin/settings/class-uwp-settings-emails.php:226
+#: admin/settings/class-uwp-settings-emails.php:259
+#: admin/settings/class-uwp-settings-emails.php:292
+#: admin/settings/class-uwp-settings-emails.php:325
+#: admin/settings/class-uwp-settings-emails.php:358
+#: admin/settings/class-uwp-settings-emails.php:391
+#: admin/settings/class-uwp-settings-emails.php:424
+#: admin/settings/class-uwp-settings-emails.php:457
+msgid "Subject"
+msgstr "Subjek"
+
+#: admin/settings/class-uwp-settings-emails.php:117
+msgid "Send an email to admin when user has created account on site."
+msgstr "Kirim email ke admin saat pengguna telah membuat akun di situs."
+
+#: admin/settings/class-uwp-settings-emails.php:83
+#: admin/settings/class-uwp-settings-emails.php:116
+#: admin/settings/class-uwp-settings-emails.php:149
+#: admin/settings/class-uwp-settings-emails.php:186
+#: admin/settings/class-uwp-settings-emails.php:219
+#: admin/settings/class-uwp-settings-emails.php:252
+#: admin/settings/class-uwp-settings-emails.php:285
+#: admin/settings/class-uwp-settings-emails.php:318
+#: admin/settings/class-uwp-settings-emails.php:351
+#: admin/settings/class-uwp-settings-emails.php:384
+#: admin/settings/class-uwp-settings-emails.php:417
+#: admin/settings/class-uwp-settings-emails.php:450
+msgid "Enable email"
+msgstr "Mengaktifkan email"
+
+#: admin/settings/class-uwp-settings-emails.php:69
+msgid "Admin Emails"
+msgstr "Email Admin"
+
+#: admin/settings/class-uwp-settings-emails.php:68
+msgid "User Emails"
+msgstr "Email Pengguna"
+
+#: admin/settings/class-uwp-settings-emails.php:28
+msgid "Emails"
+msgstr "Email"
+
+#: admin/settings/class-uwp-settings-uninstall.php:90
+msgid "Check this box if you would like UsersWP to completely remove all of its data when the plugin is deleted."
+msgstr "Centang kotak ini jika Anda ingin UsersWP menghapus semua datanya saat plugin dihapus."
+
+#: admin/settings/class-uwp-settings-uninstall.php:84
+msgid "NOTE: Add-ons should be deleted before core to ensure complete uninstall."
+msgstr "CATATAN: Pengaya harus dihapus sebelum inti untuk memastikan uninstall lengkap."
+
+#: admin/settings/class-uwp-settings-uninstall.php:67
+#: admin/settings/class-uwp-settings-uninstall.php:82
+msgid "Uninstall Settings"
+msgstr "Pengaturan Pencopotan"
+
+#: admin/settings/class-uwp-settings-page.php:140
+msgid "Hide Advanced"
+msgstr "Sembunyikan Lanjutan"
+
+#: admin/settings/class-uwp-settings-page.php:139
+msgid "Show Advanced"
+msgstr "Tampilkan editor tingkat lanjut"
+
+#: admin/settings/class-settings.php:921
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: admin/settings/class-settings.php:760
+msgid "View Page"
+msgstr "Lihat Halaman"
+
+#: admin/settings/class-settings.php:757
+msgid "Edit Page"
+msgstr "Sunting Halaman"
+
+#: admin/settings/class-formbuilder.php:445
+#: admin/settings/class-formbuilder.php:461
+#: admin/settings/class-settings.php:754
+msgid "Select a page&hellip;"
+msgstr "Pilih Halaman&hellip;"
+
+#: admin/settings/class-settings.php:383
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: admin/settings/class-settings.php:84
+msgid "Your settings have been saved."
+msgstr "Pengaturan Anda telah disimpan."
+
+#: admin/class-admin-setup-wizard.php:51 admin/settings/class-settings.php:76
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Proses gagal. SIlahkan tekan F5 dan coba lagi."
+
+#: admin/settings/class-uwp-settings-general.php:593
+#: admin/settings/class-uwp-settings-general.php:604
+msgid "The author box body, this can be text or HTML."
+msgstr "Badan kotak penulis, ini bisa teks atau HTML."
+
+#: admin/settings/class-uwp-settings-general.php:592
+msgid "Author box Content"
+msgstr "Kotak penulis Konten"
+
+#: admin/settings/class-uwp-settings-general.php:575
+msgid "Choose post types to display author box"
+msgstr "Pilih jenis postingan untuk menampilkan kotak penulis"
+
+#: admin/settings/class-uwp-settings-general.php:574
+msgid "Post types"
+msgstr "Jenis posting"
+
+#: admin/settings/class-uwp-settings-general.php:567
+msgid "Below content"
+msgstr "Konten di bawah ini"
+
+#: admin/settings/class-uwp-settings-general.php:566
+msgid "Above content"
+msgstr "Konten di atas"
+
+#: admin/settings/class-uwp-settings-emails.php:108
+#: admin/settings/class-uwp-settings-emails.php:141
+#: admin/settings/class-uwp-settings-emails.php:174
+#: admin/settings/class-uwp-settings-emails.php:211
+#: admin/settings/class-uwp-settings-emails.php:244
+#: admin/settings/class-uwp-settings-emails.php:277
+#: admin/settings/class-uwp-settings-emails.php:310
+#: admin/settings/class-uwp-settings-emails.php:343
+#: admin/settings/class-uwp-settings-emails.php:376
+#: admin/settings/class-uwp-settings-emails.php:409
+#: admin/settings/class-uwp-settings-emails.php:442
+#: admin/settings/class-uwp-settings-emails.php:475
+#: admin/settings/class-uwp-settings-general.php:599
+#: admin/settings/class-uwp-settings-general.php:610
+msgid "Available template tags:"
+msgstr "Tag templat yang tersedia:"
+
+#: admin/settings/class-uwp-settings-general.php:563
+msgid "Displays the author box above or below post content."
+msgstr "Menampilkan kotak penulis di atas atau di bawah konten posting."
+
+#: admin/settings/class-uwp-settings-general.php:562
+msgid "Where to display?"
+msgstr "Di mana untuk menampilkan?"
+
+#: admin/settings/class-uwp-settings-general.php:556
+msgid "Displays author box based on settings"
+msgstr "Menampilkan kotak penulis berdasarkan pengaturan"
+
+#: admin/settings/class-uwp-settings-general.php:555
+msgid "Enable Author Box"
+msgstr "Aktifkan Kotak Penulis"
+
+#: admin/settings/class-uwp-settings-general.php:549
+msgid "Author Box Settings"
+msgstr "Pengaturan Kotak Penulis"
+
+#: admin/settings/class-uwp-settings-general.php:484
+msgid "Users Settings"
+msgstr "Pengaturan Pengguna"
+
+#: admin/settings/class-uwp-settings-general.php:451
+msgid "Disable author redirect to UsersWP profile page."
+msgstr "Nonaktifkan pengalihan penulis ke halaman profil UsersWP."
+
+#: admin/settings/class-uwp-settings-general.php:360
+msgid "Profile Settings"
+msgstr "Pengaturan Profil"
+
+#: admin/settings/class-uwp-settings-general.php:343
+msgid "This option will disable system generated password notice if user has not changed default password after registration."
+msgstr "Opsi ini akan menonaktifkan pemberitahuan kata sandi yang dihasilkan sistem jika pengguna tidak mengubah kata sandi default setelah pendaftaran."
+
+#: admin/settings/class-uwp-settings-general.php:336
+msgid "Ask user to enter their old password before changing the password to add an extra layer of security."
+msgstr "Minta pengguna untuk memasukkan kata sandi lama mereka sebelum mengubah kata sandi untuk menambahkan lapisan keamanan tambahan."
+
+#: admin/settings/class-uwp-settings-general.php:292
+msgid "Change Password Settings"
+msgstr "Mengubah Pengaturan Kata Sandi"
+
+#: admin/settings/class-uwp-settings-general.php:195
+msgid "Login Settings"
+msgstr "Pengaturan Login"
+
+#: admin/settings/class-uwp-settings-general.php:121
+msgid "Redirect Admin Default Register Page"
+msgstr "Halaman Daftar Default Admin Pengalihan"
+
+#: admin/settings/class-uwp-settings-general.php:99
+msgid "Register Settings"
+msgstr "Pengaturan Register"
+
+#: admin/settings/class-uwp-settings-general.php:674
+msgid "Page Settings"
+msgstr "Pengaturan Halaman"
+
+#: admin/settings/class-uwp-settings-general.php:76
+msgid "Author box"
+msgstr "Kotak penulis"
+
+#: admin/settings/class-uwp-settings-general.php:69
+msgid "Pages"
+msgstr "Halaman"
+
+#: admin/settings/class-formbuilder.php:2096
+msgid "No options available"
+msgstr "Tidak ada opsi yang tersedia"
+
+#: admin/settings/class-formbuilder.php:1760
+msgid "Upload icon using media and enter its url path, or enter %sfont awesome%s class eg:\"fas fa-home\""
+msgstr "Unggah ikon menggunakan media dan masukkan jalur url-nya, atau masukkan kelas %sfont awesome%s misalnya:\"fas fa-home\""
+
+#: admin/settings/class-formbuilder.php:1473
+msgid "Field Key :"
+msgstr "Tombol Bidang :"
+
+#: admin/settings/class-formbuilder.php:1390
+msgid "Field Label:"
+msgstr "Field Label:"
+
+#: includes/libraries/class-geodirectory-plugin.php:178
+msgid "My Lists"
+msgstr "Daftar Saya"
+
+#: admin/settings/class-uwp-settings-general.php:122
+msgid "When enabled /wp-login.php?action=register page will be redirected to UsersWP register page."
+msgstr "Bila diaktifkan /wp-login.php?action=register page akan diarahkan ke halaman pendaftaran UsersWP."
+
+#: includes/libraries/class-invoicing-plugin.php:68
+msgid "View Invoices"
+msgstr "Lihat Faktur"
+
+#: includes/libraries/class-invoicing-plugin.php:64
+msgid "My Invoices"
+msgstr "Faktur saya"
+
+#: includes/libraries/class-geodirectory-plugin.php:159
+msgid "My Listings"
+msgstr "Listing Saya"
+
+#: includes/libraries/class-geodirectory-plugin.php:140
+msgid "My Favorites"
+msgstr "Kesukaanku"
+
+#: includes/libraries/class-geodirectory-plugin.php:121
+msgid "Add Listing"
+msgstr "Buat Listing"
+
+#: widgets/users.php:30
+msgid "Displays users list."
+msgstr "Menampilkan daftar pengguna."
+
+#: widgets/users.php:27
+msgid "UWP > Users"
+msgstr "UWP : Pengguna"
+
+#: widgets/change.php:30
+msgid "Displays change password form."
+msgstr "Menampilkan mengubah formulir kata sandi."
+
+#: widgets/change.php:27
+msgid "UWP > Change"
+msgstr "UWP : Perubahan"
+
+#: widgets/account.php:30
+msgid "Displays account form."
+msgstr "Menampilkan formulir akun."
+
+#: widgets/account.php:27
+msgid "UWP > Account"
+msgstr "UWP : Akun"
+
+#: widgets/reset.php:30
+msgid "Displays reset password form."
+msgstr "Menampilkan formulir atur ulang kata sandi."
+
+#: widgets/reset.php:27
+msgid "UWP > Reset"
+msgstr "UWP : Atur Ulang"
+
+#: widgets/profile.php:31
+msgid "Displays user profile."
+msgstr "Menampilkan profil pengguna."
+
+#: widgets/profile.php:27
+msgid "UWP > Profile"
+msgstr "UWP : Profil"
+
+#: widgets/login.php:116
+msgid "Disable WP Invoicing links from the user dashboard."
+msgstr "Nonaktifkan tautan WP Invoiceing dari dasbor pengguna."
+
+#: widgets/login.php:103
+msgid "Disable GeoDirectory links from the user dashboard."
+msgstr "Nonaktifkan tautan GeoDirectory dari dasbor pengguna."
+
+#: widgets/login.php:60
+msgid "Nothing"
+msgstr "Tidak pakai apa-apa"
+
+#: widgets/login.php:59
+msgid "Simple username and logout link"
+msgstr "Nama pengguna sederhana dan tautan logout"
+
+#: widgets/login.php:58
+msgid "User Dashboard (default)"
+msgstr "Dasbor Pengguna (default)"
+
+#: widgets/login.php:55
+msgid "What to show when logged in."
+msgstr "Apa yang harus ditampilkan saat masuk."
+
+#: widgets/login.php:54
+msgid "Logged in show"
+msgstr "Acara masuk"
+
+#: widgets/login.php:39
+msgid "Enter widget title"
+msgstr "Masukkan judul widget"
+
+#: widgets/account.php:35 widgets/authorbox.php:35 widgets/change.php:35
+#: widgets/forgot.php:35 widgets/profile-actions.php:35
+#: widgets/profile-tabs.php:36 widgets/profile.php:36 widgets/register.php:51
+#: widgets/reset.php:35 widgets/user-actions.php:37
+#: widgets/user-post-counts.php:35 widgets/users-search.php:36
+#: widgets/users.php:35
+msgid "Enter widget title."
+msgstr "Masukkan judul widget."
+
+#: widgets/forgot.php:30
+msgid "Displays forgot password form."
+msgstr "Menampilkan lupa formulir kata sandi."
+
+#: widgets/forgot.php:27
+msgid "UWP > Forgot"
+msgstr "UWP : Lupa"
+
+#: widgets/login.php:192
+msgid "Edit Profile"
+msgstr "Sunting Profil"
+
+#: widgets/login.php:185
+msgid "View Profile"
+msgstr "Tampilkan profil"
+
+#: widgets/login.php:181
+msgid "My Profile"
+msgstr "Profil Saya"
+
+#: widgets/login.php:172
+msgid "Select an action"
+msgstr "Pilih tindakan massal"
+
+#: templates/bootstrap/dashboard.php:6 templates/dashboard.php:6
+msgid "Hello, %s"
+msgstr "Halo, %s"
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr "Setiap %d Menit"
+
+#: includes/libraries/class-geodirectory-plugin.php:1837
+msgid "Expired"
+msgstr "Berakhir"
+
+#: includes/libraries/class-geodirectory-plugin.php:1834
+msgid "Closed"
+msgstr "Tutup"
+
+#: includes/libraries/class-geodirectory-plugin.php:1831
+msgid "Pending"
+msgstr "Tertunda"
+
+#: includes/class-notices.php:114
+msgid "Taking a while? Click here to run it now."
+msgstr "Bosan menunggu? Klik di sini untuk menjalankannya sekarang."
+
+#: includes/class-notices.php:114
+msgid "Users data sync is running in the background."
+msgstr "Sinkronisasi data pengguna berjalan di latar belakang."
+
+#: includes/class-notices.php:114
+msgid "UsersWP data sync"
+msgstr "Sinkronisasi data UsersWP"
+
+#: includes/class-files.php:55
+msgid "The uploaded file is too big. Maximum size allowed:"
+msgstr "File yang diunggah terlalu besar. Ukuran maksimum yang diizinkan:"
+
+#: includes/helpers/misc.php:1317
+msgid "less"
+msgstr "kurang dari"
+
+#: includes/helpers/misc.php:1316
+msgid "more"
+msgstr "lebih"
+
+#: templates/bootstrap/search-form.php:37 templates/search-form.php:16
+msgid "Search"
+msgstr "Cari"
+
+#: includes/class-forms.php:846
+msgid "Password:"
+msgstr "Password:"
+
+#: includes/class-forms.php:816 includes/helpers/forms.php:274
+msgid "Please activate your account :"
+msgstr "Harap aktifkan akun:"
+
+#: includes/class-account.php:154 includes/class-forms.php:882
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/class-account.php:153 includes/class-forms.php:845
+#: includes/class-forms.php:881
+msgid "Username:"
+msgstr "Nama Pengguna:"
+
+#: includes/class-account.php:152 includes/class-forms.php:880
+msgid "Last Name:"
+msgstr "Nama belakang:"
+
+#: includes/class-account.php:151 includes/class-forms.php:879
+msgid "First Name:"
+msgstr "Nama Depan:"
+
+#: includes/class-forms.php:878
+msgid "User Information :"
+msgstr "Informasi Pengguna:"
+
+#: admin/views/html-admin-page-status-report.php:157
+msgid "UsersWP is Activate for Single Site"
+msgstr "UsersWP mengaktifkan untuk Situs Tunggal"
+
+#: admin/views/html-admin-page-status-report.php:152
+msgid "UsersWP is Activate for Main Site"
+msgstr "UsersWP adalah Aktifkan untuk Situs Utama"
+
+#: admin/views/html-admin-page-status-report.php:149
+msgid "UsersWP is Network Activate for Specific Site"
+msgstr "UsersWP adalah Aktifkan Jaringan untuk Situs Tertentu"
+
+#: admin/views/html-admin-page-status-report.php:146
+msgid "UsersWP is Network Activate for All Site"
+msgstr "UsersWP adalah Aktifkan Jaringan untuk Semua Situs"
+
+#: admin/views/html-admin-page-status-report.php:142
+msgid "UWP Installation Mode"
+msgstr "Mode Instalasi UWP"
+
+#: includes/class-tools.php:858
+msgid "Create"
+msgstr "Buat"
+
+#: includes/class-tools.php:851
+msgid "Dummy Users for Testing. Password for all dummy users:"
+msgstr "Dummy Pengguna untuk Pengujian. Kata sandi untuk semua pengguna dummy:"
+
+#: admin/class-admin-setup-wizard.php:250 includes/class-tools.php:850
+msgid "Dummy Users"
+msgstr "Membuat Pengguna Dummy"
+
+#: includes/class-import-export.php:545
+msgid "Total "
+msgstr "Total "
+
+#: includes/class-import-export.php:153 includes/class-import-export.php:226
+msgid "Filesystem ERROR: "
+msgstr "KESALAHAN Filesystem: "
+
+#: admin/views/html-admin-settings-import-export-users.php:127
+msgid "The maximum number of entries per csv file (default to 5000, you might want to lower this to prevent memory issues.)"
+msgstr "Jumlah maksimum entri per file csv (default ke 5000, Anda mungkin ingin menurunkan ini untuk mencegah masalah memori.)"
+
+#: admin/views/html-admin-settings-import-export-users.php:126
+msgid "Max entries per csv file:"
+msgstr "Maksimal inputan tiap berkas csv:"
+
+#: includes/class-user-notifications.php:74
+msgid "You will see the options to disable the active notifications for UsersWP and it's add ons."
+msgstr "Anda akan melihat opsi untuk menonaktifkan pemberitahuan aktif untuk UsersWP dan add on."
+
+#: includes/class-user-notifications.php:39
+msgid "Disable account update notification."
+msgstr "Nonaktifkan pemberitahuan pembaruan akun."
+
+#: includes/class-status.php:370
+msgctxt "Page setting"
+msgid "Users List Page"
+msgstr "Halaman daftar pengguna"
+
+#: includes/class-status.php:366
+msgctxt "Page setting"
+msgid "Reset Password Page"
+msgstr "Halaman Setel Ulang Kata Sandi"
+
+#: includes/class-status.php:362
+msgctxt "Page setting"
+msgid "Forgot Password Page"
+msgstr "Halaman Lupa Kata Sandi"
+
+#: includes/class-status.php:358
+msgctxt "Page setting"
+msgid "Change Password Page"
+msgstr "Ganti kata sandi"
+
+#: includes/class-status.php:354
+msgctxt "Page setting"
+msgid "Account Page"
+msgstr "Laman Akun"
+
+#: includes/class-status.php:350
+msgctxt "Page setting"
+msgid "Login Page"
+msgstr "Laman Masuk"
+
+#: includes/class-status.php:346
+msgctxt "Page setting"
+msgid "Register Page"
+msgstr "Laman Pendaftaran"
+
+#: includes/class-status.php:342
+msgctxt "Page setting"
+msgid "Profile Page"
+msgstr "Halaman Profil Pengguna"
+
+#: admin/views/html-admin-page-status-report.php:655
+msgid "Outdated templates"
+msgstr "Template usang"
+
+#: admin/views/html-admin-page-status-report.php:626
+msgid "%1$s version %2$s is out of date. The core version is %3$s"
+msgstr "%1$s versi %2$s sudah kadalalah dari tanggal. Versi inti adalah %3$s"
+
+#: admin/views/html-admin-page-status-report.php:617
+#: admin/views/html-admin-page-status-report.php:646
+msgid "Overrides"
+msgstr "Dibatalkan"
+
+#: admin/views/html-admin-page-status-report.php:610
+msgid "Templates"
+msgstr "Template"
+
+#: admin/views/html-admin-page-status-report.php:601
+msgid "Parent theme author URL"
+msgstr "URL pembuat tema induk"
+
+#: admin/views/html-admin-page-status-report.php:591
+msgid "Parent theme version"
+msgstr "Versi tema induk"
+
+#: admin/views/html-admin-page-status-report.php:587
+msgid "Parent theme name"
+msgstr "Nama tema induk"
+
+#: admin/views/html-admin-page-status-report.php:580
+msgid "If you are modifying userswp on a parent theme that you did not build personally we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "Jika Anda memodifikasi userswp pada tema induk yang tidak Anda bangun secara pribadi, kami sarankan menggunakan tema anak. Lihat: <a href=\"%s\" target=\"_blank\">Cara membuat tema anak</a>"
+
+#: admin/views/html-admin-page-status-report.php:578
+msgid "Child theme"
+msgstr "Anak Tema"
+
+#: admin/views/html-admin-page-status-report.php:574
+msgid "Author URL"
+msgstr "URL Penulis"
+
+#: admin/views/html-admin-page-status-report.php:564
+msgid "Version"
+msgstr "Versi"
+
+#: admin/views/html-admin-page-status-report.php:560
+msgid "Name"
+msgstr "Nama"
+
+#: admin/views/html-admin-page-status-report.php:555
+msgid "Theme"
+msgstr "Tema"
+
+#: admin/views/html-admin-page-status-report.php:537
+msgid "Page does not contains the shortcode."
+msgstr "Halaman tidak berisi shortcode."
+
+#: admin/views/html-admin-page-status-report.php:531
+msgid "Page visibility should be <a href=\"%s\" target=\"_blank\">public</a>"
+msgstr "Visibilitas halaman harus <a href=\"%s\" target=\"_blank\">berdekah</a>"
+
+#: admin/views/html-admin-page-status-report.php:528
+msgid "Page ID is set, but the page does not exist"
+msgstr "ID Halaman diatur, tetapi halaman tidak ada"
+
+#: admin/views/html-admin-page-status-report.php:525
+msgid "Page not set"
+msgstr "Halaman tida di set"
+
+#: admin/views/html-admin-page-status-report.php:517
+msgid "Edit %s page"
+msgstr "Edit halaman %s"
+
+#: admin/views/html-admin-page-status-report.php:508
+msgid "UWP Pages"
+msgstr "UWP Halaman"
+
+#. translators: %s: plugin author
+#: admin/views/html-admin-page-status-report.php:494
+msgid "by %s"
+msgstr "oleh %s"
+
+#: admin/views/html-admin-page-status-report.php:487
+msgid "Network enabled"
+msgstr "Jaringan diaktifkan"
+
+#. translators: %s: plugin latest version
+#. translators: %s: theme latest version
+#. translators: %s: parant theme latest version
+#: admin/views/html-admin-page-status-report.php:483
+#: admin/views/html-admin-page-status-report.php:569
+#: admin/views/html-admin-page-status-report.php:596
+msgid "%s is available"
+msgstr "%s tersedia"
+
+#: admin/views/html-admin-page-status-report.php:476
+msgid "Visit plugin homepage"
+msgstr "Homepage kunjungan Plugin"
+
+#: admin/views/html-admin-page-status-report.php:464
+msgid "Active Plugins"
+msgstr "Aktifkan plugin"
+
+#: admin/views/html-admin-page-status-report.php:455
+msgid "Error messages should not be shown to visitors."
+msgstr "Pesan kesalahan tidak harus ditampilkan kepada pengunjung."
+
+#: admin/views/html-admin-page-status-report.php:450
+msgid "Hide errors from visitors"
+msgstr "Menyembunyikan kesalahan dari pengunjung"
+
+#: admin/views/html-admin-page-status-report.php:445
+msgid "Your site is not using HTTPS."
+msgstr "Situs Anda tidak menggunakan HTTPS."
+
+#: admin/views/html-admin-page-status-report.php:440
+msgid "Secure connection (HTTPS)"
+msgstr "Koneksi aman (HTTPS)"
+
+#: admin/views/html-admin-page-status-report.php:435
+msgid "Security"
+msgstr "Keamanan"
+
+#: admin/views/html-admin-page-status-report.php:416
+#: admin/views/html-admin-page-status-report.php:426
+msgid "Data: %.2fMB + Index: %.2fMB"
+msgstr "Data: %.2fMB + Indeks: %.2fMB"
+
+#: admin/views/html-admin-page-status-report.php:405
+msgid "Database Index Size"
+msgstr "Ukuran Indeks Database"
+
+#: admin/views/html-admin-page-status-report.php:400
+msgid "Database Data Size"
+msgstr "Ukuran Data Database"
+
+#: admin/views/html-admin-page-status-report.php:395
+msgid "Total Database Size"
+msgstr "Ukuran Database Total"
+
+#: admin/views/html-admin-page-status-report.php:387
+msgid "%1$s - We recommend using a prefix with less than 20 characters."
+msgstr "%1$s - Sebaiknya gunakan awalan dengan kurang dari 20 karakter."
+
+#: admin/views/html-admin-page-status-report.php:384
+msgid "Database Prefix"
+msgstr "Awalan basis data"
+
+#: admin/views/html-admin-page-status-report.php:380
+msgid "UWP database version"
+msgstr "Versi database UWP"
+
+#: admin/views/html-admin-page-status-report.php:375
+msgid "Database"
+msgstr "Database"
+
+#: admin/views/html-admin-page-status-report.php:367
+msgid "User agent"
+msgstr "User agent"
+
+#: admin/views/html-admin-page-status-report.php:363
+msgid "Browser version"
+msgstr "Versi browser"
+
+#: admin/views/html-admin-page-status-report.php:359
+msgid "Browser name"
+msgstr "Nama browser"
+
+#: admin/views/html-admin-page-status-report.php:355
+msgid "Platform"
+msgstr "Platform"
+
+#: admin/views/html-admin-page-status-report.php:350
+msgid "User Platform"
+msgstr "Platform Pengguna"
+
+#: admin/views/html-admin-page-status-report.php:312
+msgid "Remote GET"
+msgstr "Remote GET"
+
+#: admin/views/html-admin-page-status-report.php:307
+#: admin/views/html-admin-page-status-report.php:317
+msgid "%s failed. Contact your hosting provider."
+msgstr "%s gagal. Hubungi penyedia hosting Anda."
+
+#: admin/views/html-admin-page-status-report.php:302
+msgid "Remote POST"
+msgstr "Post jarak jauh"
+
+#: admin/views/html-admin-page-status-report.php:297
+msgid "Your server does not support the %s functions - this is required for better character encoding. Some fallbacks will be used instead for it."
+msgstr "Server Anda tidak mendukung fungsi %s - ini diperlukan untuk encoding karakter yang lebih baik. Beberapa fallbacks akan digunakan sebagai pengganti untuk itu."
+
+#: admin/views/html-admin-page-status-report.php:292
+msgid "Multibyte string"
+msgstr "String multibyte"
+
+#: admin/views/html-admin-page-status-report.php:287
+msgid "Your server does not have enabled %s - this is required for image processing."
+msgstr "Server Anda tidak telah mengaktifkan %s - ini diperlukan untuk pemrosesan gambar."
+
+#: admin/views/html-admin-page-status-report.php:282
+msgid "GD Library"
+msgstr "Perpustakaan GD"
+
+#: admin/views/html-admin-page-status-report.php:277
+msgid "Your server does not support the %s function - this is required to use the GeoIP database from MaxMind."
+msgstr "Server Anda tidak mendukung fungsi %s - ini diperlukan untuk menggunakan geoip database dari MaxMind."
+
+#: admin/views/html-admin-page-status-report.php:267
+msgid "Your server does not have the %s class enabled - HTML/Multipart emails, and also some extensions, will not work without DOMDocument."
+msgstr "Server Anda tidak memiliki kelas %s diaktifkan - HTML/Multipart email, dan juga beberapa ekstensi, tidak akan bekerja tanpa DOMDocument."
+
+#: admin/views/html-admin-page-status-report.php:262
+msgid "DOMDocument"
+msgstr "DomDocument (DomDocument)"
+
+#: admin/views/html-admin-page-status-report.php:257
+msgid "Your server does not have the %s class enabled - some gateway plugins which use SOAP may not work as expected."
+msgstr "Server Anda tidak memiliki kelas %s diaktifkan - beberapa gateway plugin yang menggunakan SOAP mungkin tidak bekerja seperti yang diharapkan."
+
+#: admin/views/html-admin-page-status-report.php:252
+msgid "SoapClient"
+msgstr "SoapClient"
+
+#: admin/views/html-admin-page-status-report.php:247
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr "Server Anda tidak memiliki fsockopen atau cURL diaktifkan - PayPal IPN dan skrip lain yang berkomunikasi dengan server lain tidak akan bekerja. Hubungi penyedia hosting Anda."
+
+#: admin/views/html-admin-page-status-report.php:242
+msgid "fsockopen/cURL"
+msgstr "fsockopen/cURL"
+
+#: admin/views/html-admin-page-status-report.php:235
+msgid "Default timezone is %s - it should be UTC"
+msgstr "Timezone Standar %s - seharusnya UTC"
+
+#: admin/views/html-admin-page-status-report.php:232
+msgid "Default timezone is UTC"
+msgstr "Zona waktu default adalah UTC"
+
+#: admin/views/html-admin-page-status-report.php:228
+msgid "Max upload size"
+msgstr "Maksimal ukuran unggah"
+
+#: admin/views/html-admin-page-status-report.php:219
+msgid "WordPress requirements"
+msgstr "Persyaratan WordPress"
+
+#: admin/views/html-admin-page-status-report.php:219
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr "%1$s - Kami merekomendasikan versi MySQL minimum 5.6. Lihat: %2$s"
+
+#: admin/views/html-admin-page-status-report.php:215
+msgid "MySQL version"
+msgstr "Versi MySQL"
+
+#: admin/views/html-admin-page-status-report.php:204
+msgid "SUHOSIN installed"
+msgstr "SUHOSIN terpasang"
+
+#: admin/views/html-admin-page-status-report.php:200
+msgid "cURL version"
+msgstr "cURL version"
+
+#: admin/views/html-admin-page-status-report.php:196
+msgid "PHP max input vars"
+msgstr "PHP max input vars"
+
+#: admin/views/html-admin-page-status-report.php:192
+msgid "PHP time limit"
+msgstr "Batas waktu PHP"
+
+#: admin/views/html-admin-page-status-report.php:188
+msgid "PHP post max size"
+msgstr "PHP post max size"
+
+#: admin/views/html-admin-page-status-report.php:180
+msgid "%1$s - We recommend a minimum PHP version of 5.6."
+msgstr "%1$s - Kami merekomendasikan versi PHP minimum 5.6."
+
+#: admin/views/html-admin-page-status-report.php:177
+msgid "PHP version"
+msgstr "Versi PHP"
+
+#: admin/views/html-admin-page-status-report.php:173
+msgid "Server info"
+msgstr "Server info"
+
+#: admin/views/html-admin-page-status-report.php:168
+msgid "Server Environment"
+msgstr "Server Lingkungan"
+
+#: admin/views/html-admin-page-status-report.php:138
+msgid "Language"
+msgstr "Bahasa"
+
+#: admin/views/html-admin-page-status-report.php:128
+msgid "WP cron"
+msgstr "Cron WP (Kroni WP)"
+
+#: admin/views/html-admin-page-status-report.php:118
+msgid "WP debug mode"
+msgstr "Mode debug WP"
+
+#: admin/views/html-admin-page-status-report.php:111
+msgid "Increasing memory allocated to PHP"
+msgstr "Tingkatkan memori yang dialokasikan untuk PHP"
+
+#: admin/views/html-admin-page-status-report.php:111
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "%1$s - Sebaiknya kan pengaturan memori ke setidaknya 64MB. Lihat: %2$s"
+
+#: admin/views/html-admin-page-status-report.php:108
+msgid "WP memory limit"
+msgstr "Batas memori WP"
+
+#: admin/views/html-admin-page-status-report.php:104
+msgid "WP multisite"
+msgstr "WP multisite (Wp multisite)"
+
+#: admin/views/html-admin-page-status-report.php:100
+msgid "WP version"
+msgstr "Versi WP"
+
+#: admin/views/html-admin-page-status-report.php:96
+msgid "UWP version"
+msgstr "Versi UWP"
+
+#: admin/views/html-admin-page-status-report.php:92
+msgid "Site URL"
+msgstr "URL Situs"
+
+#: admin/views/html-admin-page-status-report.php:88
+msgid "Home URL"
+msgstr "URL Beranda"
+
+#: admin/views/html-admin-page-status-report.php:83
+msgid "WordPress Environment"
+msgstr "Lingkungan WordPress"
+
+#: admin/views/html-admin-page-status-report.php:77
+msgid "Copying to clipboard failed. Please press Ctrl/Cmd+C to copy."
+msgstr "Menyalin ke clipboard gagal. Silahkan tekan tombol Ctrl/Cmd+C untuk menyalin."
+
+#: admin/views/html-admin-page-status-report.php:76
+msgid "Copy for Support"
+msgstr "Copy Dukungan"
+
+#: admin/views/html-admin-page-status-report.php:73
+msgid "Get system report"
+msgstr "Dapatkan sistem laporan"
+
+#: admin/views/html-admin-page-status-report.php:72
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr "Silahkan copy paste informasi ini dalam tiket Anda ketika menghubungi dukungan:"
+
+#: admin/class-uwp-admin-menus.php:121 admin/class-uwp-admin-menus.php:122
+msgid "Status"
+msgstr "Status"
+
+#: includes/libraries/class-geodirectory-plugin.php:1180
+#: templates/loop-posts.php:27
+msgid "No %s found."
+msgstr "%s Tidak ada ditemukan"
+
+#: includes/class-profile.php:1513
+msgid "Invalid request!"
+msgstr "Permintaan tidak valid!"
+
+#: includes/class-forms.php:973
+msgid "Account registered successfully. Please login %shere%s"
+msgstr "Akun yang berhasil terdaftar. Silahkan login %shere%s"
+
+#: admin/settings/class-uwp-settings-general.php:406
+msgid "Enter Profile Banner max file size in Kb. e.g. 512 for 512 kb, 1024 for 1 Mb, 2048 for 2 Mb etc. If empty WordPress default (%s) will be used."
+msgstr "Masukkan Ukuran file maks Profile Banner di Kb. misalnya 512 untuk 512 kb, 1024 untuk 1 Mb, 2048 untuk 2 Mb dll. Jika kosong WordPress default (%s) akan digunakan."
+
+#: admin/settings/class-uwp-settings-general.php:397
+msgid "Enter Profile Avatar max file size in Kb. e.g. 512 for 512 kb, 1024 for 1 Mb, 2048 for 2 Mb etc. If empty WordPress default (%s) will be used."
+msgstr "Masukkan profil Avatar max file size di Kb. misalnya 512 untuk 512 kb, 1024 untuk 1 Mb, 2048 untuk 2 Mb dll. Jika kosong WordPress default (%s) akan digunakan."
+
+#: admin/settings/class-formbuilder.php:2383
+msgid "Select decimal precision:"
+msgstr "Pilih presisi desimal:"
+
+#: admin/settings/class-formbuilder.php:151
+msgid "Click to expand and view field related settings. You may drag and drop to arrange fields order on %s form too."
+msgstr "Klik untuk memperluas dan melihat pengaturan terkait bidang. Anda dapat drag dan drop untuk mengatur urutan bidang pada formulir %s juga."
+
+#: admin/settings/class-formbuilder.php:87
+msgid "Click on any box below to add a field of that type on %s form. You must use a fieldset to group your fields."
+msgstr "Klik pada setiap kotak di bawah ini untuk menambahkan bidang dari jenis itu pada formulir %s. Anda harus menggunakan fieldset untuk mengelompokkan bidang Anda."
+
+#: includes/helpers/tabs.php:131
+msgid "Notifications"
+msgstr "Notifikasi"
+
+#: admin/class-uwp-admin-menus.php:79
+msgid "UsersWP Settings"
+msgstr "Pengaturan UsersWP"
+
+#: admin/class-admin.php:246
+msgid "Are you sure you wish to delete this field?"
+msgstr "Anda yakin ingin menghapus bidang ini?"
+
+#: includes/class-uwp-privacy.php:45
+msgid "- Set up and administer your account, provide technical and/or customer support, and to verify your identity. We do this on the basis of our legitimate business interests."
+msgstr "-Mengatur dan mengelola account Anda, menyediakan dukungan teknis dan/atau pelanggan, dan untuk memverifikasi identitas Anda. Kami melakukan ini berdasarkan kepentingan bisnis sah kami."
+
+#: includes/class-uwp-privacy.php:44
+msgid "- Respond to your queries or complaints."
+msgstr "- Tanggapi pertanyaan atau keluhan Anda."
+
+#: includes/class-uwp-privacy.php:42
+msgid "- Send you important account/order/service information."
+msgstr "-Mengirimkan anda informasi penting akun/pesanan/Jasa."
+
+#: includes/class-uwp-privacy.php:40
+msgid "Handling this data also allows us to:"
+msgstr "Penanganan data ini juga memungkinkan kita untuk:"
+
+#: includes/class-uwp-privacy.php:43
+msgid "- Display this information in a public facing manner (such as a web page or API request) and allow website users to search and view submitted information."
+msgstr "-Menampilkan informasi ini dengan cara menghadap publik (seperti halaman web atau permintaan API) dan memungkinkan pengguna situs web untuk mencari dan melihat informasi listing yang diterbitkan."
+
+#: includes/class-uwp-privacy.php:47
+msgid "Any profile information provided to this site may be displayed publicly."
+msgstr "Informasi profil apa pun yang diberikan ke situs ini dapat ditampilkan secara publik."
+
+#: widgets/login.php:34
+msgid "Displays login form or current logged in user."
+msgstr "Menampilkan form login atau login saat ini di pengguna."
+
+#: includes/class-uwp-privacy.php:38
+msgid "Example privacy texts."
+msgstr "Contoh teks privasi."
+
+#: includes/libraries/class-geodirectory-plugin.php:271
+msgid "Redirect favorite link from GD login box to UsersWP profile"
+msgstr "Alihkan tautan favorit dari kotak masuk GD ke profil UsersWP"
+
+#: includes/libraries/class-geodirectory-plugin.php:264
+msgid "Redirect my listing link from GD login box to UsersWP profile"
+msgstr "Alihkan tautan listingan saya dari kotak masuk GD ke profil UsersWP"
+
+#: widgets/login.php:31
+msgid "UWP > Login"
+msgstr "UWP > Login"
+
+#: widgets/register.php:26
+msgid "UWP > Register"
+msgstr "UWP > Register"
+
+#: includes/class-uwp-privacy.php:37
+msgid "User data/profile"
+msgstr "Data / profil pengguna"
+
+#: includes/class-uwp-privacy.php:24 includes/class-uwp-privacy.php:27
+msgid "UsersWP User Data"
+msgstr "UserWP User Data"
+
+#: includes/class-uwp-privacy.php:39
+msgid "We collect information about you during the registration and edit profile process on our site. This information may include, but is not limited to, your name, email address, phone number, address, IP and any other details that might be requested from you for the purpose of building your public profile."
+msgstr "Kami mengumpulkan informasi tentang Anda selama pendaftaran dan mengedit proses profil di situs kami. Informasi ini mungkin termasuk, tetapi tidak terbatas pada, nama Anda, alamat email, nomor telepon, alamat, IP dan rincian lainnya yang mungkin diminta dari Anda untuk tujuan membangun profil publik Anda."
+
+#: admin/views/html-admin-settings-import-export-users.php:145
+msgid "Select File"
+msgstr "Pilih Berkas"
+
+#: admin/class-admin.php:277 admin/class-admin.php:803
+msgid "Activation email has been sent!"
+msgstr "Email aktivasi telah dikirim!"
+
+#: admin/views/html-admin-settings-import-export-users.php:349
+msgid "Allowed Files"
+msgstr "File Diperkenankan"
+
+#: admin/settings/class-uwp-settings-general.php:342
+msgid "Disable system generated password notice."
+msgstr "Menonaktifkan pemberitahuan sandi yang dihasilkan sistem."
+
+#: admin/views/html-admin-settings-import-export-users.php:122
+msgid "Download a CSV of all users data for usersWP."
+msgstr "Unduh CSV dari seluruh data pengguna UsersWP."
+
+#: admin/class-admin.php:280
+msgid "Error while sending activation email. Please try again."
+msgstr "Kesalahan saat mengirim email aktivasi. Silakan coba lagi."
+
+#: admin/views/html-admin-settings-import-export-settings.php:10
+msgid "Export"
+msgstr "Ekspor"
+
+#: admin/views/html-admin-settings-import-export-users.php:134
+msgid "Export CSV"
+msgstr "Ekspor CSV"
+
+#: admin/views/html-admin-settings-import-export-settings.php:3
+msgid "Export Settings"
+msgstr "Pengaturan ekspor"
+
+#: admin/views/html-admin-settings-import-export-users.php:120
+msgid "Export Users Data"
+msgstr "Ekspor Data Pengguna"
+
+#: admin/views/html-admin-settings-import-export-settings.php:5
+msgid "Export the plugin settings for this site as a .json file. This allows you to easily import the configuration into another site."
+msgstr "Ekspor pengaturan plugin untuk situs ini sebagai berkas .json. Hal ini memungkinkan Anda untuk dengan mudah mengimpor konfigurasi ke situs lain."
+
+#: includes/class-import-export.php:222
+msgid "Filesystem ERROR: Could not access filesystem."
+msgstr "KESALAHAN Filesystem: Gagal mengakses filesystem."
+
+#: includes/class-import-export.php:240
+msgid "Filesystem ERROR: Could not create directory %s. This is usually due to inconsistent file permissions."
+msgstr "KESALAHAN Filesystem: Tidak dapat membuat direktori %s. Ini biasanya karena izin berkas tidak konsisten."
+
+#: includes/class-import-export.php:236
+msgid "Filesystem ERROR: Export location %s is not writable, check your file permissions."
+msgstr "KESALAHAN Filesystem: Lokasi ekspor %s tidak dapat ditulis, periksa izin berkas Anda."
+
+#: admin/views/html-admin-settings-import-export-settings.php:27
+#: admin/views/html-admin-settings-import-export-users.php:150
+msgid "Import"
+msgstr "Impor"
+
+#: admin/views/html-admin-settings-import-export-settings.php:17
+msgid "Import Settings"
+msgstr "Aturan pengimporan"
+
+#: admin/views/html-admin-settings-import-export-users.php:141
+msgid "Import Users"
+msgstr "Impor pengguna"
+
+#: admin/views/html-admin-settings-import-export-settings.php:19
+msgid "Import the plugin settings from a .json file. This file can be obtained by exporting the settings on another site using the form above."
+msgstr "Impor pengaturan plugin dari berkas .json. Berkas ini dapat diperoleh dengan mengekspor pengaturan pada situs lain yang menggunakan formulir di atas."
+
+#: admin/views/html-admin-settings-import-export-users.php:143
+msgid "Import the users data from a .csv file. This file can be obtained by exporting the data on another site using the form above."
+msgstr "Impor data pengguna dari berkas .csv. Berkas ini dapat diperoleh dengan mengekspor data di situs lain menggunakan formulir di atas."
+
+#: admin/settings/class-uwp-settings-import-export.php:25
+msgid "Import/Export"
+msgstr "Impor/Ekspor"
+
+#: includes/class-import-export.php:136
+msgid "Invalid export request found."
+msgstr "Permintaan ekspor tidak valid ditemukan."
+
+#: includes/class-import-export.php:521
+msgid "Invalid file type, please upload .csv file."
+msgstr "Jenis berkas tidak valid, silahkan upload berkas .csv."
+
+#: admin/views/html-admin-settings-import-export-users.php:430
+msgid "Invalid file uploaded. Please upload .csv file. Please try again."
+msgstr "Jenis berkas tidak valid, silahkan upload berkas .csv. Silahkan coba lagi."
+
+#: includes/class-import-export.php:496
+msgid "Invalid import request found."
+msgstr "Permintaan impor tidak valid ditemukan."
+
+#: admin/views/html-admin-settings-import-export-users.php:379
+msgid "Maximum number of files reached!"
+msgstr "Jumlah berkas maksimum tercapai!"
+
+#: includes/class-import-export.php:579
+msgid "No csv file found."
+msgstr "Berkas csv tidak ditemukan."
+
+#: includes/class-import-export.php:185
+msgid "No data found for export."
+msgstr "Tidak ada data yang ditemukan untuk ekspor."
+
+#: includes/class-import-export.php:562
+msgid "No valid data found for import."
+msgstr "Tidak ada data valid yang ditemukan untuk impor."
+
+#: includes/class-import-export.php:121
+msgid "Please upload a file to import. %sGo Back%s"
+msgstr "Harap unggah berkas untuk diimpor. %sGo Kembali%s"
+
+#: includes/class-import-export.php:117
+msgid "Please upload a valid .json file. %sGo Back%s"
+msgstr "Harap unggah berkas .json valid. %sGo Back%s"
+
+#: admin/class-admin.php:711 admin/class-admin.php:728
+msgid "Resend Activation"
+msgstr "Kirim Aktivasi kembali"
+
+#: includes/class-import-export.php:148 includes/class-import-export.php:508
+msgid "Security check failed."
+msgstr "Pemeriksaan keamanan gagal."
+
+#: admin/settings/class-uwp-settings-import-export.php:65
+msgid "Settings"
+msgstr "Setelan"
+
+#: includes/class-import-export.php:78
+msgid "Settings imported successfully!"
+msgstr "Pengaturan berhasil diimpor!"
+
+#: admin/views/html-admin-settings-import-export-users.php:426
+msgid "The file you have uploaded exceeds the file size limit. Please try again."
+msgstr "Berkas yang Anda unggah melebihi batas ukuran. Silahkan coba lagi."
+
+#: includes/class-import-export.php:555
+msgid "Users import completed."
+msgstr "Impor pengguna selesai."
+
+#: admin/settings/class-uwp-settings-general.php:508
+msgid "Users to exclude"
+msgstr "Pengecualian pengguna"
+
+#: admin/settings/class-uwp-settings-general.php:237
+#: templates/bootstrap/forgot.php:77 templates/bootstrap/login.php:82
+#: templates/bootstrap/reset.php:60 templates/forgot.php:17
+#: templates/login.php:22 templates/reset.php:25
+msgid "Create account"
+msgstr "Pendaftaran Member Baru"
+
+#: includes/libraries/class-geodirectory-plugin.php:1157
+#: includes/libraries/class-geodirectory-plugin.php:1376
+#: includes/libraries/class-geodirectory-plugin.php:1590
+msgid "Delete Listing"
+msgstr "Hapus Listing"
+
+#: includes/libraries/class-geodirectory-plugin.php:1153
+#: includes/libraries/class-geodirectory-plugin.php:1372
+#: includes/libraries/class-geodirectory-plugin.php:1586
+msgid "Edit"
+msgstr "Sunting"
+
+#: includes/libraries/class-geodirectory-plugin.php:1148
+#: includes/libraries/class-geodirectory-plugin.php:1367
+#: includes/libraries/class-geodirectory-plugin.php:1581
+msgid "Edit Listing"
+msgstr "Sunting Listing"
+
+#: includes/libraries/class-geodirectory-plugin.php:340 upgrade.php:227
+msgid "Favorites"
+msgstr "Favorit"
+
+#: includes/libraries/class-invoicing-plugin.php:98
+msgid "Invoices"
+msgstr "Tagihan"
+
+#: includes/libraries/class-geodirectory-plugin.php:320 upgrade.php:211
+msgid "Listings"
+msgstr "Listing"
+
+#: templates/bootstrap/dashboard-simple.php:6 templates/dashboard-simple.php:6
+msgid "Logged in as "
+msgstr "Masuk sebagai "
+
+#: includes/helpers/tabs.php:87 templates/bootstrap/loop-comments.php:28
+msgid "No %s found"
+msgstr "%s Tidak ada ditemukan"
+
+#: templates/forgot.php:17 templates/login.php:22 templates/reset.php:25
+msgid "Not a member?"
+msgstr "Belum menjadi anggota?"
+
+#: includes/libraries/class-geodirectory-plugin.php:1840
+msgid "Not published"
+msgstr "Tidak dipublikasikan"
+
+#: includes/libraries/class-geodirectory-plugin.php:1828
+msgid "Published"
+msgstr "Telah diplublikasikan"
+
+#: includes/libraries/class-geodirectory-plugin.php:330
+#: includes/libraries/class-geodirectory-plugin.php:1425 upgrade.php:219
+msgid "Reviews"
+msgstr "Ulasan"
+
+#: includes/libraries/class-geodirectory-plugin.php:1845
+msgid "Status: "
+msgstr "Status: "
+
+#: includes/libraries/class-geodirectory-plugin.php:256
+msgid "CPT favorites in profile"
+msgstr "CPT favorit di profil"
+
+#: includes/libraries/class-geodirectory-plugin.php:240
+msgid "CPT listings in profile"
+msgstr "CPT listing di profil"
+
+#: includes/libraries/class-geodirectory-plugin.php:248
+msgid "CPT reviews in profile"
+msgstr "CPT ulasan di profil"
+
+#: includes/libraries/class-geodirectory-plugin.php:257
+msgid "Choose the post types to show favorites tab in UsersWP Profile"
+msgstr "Memilih jenis posting untuk menunjukkan tab favorit di profil UsersWP"
+
+#: includes/libraries/class-geodirectory-plugin.php:241
+msgid "Choose the post types to show listings tab in UsersWP Profile"
+msgstr "Memilih jenis posting untuk menunjukkan tab listing dalam profil UsersWP"
+
+#: includes/libraries/class-geodirectory-plugin.php:249
+msgid "Choose the post types to show reviews tab in UsersWP Profile"
+msgstr "Memilih jenis posting untuk menunjukkan tab ulasan di profil UsersWP"
+
+#: includes/libraries/class-geodirectory-plugin.php:210
+msgid "GeoDirectory"
+msgstr "GeoDirectory"
+
+#: includes/libraries/class-geodirectory-plugin.php:234
+msgid "GeoDirectory Settings"
+msgstr "Pengaturan GeoDirectory"
+
+#: includes/class-templates.php:1194
+msgid "Hide profile from the users listing page."
+msgstr "Menyembunyikan profil dari laman listing pengguna."
+
+#: includes/libraries/class-geodirectory-plugin.php:272
+msgid "If this option is selected, the favorite link from GD loginbox will redirect to favorites tab of UsersWP profile."
+msgstr "Jika opsi ini dipilih, link favorit dari GD dashboard akan mengarahkan ke tab favorit profil UsersWP."
+
+#: includes/libraries/class-geodirectory-plugin.php:265
+msgid "If this option is selected, the my listing link from GD loginbox will redirect to listings tab of UsersWP profile."
+msgstr "Jika opsi ini dipilih, link daftar saya dari GD dashboard akan mengarahkan ke tab listing profil UsersWP."
+
+#: admin/settings/class-formbuilder.php:409
+#: admin/settings/class-uwp-settings-general.php:183
+#: admin/settings/class-uwp-settings-redirects.php:91
+msgid "Last User Page"
+msgstr "Laman terakhir pengguna"
+
+#: includes/helpers/tabs.php:163 templates/bootstrap/dashboard-simple.php:23
+#: templates/bootstrap/dashboard-simple.php:24
+#: templates/bootstrap/dashboard.php:39 templates/dashboard-simple.php:12
+#: templates/dashboard.php:32
+msgid "Logout"
+msgstr "Keluar"
+
+#: includes/class-templates.php:1210
+msgid "Make the whole profile private"
+msgstr "Membuat seluruh profil pribadi"
+
+#: admin/settings/class-uwp-settings-emails.php:315
+msgid "Change password email"
+msgstr "Ganti kata sandi"
+
+#: admin/settings/class-uwp-settings-general.php:366
+msgid "Default banner image"
+msgstr "Gambar banner default"
+
+#: admin/settings/class-uwp-settings-general.php:374
+msgid "Default profile image"
+msgstr "Gambar profil default"
+
+#: admin/settings/class-uwp-settings-general.php:367
+msgid "Recommended image size: 1000x300"
+msgstr "Direkomendasikan ukuran gambar: 1000 x 300"
+
+#: admin/settings/class-uwp-settings-general.php:375
+msgid "Recommended image size: 150x150"
+msgstr "Direkomendasikan gambar ukuran: 150 x 150"
+
+#: admin/class-admin-setup-wizard.php:474
+#: admin/settings/class-formbuilder.php:1897
+#: admin/settings/class-uwp-settings-profile-tabs.php:814
+#: admin/settings/class-uwp-settings-user-sorting.php:600
+#: includes/class-tools.php:859
+msgid "Remove"
+msgstr "Hapus"
+
+#: includes/class-forms.php:1676
+msgid "To reset your password, click the following link and follow the instructions."
+msgstr "Untuk menyetel ulang sandi, klik link berikut dan ikuti petunjuk."
+
+#: includes/class-forms.php:1672
+msgid "You have requested to reset your password for the following account:"
+msgstr "Ada permintaan untuk menyetel ulang sandi untuk pengguna berikut:"
+
+#: admin/settings/class-formbuilder.php:1562
+msgid "For admin use only? :"
+msgstr "Hanya untuk admin? :"
+
+#: admin/settings/class-formbuilder.php:1561
+msgid "If yes is selected then only site admin can see and edit this field."
+msgstr "Jika ya, hanya admin yang bisa melihat dan menyunting kolom ini."
+
+#: includes/class-forms.php:3165
+msgid "Username or Email"
+msgstr "Username atau Email"
+
+#: admin/class-admin-setup-wizard.php:379
+msgid "Action"
+msgstr "Aksi"
+
+#: includes/helpers/misc.php:1506
+msgid "Fieldset"
+msgstr "Fieldset"
+
+#: includes/class-tools.php:812
+msgid "Fix User Data"
+msgstr "Perbaiki Data pengguna"
+
+#: includes/class-tools.php:813
+msgid "Fixes User Data if you were using the Beta version."
+msgstr "Perbaikan Data pengguna jika Anda menggunakan versi Beta."
+
+#: admin/settings/class-uwp-settings-emails.php:113
+msgid "New account registration"
+msgstr "Pendaftaran akun baru"
+
+#: includes/class-tools.php:211 includes/class-tools.php:305
+#: includes/class-tools.php:583
+msgid "Processed Successfully"
+msgstr "Berhasil"
+
+#: admin/settings/class-uwp-settings-general.php:253
+msgid "Redirect wp-login.php?"
+msgstr "Mengarahkan wp-login.php?"
+
+#: includes/class-tools.php:797 includes/class-tools.php:816
+#: includes/class-tools.php:835
+msgid "Run"
+msgstr "Jalankan"
+
+#: admin/settings/class-formbuilder.php:2475
+msgid "This field is applicable only for register form."
+msgstr "Bidang ini ini berlaku hanya untuk formulir daftar."
+
+#: admin/settings/class-formbuilder.php:2451
+msgid "This is mandatory register form field."
+msgstr "Ini adalah bidang formulir registrasi wajib."
+
+#: admin/class-uwp-admin-menus.php:108
+msgid "Tools"
+msgstr "Peralatan"
+
+#: widgets/register.php:29
+msgid "Displays register form."
+msgstr "Menampilkan formulir pendaftaran."
+
+#: includes/class-files.php:200
+msgid "\"%s\" (filetype %s) needs to be one of the following file types: %s"
+msgstr "\"%s\" (tipe file %s) harus salah satu dari tipe berikut: %s"
+
+#: includes/class-validation.php:320
+msgid "<strong>Error</strong>: Email and Confirm email not match"
+msgstr "<strong>Kesalahan</strong>: Email dan konfirmasi email tidak cocok"
+
+#: includes/class-validation.php:296
+msgid "<strong>Error</strong>: Incorrect old password"
+msgstr "<strong>Kesalahan</strong>: password lama salah"
+
+#: includes/class-validation.php:81
+msgid "<strong>Error</strong>: Permission denied."
+msgstr "<strong>Kesalahan</strong>: izin ditolak."
+
+#: includes/class-validation.php:310
+msgid "<strong>Error</strong>: Please enter your Email"
+msgstr "<strong>Kesalahan</strong>: masukkan Email Anda"
+
+#: includes/class-validation.php:290
+msgid "<strong>Error</strong>: Please enter your old password"
+msgstr "<strong>ERROR</strong>: Mohon masukkan password lama Anda"
+
+#: includes/class-validation.php:315
+msgid "<strong>Error</strong>: Please fill Confirm Email field"
+msgstr "<strong>Kesalahan</strong>: Silakan isi bidang Email konfirmasi"
+
+#: includes/class-forms.php:501
+msgid "<strong>Warning</strong>: It seems like you are using a system generated password. Please change the password in this page. If this is not a problem for you, you can remove this warning by <a href=\"%s\">clicking here</a>."
+msgstr "<strong>Peringatan</strong>: Anda sepertinya Anda menggunakan password sistem yang dihasilkan. Ubah sandi dalam Halaman ini. Jika hal ini tidak menjadi masalah bagi Anda, Anda dapat menghapus peringatan ini dengan <a href=\"%s\">mengklik di sini</a>."
+
+#: includes/class-notices.php:48
+msgid "Account activated successfully. Please login to continue."
+msgstr "Akun berhasil diaktifkan. Silahkan login untuk melanjutkan."
+
+#: includes/class-forms.php:2079
+msgid "Account updated successfully."
+msgstr "Akun berhasil di perbarui."
+
+#: templates/forgot.php:15 templates/register.php:19 templates/reset.php:23
+msgid "Already a member?"
+msgstr "Sudah menjadi anggota?"
+
+#: templates/bootstrap/modal-profile-image-crop.php:80
+#: templates/bootstrap/modal-profile-image.php:101
+#: templates/modal-profile-image-crop.php:43
+#: templates/modal-profile-image.php:46
+msgid "Apply"
+msgstr "Terapkan"
+
+#: includes/class-date.php:153
+msgid "April"
+msgstr "April"
+
+#: includes/class-date.php:185
+msgctxt "April abbreviation"
+msgid "Apr"
+msgstr "Apr"
+
+#: includes/class-date.php:157
+msgid "August"
+msgstr "Agustus"
+
+#: includes/class-date.php:189
+msgctxt "August abbreviation"
+msgid "Aug"
+msgstr "Aug"
+
+#: includes/class-activator.php:435
+msgid "Avatar"
+msgstr "Foto Profile"
+
+#: includes/class-forms.php:66 includes/class-forms.php:80
+msgid "Avatar cropped successfully."
+msgstr "Avatar berhasil dipotong."
+
+#. Author of the plugin
+msgid "AyeCode Ltd"
+msgstr "AyeCode Ltd"
+
+#: includes/class-activator.php:473
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/class-forms.php:73 includes/class-forms.php:87
+msgid "Banner cropped successfully."
+msgstr "Banner berhasil dipotong."
+
+#: includes/class-activator.php:689
+msgid "Bio"
+msgstr "Biografi"
+
+#: templates/bootstrap/modal-profile-image-crop.php:31
+#: templates/bootstrap/modal-profile-image.php:74
+#: templates/modal-profile-image-crop.php:47
+#: templates/modal-profile-image.php:50
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: admin/class-admin.php:642
+msgid "Change Avatar"
+msgstr "Perubahan Avatar"
+
+#: admin/class-admin.php:654
+msgid "Change Banner"
+msgstr "Perubahan Banner"
+
+#: admin/settings/class-uwp-settings-general.php:72
+#: includes/class-account.php:42 includes/class-pages.php:329
+#: includes/helpers/misc.php:576 includes/helpers/tabs.php:127
+#: templates/bootstrap/change.php:15 widgets/change.php:47
+#: widgets/change.php:95
+msgid "Change Password"
+msgstr "Ganti Kata Sandi"
+
+#: templates/bootstrap/modal-profile-image-crop.php:18
+#: templates/bootstrap/modal-profile-image.php:18
+#: templates/modal-profile-image-crop.php:21
+#: templates/modal-profile-image.php:21
+msgid "Change your cover photo"
+msgstr "Mengubah foto sampul"
+
+#: templates/bootstrap/modal-profile-image-crop.php:16
+#: templates/bootstrap/modal-profile-image.php:15
+#: templates/modal-profile-image-crop.php:19
+#: templates/modal-profile-image.php:19
+msgid "Change your profile photo"
+msgstr "Ganti Foto Profile"
+
+#: includes/class-forms.php:4391
+msgid "Confirm Email"
+msgstr "Konfirmasi Email"
+
+#: includes/class-activator.php:537 includes/class-activator.php:579
+#: includes/class-forms.php:4299
+msgid "Confirm Password"
+msgstr "Tegaskan (ulangi) Kata Sandi"
+
+#: templates/bootstrap/register.php:52 templates/register.php:17
+msgid "Create Account"
+msgstr "Buat Akun"
+
+#: includes/class-date.php:161
+msgid "December"
+msgstr "Desember"
+
+#: includes/class-date.php:193
+msgctxt "December abbreviation"
+msgid "Dec"
+msgstr "Des"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:267
+#: includes/class-activator.php:657
+msgid "Display Name"
+msgstr "Nama Tampilan"
+
+#: includes/class-profile.php:131 includes/helpers/tabs.php:123
+#: templates/account.php:13 templates/bootstrap/account.php:45
+#: templates/profile-tabs.php:54 widgets/account.php:47
+msgid "Edit Account"
+msgstr "Edit Akun"
+
+#: includes/class-date.php:151
+msgid "February"
+msgstr "Februari"
+
+#: includes/class-date.php:183
+msgctxt "February abbreviation"
+msgid "Feb"
+msgstr "Feb"
+
+#: includes/class-templates.php:1104
+msgid "Field"
+msgstr "Field"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:277
+#: includes/class-activator.php:608
+msgid "First Name"
+msgstr "Nama Depan"
+
+#: includes/class-pages.php:327 templates/bootstrap/forgot.php:11
+#: templates/forgot.php:7 widgets/forgot.php:47 widgets/forgot.php:95
+msgid "Forgot Password?"
+msgstr "Lupa Kata Sandi?"
+
+#: admin/settings/class-uwp-settings-general.php:247
+#: templates/bootstrap/login.php:93 templates/login.php:23
+msgid "Forgot password?"
+msgstr "Lupa Kata Sandi?"
+
+#: admin/class-uwp-admin-menus.php:91 admin/class-uwp-admin-menus.php:92
+msgid "Form Builder"
+msgstr "Form Builder"
+
+#: admin/settings/class-uwp-settings-general.php:28
+msgid "General"
+msgstr "Umum"
+
+#: includes/class-forms.php:1675
+msgid "If this was by mistake, just ignore this email and nothing will happen."
+msgstr "Jika ini tidak sengaja, abaikan email ini dan tidak akan terjadi apa-apa."
+
+#: includes/class-notices.php:76 includes/class-notices.php:80
+msgid "Invalid activation key or account."
+msgstr "Kunci aktivasi atau account tidak valid."
+
+#: includes/class-templates.php:1107
+msgid "Is Public?"
+msgstr "Apa Publik?"
+
+#: includes/class-date.php:150
+msgid "January"
+msgstr "Januari"
+
+#: includes/class-date.php:182
+msgctxt "January abbreviation"
+msgid "Jan"
+msgstr "Jan"
+
+#: includes/class-date.php:156
+msgid "July"
+msgstr "Juli"
+
+#: includes/class-date.php:188
+msgctxt "July abbreviation"
+msgid "Jul"
+msgstr "Jul"
+
+#: includes/class-date.php:155
+msgid "June"
+msgstr "Juni"
+
+#: includes/class-date.php:187
+msgctxt "June abbreviation"
+msgid "Jun"
+msgstr "Jun"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:287
+#: includes/class-activator.php:624
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+#: includes/class-profile.php:1698
+msgid "Loading Form ..."
+msgstr "Loading Form ..."
+
+#: admin/settings/class-uwp-settings-general.php:71
+#: admin/settings/class-uwp-settings-general.php:309
+#: includes/class-emails.php:300 includes/class-forms.php:4566
+#: includes/class-pages.php:325 templates/bootstrap/forgot.php:66
+#: templates/bootstrap/login.php:11 templates/bootstrap/login.php:68
+#: templates/bootstrap/register.php:65 templates/bootstrap/reset.php:49
+#: templates/login.php:7 templates/login.php:19 widgets/login.php:50
+#: widgets/login.php:141
+msgid "Login"
+msgstr "Login"
+
+#: templates/forgot.php:15 templates/register.php:21 templates/reset.php:23
+msgid "Login here"
+msgstr "Login Disini"
+
+#: admin/settings/class-uwp-settings-general.php:270
+#: admin/settings/class-uwp-settings-redirects.php:146
+msgid "Logout Redirect Page"
+msgstr "Logout Redirect Halaman"
+
+#: includes/class-date.php:152
+msgid "March"
+msgstr "Maret"
+
+#: includes/class-date.php:184
+msgctxt "March abbreviation"
+msgid "Mar"
+msgstr "Mar"
+
+#: includes/class-date.php:154
+msgid "May"
+msgstr "Mei"
+
+#: includes/class-date.php:186
+msgctxt "May abbreviation"
+msgid "May"
+msgstr "Mei"
+
+#: includes/class-activator.php:524
+msgid "New Password"
+msgstr "Katasandi baru"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:247 upgrade.php:51
+msgid "Newer"
+msgstr "Lebih baru"
+
+#: templates/loop-comments.php:28
+msgid "No comments found"
+msgstr "Tidak ada komentar"
+
+#: includes/class-profile.php:1534
+msgid "No fields available"
+msgstr "Tidak ada bidang yang tersedia"
+
+#: templates/modal-profile-image.php:33
+msgid "Note: Max upload image size: "
+msgstr "Catatan: Max ukuran gambar upload: "
+
+#: includes/class-date.php:160
+msgid "November"
+msgstr "Nopember"
+
+#: includes/class-date.php:192
+msgctxt "November abbreviation"
+msgid "Nov"
+msgstr "Nov"
+
+#: includes/class-date.php:159
+msgid "October"
+msgstr "Oktober"
+
+#: includes/class-date.php:191
+msgctxt "October abbreviation"
+msgid "Oct"
+msgstr "Okt"
+
+#: admin/settings/class-uwp-settings-user-sorting.php:257 upgrade.php:61
+msgid "Older"
+msgstr "Lebih lama"
+
+#: includes/class-profile.php:777
+msgid "Page"
+msgstr "Laman"
+
+#: includes/class-forms.php:1879
+msgid "Password updated successfully. Please <a href=\"%s\">login</a> with your new password."
+msgstr "Sandi berhasil di perbarui. Silahkan <a href=\"%s\">login</a> dengan password baru"
+
+#: includes/class-forms.php:1705
+msgid "Please check your email."
+msgstr "Periksa email Anda."
+
+#: includes/class-validation.php:329
+msgid "Please enter a password"
+msgstr "Silakan masukkan kata sandi"
+
+#: includes/class-forms.php:3537
+msgid "Please enter a valid URL including http://"
+msgstr "Harap masukkan URL termasuk http(s)://"
+
+#: includes/class-templates.php:1143 includes/helpers/misc.php:570
+#: includes/helpers/tabs.php:135
+msgid "Privacy"
+msgstr "Privasi"
+
+#: admin/settings/class-uwp-settings-general.php:73
+#: admin/settings/class-uwp-settings-general.php:319
+#: includes/class-pages.php:330 templates/bootstrap/change.php:50
+#: templates/change.php:15
+msgid "Profile"
+msgstr "Riwayat"
+
+#: templates/bootstrap/login.php:59 templates/login.php:16
+msgid "Remember Me"
+msgstr "Ingat Saya"
+
+#: includes/class-files.php:363
+msgid "Remove File"
+msgstr "Hapus Berkas"
+
+#: admin/settings/class-settings.php:384 includes/class-files.php:354
+msgid "Remove Image"
+msgstr "Hapus Gambar"
+
+#: includes/helpers/forms.php:354
+msgid "Require Email Activation"
+msgstr "Memerlukan aktivasi Email"
+
+#: includes/class-pages.php:328 templates/bootstrap/reset.php:8
+#: templates/reset.php:3 widgets/reset.php:47 widgets/reset.php:83
+msgid "Reset Password"
+msgstr "Reset Katasandi"
+
+#: includes/class-pages.php:195
+msgid "Select a Page"
+msgstr "Pilih laman"
+
+#: admin/settings/class-formbuilder.php:388
+msgid "Select how registration should be handled."
+msgstr "Pilih bagaimana pendaftaran harus ditangani."
+
+#: includes/class-date.php:158
+msgid "September"
+msgstr "September"
+
+#: includes/class-date.php:190
+msgctxt "September abbreviation"
+msgid "Sep"
+msgstr "Sep"
+
+#: admin/settings/class-uwp-settings-general.php:271
+#: admin/settings/class-uwp-settings-redirects.php:147
+msgid "Set the page to redirect the user to after logging out. If no page has been set WordPress default will be used."
+msgstr "Mengatur halaman untuk mengarahkan pengguna ke setelah setelah mereka menghapus account. Jika tidak ada halaman yang ditetapkan WordPress default akan digunakan."
+
+#: includes/helpers/misc.php:1318
+msgid "Something went wrong."
+msgstr "Terjadi kesalahan."
+
+#: templates/users-actions.php:34
+msgid "Sort By:"
+msgstr "Urut berdasarkan:"
+
+#: includes/class-templates.php:1218 includes/class-user-notifications.php:69
+#: templates/bootstrap/change.php:29 templates/bootstrap/forgot.php:54
+#: templates/bootstrap/reset.php:33 templates/change.php:13
+#: templates/forgot.php:13 templates/reset.php:17
+msgid "Submit"
+msgstr "Submit"
+
+#: includes/class-profile.php:1470
+msgid "The uploaded file is too small. Minimum image height should be %s px"
+msgstr "Upload file terlalu kecil. Tinggi minimal gambar harus %s px"
+
+#: includes/class-profile.php:1467
+msgid "The uploaded file is too small. Minimum image width should be %s px"
+msgstr "Upload file terlalu kecil. Lebar minimum gambar harus %s px"
+
+#: admin/settings/class-uwp-settings-uninstall.php:28
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: admin/settings/class-formbuilder.php:470 templates/profile-header.php:77
+#: templates/user-avatar.php:39
+msgid "Update"
+msgstr "Perbarui"
+
+#: includes/class-account.php:32
+msgid "Update Account"
+msgstr "Memperbarui Akun"
+
+#: templates/profile-header.php:54 templates/user-cover.php:42
+msgid "Update Cover Photo"
+msgstr "Memperbarui foto sampul"
+
+#: templates/modal-profile-image.php:32
+msgid "Upload"
+msgstr "Unggah"
+
+#: admin/class-admin.php:644 templates/bootstrap/modal-profile-image.php:16
+msgid "Upload Avatar"
+msgstr "Upload Avatar"
+
+#: admin/class-admin.php:656 templates/bootstrap/modal-profile-image.php:19
+msgid "Upload Banner"
+msgstr "Unggah Banner"
+
+#: includes/class-files.php:202
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr "File unggahan harus salah satu dari tipe file berikut: %s"
+
+#: includes/class-forms.php:1659 includes/class-forms.php:1674
+msgid "Username: %s"
+msgstr "Nama Pengguna: %s"
+
+#: admin/settings/class-uwp-settings-general.php:74
+#: admin/settings/class-uwp-settings-import-export.php:64
+#: includes/class-pages.php:331
+msgid "Users"
+msgstr "Pengguna"
+
+#. Plugin Name of the plugin
+#: admin/class-admin.php:405 admin/class-uwp-admin-menus.php:80
+#: admin/menus/class-menus.php:291 includes/class-uwp-compatibility.php:67
+#: includes/class-uwp-privacy.php:17 includes/template-functions.php:195
+msgid "UsersWP"
+msgstr "UsersWP"
+
+#: includes/class-forms.php:494
+msgid "We have removed the system generated password warning for you. From this point forward you can continue to access our site as usual. To go to home page, <a href=\"%s\">click here</a>."
+msgstr "Kami telah menghapus password sistem yang dihasilkan peringatan untuk Anda. Dari titik ini ke depan, Anda dapat melanjutkan untuk mengakses situs kami seperti biasa. Pergi ke halaman rumah, <a href=\"%s\">Klik di sini</a>."
+
+#: admin/class-admin.php:388
+msgid "You can change your profile picture on your <a href=\"%s\">Profile Page</a>."
+msgstr "Anda dapat mengubah gambar profil Anda pada <a href=\"%s\">Halaman profil</a>."
+
+#: includes/class-notices.php:72
+msgid "Your account is not activated yet. Please check your email for activation email."
+msgstr "Account Anda tidak diaktifkan belum. Periksa email Anda untuk email aktivasi."
+
+#: includes/class-forms.php:844 includes/class-forms.php:1658
+msgid "Your login Information :"
+msgstr "Informasi login Anda:"
+
+#. Author URI of the plugin
+msgid "https://userswp.io"
+msgstr "https://userswp.io"
+
+#. Plugin URI of the plugin
+msgid "https://userswp.io/"
+msgstr "https://userswp.io/"
+
+#: admin/settings/class-uwp-settings-general.php:215
+#: admin/settings/class-uwp-settings-redirects.php:126
+msgid "Login Redirect Page"
+msgstr "Laman Pengalihan Masuk"
+
+#: includes/class-validation.php:223
+msgid "<strong>Error</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr "<strong>KESALAHAN</strong>: Nama pengguna ini tidak sah karena menggunakan karakter ilegal. Silahkan masukkan nama pengguna yang sah."
+
+#: includes/class-validation.php:206
+msgid "<strong>Error</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>Kesalahan</strong>: Alamat email tidak benar."
+
+#: includes/class-validation.php:219
+msgid "<strong>Error</strong>: This email doesn't exists."
+msgstr "<strong>Kesalahan</strong>: Email ini tidak ada."
+
+#: includes/class-validation.php:213
+msgid "<strong>Error</strong>: This email is already registered, please choose another one."
+msgstr "<strong>Kesalahan</strong>: Email ini sudah terdaftar, tolong pilih yang lain."
+
+#: includes/class-validation.php:232
+msgid "<strong>Error</strong>: This username is already registered. Please choose another one."
+msgstr "<strong>Kesalahan</strong>: Nama pemakai ini sudah terdaftar, tolong pilih yang lain."
+
+#: includes/class-files.php:50
+msgid "Allowed files types are: %s"
+msgstr "Berkas yang diijinkan: %s"
+
+#: includes/class-forms.php:812 includes/helpers/forms.php:270
+msgid "To activate your account, visit the following address:"
+msgstr "Untuk aktivasi akun Anda, kunjungi alamat di bawah ini:"
+
+#: includes/class-forms.php:963
+msgid "Your account is under moderation. We will email you once its approved."
+msgstr "Akund anda dalam moderasi. Kami akan email kepada Anda setelah disetujui."
+
+#: includes/class-forms.php:1660
+msgid "Password: %s"
+msgstr "Kata Sandi: %s"
+
+#: includes/class-activator.php:511
+msgid "Old Password"
+msgstr "Kata sandi Lama"
+
+#: widgets/account.php:34 widgets/authorbox.php:34 widgets/change.php:34
+#: widgets/forgot.php:34 widgets/login.php:38 widgets/profile.php:35
+#: widgets/register.php:50 widgets/reset.php:34 widgets/users.php:34
+msgid "Widget title"
+msgstr "Judul Widget"
+
+#: templates/bootstrap/reset.php:39 templates/reset.php:20
+msgid "You can not access this page directly. Follow the password reset link you received in your email. To request new password reset link <a href=\"%s\">visit here</a>."
+msgstr "Anda tidak dapat mengakses halaman ini secara langsung. Ikuti tautan pengaturan ulang kata sandi yang Anda terima di email Anda. Untuk meminta password baru reset link kunjungi <a href=\"%s\">di sini</a>."
+
+#: includes/class-pages.php:331
+msgctxt "page_slug"
+msgid "users"
+msgstr "users"
+
+#: includes/class-pages.php:330
+msgctxt "page_slug"
+msgid "profile"
+msgstr "profile"
+
+#: includes/class-pages.php:329
+msgctxt "page_slug"
+msgid "change"
+msgstr "change"
+
+#: includes/class-pages.php:328
+msgctxt "page_slug"
+msgid "reset"
+msgstr "reset"
+
+#: includes/class-pages.php:327
+msgctxt "page_slug"
+msgid "forgot"
+msgstr "forgot"
+
+#: includes/class-pages.php:326
+msgctxt "page_slug"
+msgid "account"
+msgstr "account"
+
+#: includes/class-pages.php:325
+msgctxt "page_slug"
+msgid "login"
+msgstr "login"
+
+#: includes/class-pages.php:324
+msgctxt "page_slug"
+msgid "register"
+msgstr "register"
+
+#: admin/settings/class-uwp-settings-general.php:216
+#: admin/settings/class-uwp-settings-redirects.php:127
+msgid "Set the page to redirect the user to after logging in. If default redirect has been set then WordPress default will be used."
+msgstr "Atur halaman untuk mengarahkan pengguna setelah masuk. Jika pengalihan default telah ditetapkan maka default WordPress akan digunakan."
+
+#: admin/settings/class-formbuilder.php:425
+msgid "Set the page to redirect the user to after signing up. If default redirect has been set then WordPress default will be used."
+msgstr "Atur halaman untuk mengalihkan pengguna setelah mendaftar. Jika pengalihan default telah ditetapkan maka default WordPress akan digunakan."
+
+#: includes/class-forms.php:971
+msgid "Account registered successfully. A password has been generated and mailed to your registered Email ID. Please login %shere%s."
+msgstr "Akun yang berhasil terdaftar. Kata sandi telah dibuat dan dikirim ke ID Email anda yang terdaftar. Silahkan login %shere%s."
+
+#: includes/class-forms.php:951
+msgid "An email has been sent to your registered email address. Please click the activation link to proceed. %sResend%s."
+msgstr "Email telah dikirim ke alamat email terdaftar Anda. Silakan klik tautan aktivasi untuk melanjutkan. %sTerihas%s."
+
+#: includes/class-forms.php:1787
+msgid "Password changed successfully."
+msgstr "Password berhasil diubah."
+
+#: admin/settings/class-formbuilder.php:2316
+msgid "%s formats"
+msgstr "%s format"
+
+#: admin/settings/class-formbuilder.php:2154
+msgid "- If using OPTGROUP tag to grouping options, use {optgroup}OPTGROUP-LABEL|OPTION-1,OPTION-2{/optgroup}"
+msgstr "- Jika menggunakan tag OPTGROUP untuk mengelompokkan pilihan, gunakan\"{optgroup}OPTGROUP-LABEL|OPTION-1,OPTION-2{/optgroup}\""
+
+#: admin/settings/class-formbuilder.php:1628
+msgid "A default value for the field, usually blank. Ex: info@mysite.com"
+msgstr "Nilai bawaan kolom ini, biasanya kosong. Mis: info@situsku.com"
+
+#: admin/settings/class-formbuilder.php:1008
+msgid "Add any sort of text field, text or numbers"
+msgstr "Tambah kolom teks berisi huruf atau angka"
+
+#: admin/settings/class-formbuilder.php:1036
+msgid "Adds a checkbox"
+msgstr "Tambah pilihan dengan tanda centang"
+
+#: admin/settings/class-formbuilder.php:1015
+msgid "Adds a date picker."
+msgstr "Menambahkan pemetik tanggal."
+
+#: admin/settings/class-formbuilder.php:1057
+msgid "Adds a email input"
+msgstr "Tambal kolom email"
+
+#: admin/settings/class-formbuilder.php:1091
+msgid "Adds a file input"
+msgstr "Tambah kolom berkas unggahan"
+
+#: admin/settings/class-formbuilder.php:675
+msgid "Adds a input for Gender field."
+msgstr "Menambah masukan untuk bidang Gender."
+
+#: admin/settings/class-formbuilder.php:1070
+msgid "Adds a multiselect input"
+msgstr "Tambah kolom pilihan ganda"
+
+#: admin/settings/class-formbuilder.php:1043
+msgid "Adds a phone input"
+msgstr "Tambah kolom telepon"
+
+#: admin/settings/class-formbuilder.php:1050
+msgid "Adds a radio input"
+msgstr "Tambah kolom dengan pilihan berbentuk tombol radio"
+
+#: admin/settings/class-formbuilder.php:1063
+msgid "Adds a select input"
+msgstr "Tambah kolom pilihan"
+
+#: admin/settings/class-formbuilder.php:1022
+msgid "Adds a textarea"
+msgstr "Tambah kolom textarea"
+
+#: admin/settings/class-formbuilder.php:1029
+msgid "Adds a time picker"
+msgstr "Tambah waktu"
+
+#: admin/settings/class-formbuilder.php:1077
+msgid "Adds a url input"
+msgstr "Tambah kolom tautan"
+
+#: admin/settings/class-formbuilder.php:2313
+msgid "All types"
+msgstr "Semua tipe"
+
+#: admin/settings/class-formbuilder.php:2308
+msgid "Allowed file types :"
+msgstr "Jenis file yang diizinkan:"
+
+#: admin/settings/class-formbuilder.php:1035
+msgid "Checkbox"
+msgstr "Cekboks"
+
+#: admin/settings/class-formbuilder.php:1641
+msgid "Checked"
+msgstr "Ditandai"
+
+#: admin/settings/class-formbuilder.php:2894
+#: admin/settings/class-formbuilder.php:2915
+#: admin/settings/class-formbuilder.php:2947
+msgid "Column change failed, you may have too many columns."
+msgstr "Perubahan kolom gagal, mungkin karena kolom yang dipilih terlalu banyak."
+
+#: admin/settings/class-formbuilder.php:3054
+#: admin/settings/class-formbuilder.php:3096
+#: admin/settings/class-formbuilder.php:3110
+#: admin/settings/class-formbuilder.php:3163 includes/class-tools.php:82
+msgid "Column creation failed, you may have too many columns or the default value does not match with field data type."
+msgstr "Gagal membuat kolom, mungkin Anda terlalu banyak membuat kolom atau nilai bawaan tidak cocok dengan tipe data di kolom."
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:409
+#: includes/class-profile.php:945 templates/bootstrap/loop-comments.php:9
+#: templates/loop-comments.php:9 upgrade.php:203
+msgid "Comments"
+msgstr "Komentar-komentar"
+
+#: admin/settings/class-formbuilder.php:653
+msgid "Country"
+msgstr "Negara"
+
+#: admin/settings/class-formbuilder.php:1797
+msgid "CSS class :"
+msgstr "Css class :"
+
+#: admin/settings/class-formbuilder.php:1014
+msgid "Date"
+msgstr "Tanggal"
+
+#: admin/settings/class-formbuilder.php:1635
+msgid "Default value :"
+msgstr "Standar:"
+
+#: admin/settings/class-formbuilder.php:2111
+#: includes/libraries/class-geodirectory-plugin.php:1162
+#: includes/libraries/class-geodirectory-plugin.php:1381
+#: includes/libraries/class-geodirectory-plugin.php:1595
+msgid "Delete"
+msgstr "Hapus"
+
+#: admin/settings/class-formbuilder.php:1056 includes/class-activator.php:406
+#: includes/class-activator.php:673
+msgid "Email"
+msgstr "Email"
+
+#: admin/settings/class-uwp-settings-general.php:335
+msgid "Enabled Old Password?"
+msgstr "Diaktifkan Password lama?"
+
+#: admin/settings/class-formbuilder.php:1788
+msgid "Enter custom css class for field custom style."
+msgstr "Masukkan custom css class untukmengubah tampilan kolom."
+
+#: admin/settings/class-formbuilder.php:1718
+msgid "Enter text for the error message if the field is required and has not fulfilled the requirements."
+msgstr "Masukkan teks notifikasi yang muncul ketika kolom wajib belum diisi sesuai ketentuan."
+
+#: admin/settings/class-formbuilder.php:594
+msgid "Fieldset (section separator)"
+msgstr "Fieldset (pemisah)"
+
+#: admin/settings/class-formbuilder.php:1322
+#: admin/settings/class-formbuilder.php:2026
+msgid "Fieldset:"
+msgstr "Fieldset:"
+
+#: admin/settings/class-formbuilder.php:1090
+msgid "File Upload"
+msgstr "Unggah Berkas"
+
+#: admin/settings/class-formbuilder.php:1417
+msgid "Form Label: (Optional)"
+msgstr "Bentuk Label: (Opsional)"
+
+#: admin/settings/class-formbuilder.php:674
+msgid "Gender"
+msgstr "Jenis Kelamin"
+
+#: admin/settings/class-uwp-settings-general.php:768
+msgid "Grid View - 2 Column"
+msgstr "Tampilan grid - 2 kolom"
+
+#: admin/settings/class-uwp-settings-general.php:769
+msgid "Grid View - 3 Column"
+msgstr "Tampilan grid - 3 kolom"
+
+#: admin/settings/class-uwp-settings-general.php:770
+msgid "Grid View - 4 Column"
+msgstr "Tampilan grid - 4 kolom"
+
+#: admin/settings/class-uwp-settings-general.php:771
+msgid "Grid View - 5 Column"
+msgstr "Tampilan grid - 5 kolom"
+
+#: admin/settings/class-formbuilder.php:1533
+msgid "If no is selected then the field will not be displayed anywhere."
+msgstr "Jika memilih tidak, maka kolom ini tidak akan ditampilkan dimanapun."
+
+#: admin/settings/class-formbuilder.php:2148
+msgid "If using for a tick filter place a / and then either a 1 for true or 0 for false"
+msgstr "JIka menggunakan pilihan benar/salah, ketikkan tanda / (garis miring) lalu angka 1 untuk nilai true (benar) atau angka 0 untuk nilai false (salah)"
+
+#: admin/settings/class-formbuilder.php:1590
+msgid "Is Public :"
+msgstr "Apa Publik?"
+
+#: admin/settings/class-formbuilder.php:1534
+msgid "Is active :"
+msgstr "Aktif:"
+
+#: admin/settings/class-formbuilder.php:1686
+msgid "Is required :"
+msgstr "Wajib:"
+
+#: admin/settings/class-formbuilder.php:1416
+msgid "If your form label is different, then you can fill this field. Ex: You would like to display \"What is your age?\" in Form Field but would like to display \"DOB\" in site. In such cases \"What is your age?\" should be entered here and \"DOB\" should be entered in previous field. Note: If this field not filled, then the previous field will be used in Form."
+msgstr "Jika Anda label bentuk berbeda, maka Anda dapat mengisi bidang ini. Ex: Anda ingin menampilkan \"Apa itu usia Anda?\" di bidang formulir tetapi ingin menampilkan \"DOB\" di situs. Dalam kasus tersebut \"Apa itu usia Anda?\" harus dimasukkan di sini dan \"DOB\" harus dimasukkan di bidang sebelumnya. Catatan: Jika bidang ini tidak dipenuhi, maka bidang sebelumnya akan digunakan dalam bentuk. "
+
+#: templates/users-actions.php:22
+msgid "List View"
+msgstr "Tampilan Lis"
+
+#: admin/settings/class-formbuilder.php:722
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:393 upgrade.php:195
+msgid "More Info"
+msgstr "Info Lainnya"
+
+#: includes/helpers/misc.php:1504 widgets/output-location.php:91
+msgid "More info tab"
+msgstr "Tab info tambahan"
+
+#: admin/settings/class-formbuilder.php:1069
+msgid "Multi Select"
+msgstr "Pilihan Ganda"
+
+#: admin/settings/class-formbuilder.php:1477
+msgid "Must not contain spaces or special characters"
+msgstr "Tidak boleh berisi spasi atau karakter khusus"
+
+#: admin/settings/class-formbuilder.php:1600 includes/class-profile.php:467
+#: includes/class-templates.php:1125
+msgid "No"
+msgstr "Tidak"
+
+#: admin/settings/class-formbuilder.php:2359
+msgid "Number Field"
+msgstr "Kolom angka"
+
+#: admin/settings/class-formbuilder.php:2160
+msgid "Option Values :"
+msgstr "Pilihan:"
+
+#: admin/settings/class-formbuilder.php:2146
+msgid "Option Values should be separated by comma."
+msgstr "Pisah pilihan dengan koma."
+
+#: includes/class-account.php:68 includes/class-account.php:69
+#: includes/class-activator.php:377 includes/class-activator.php:566
+#: includes/class-activator.php:705
+msgid "Password"
+msgstr "Kata Kunci"
+
+#: admin/settings/class-formbuilder.php:1042
+msgid "Phone"
+msgstr "Telepon"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:401
+#: includes/class-profile.php:904 upgrade.php:187
+msgid "Posts"
+msgstr "Tulisan"
+
+#: admin/settings/class-formbuilder.php:112
+msgid "Predefined Fields"
+msgstr "Kolom Bawaan"
+
+#: admin/settings/class-formbuilder.php:1049
+msgid "Radio"
+msgstr "Radio"
+
+#: admin/settings/class-uwp-settings-emails.php:249
+msgid "Registration success email"
+msgstr "Email registrasi berhasil"
+
+#: admin/settings/class-uwp-settings-uninstall.php:89
+msgid "Remove Data on Uninstall?"
+msgstr "Hapus Data saat plugin dicopot?"
+
+#: admin/settings/class-formbuilder.php:1719
+msgid "Required message:"
+msgstr "Pesan:"
+
+#: admin/settings/class-formbuilder.php:1890
+#: admin/settings/class-formbuilder.php:2107
+#: admin/settings/class-uwp-settings-profile-tabs.php:812
+#: admin/settings/class-uwp-settings-user-sorting.php:596
+msgid "Save"
+msgstr "Save/Simpan/Hemat"
+
+#: admin/settings/class-formbuilder.php:1062
+#: admin/settings/class-formbuilder.php:2387
+msgid "Select"
+msgstr "Pilih"
+
+#: admin/settings/class-formbuilder.php:2345
+msgid "Select Custom Field type"
+msgstr "Pilih Tipe Kolom"
+
+#: admin/settings/class-formbuilder.php:2307
+msgid "Select file types to allowed for file uploading. (Select multiple file types by holding down \"Ctrl\" key.)"
+msgstr "Pilih tipe berkas yang boleh diunggah. (Pilihan lebih dari satu bisa dilakukan dengan klik lalu tahan tombol \"Ctrl\" )"
+
+#: admin/settings/class-formbuilder.php:1824
+msgid "Select in what locations you want to display this field."
+msgstr "Pilih di lokasi apa kolom ini ditampilkan."
+
+#: admin/settings/class-formbuilder.php:1860
+msgid "Select locations"
+msgstr "Pilih lokasi"
+
+#: admin/settings/class-formbuilder.php:2195
+msgid "Select the date format."
+msgstr "Pilih format tanggal."
+
+#: admin/settings/class-formbuilder.php:1685
+msgid "Select yes to set field as required"
+msgstr "Pilih ya jika kolom wajib diisi"
+
+#: admin/settings/class-formbuilder.php:1626
+msgid "Should the checkbox be checked by default?"
+msgstr "Apakah bagian ini diatur tercentang sejak awal?"
+
+#: admin/settings/class-formbuilder.php:1825
+msgid "Show in what locations?:"
+msgstr "Tampil di lokasi apa?:"
+
+#: admin/settings/class-formbuilder.php:1007
+msgid "Text"
+msgstr "Teks"
+
+#: admin/settings/class-formbuilder.php:2355
+msgid "Text Field"
+msgstr "Kolom Teks"
+
+#: admin/settings/class-formbuilder.php:1021
+msgid "Textarea"
+msgstr "Teks area"
+
+#: admin/settings/class-formbuilder.php:636
+msgid "There are no custom fields here yet."
+msgstr "Belum ada kolom kaustom"
+
+#: admin/settings/class-formbuilder.php:595
+msgid "This adds a section separator with a title."
+msgstr "Ini akan menambah pemisah dengan judul."
+
+#: admin/settings/class-formbuilder.php:1472
+msgid "This is a unique identifier used in the HTML, it MUST NOT contain spaces or special characters."
+msgstr "Ini adalah pengenal unik yang digunakan dalam HTML, TIDAK BISA berisi spasi atau karakter khusus."
+
+#: admin/settings/class-formbuilder.php:1028
+msgid "Time"
+msgstr "Waktu"
+
+#: admin/settings/class-formbuilder.php:1076
+msgid "URL"
+msgstr "URL"
+
+#: admin/settings/class-formbuilder.php:1640
+msgid "Unchecked"
+msgstr "Belum ditandai"
+
+#: admin/settings/class-formbuilder.php:1761
+msgid "Upload icon :"
+msgstr "Unggah ikon:"
+
+#: includes/class-activator.php:364 includes/class-activator.php:640
+#: includes/libraries/class-geodirectory-plugin.php:1864
+msgid "Username"
+msgstr "Nama Pengguna"
+
+#: admin/settings/class-formbuilder.php:1599 includes/class-profile.php:465
+#: includes/class-templates.php:1126
+msgid "Yes"
+msgstr "Ya"
+
+#: includes/class-uwp-defaults.php:227
+msgid "[#site_name#] - Account has been updated"
+msgstr "[#site_name #] - Akun telah diperbarui"
+
+#: includes/class-uwp-defaults.php:143
+msgid "[#site_name#] - Your new password"
+msgstr "[#site_name#] - Katasandi baru Anda"
+
+#: admin/settings/class-formbuilder.php:2155
+msgid "eg: {optgroup}Pets Allowed|No Dogs Allowed/0,Dogs Allowed/1{/optgroup},{optgroup}Sports|Cricket/Cricket,Football/Football,Hockey{/optgroup}"
+msgstr "mis.: \"{optgroup}Diijinkan Membawa Hewan Piaraan|Dilarang Membawa Hewan Piaraan/0,Diijinkan Membawa Hewan Piaraan/1{/optgroup},{optgroup}Olahraga|Tenis/Tenis,Sepakbola/Sepakbola,Basket{/optgroup}\""
+
+#: admin/settings/class-formbuilder.php:1645
+msgid "info@mysite.com"
+msgstr "info@mysite.com"
+
+#: admin/settings/class-formbuilder.php:41
+#: admin/settings/class-uwp-settings-general.php:75
+#: admin/settings/class-uwp-settings-general.php:329
+#: includes/class-pages.php:326 templates/bootstrap/change.php:39
+#: templates/change.php:15 widgets/account.php:95
+msgid "Account"
+msgstr "Akun"
+
+#: admin/settings/class-uwp-settings-general.php:702
+msgid "Account Page"
+msgstr "Laman Akun"
+
+#: admin/settings/class-uwp-settings-general.php:709
+msgid "Change Password Page"
+msgstr "Ganti kata sandi"
+
+#: admin/menus/class-menus.php:49 admin/menus/class-menus.php:61
+msgid "Common"
+msgstr "Umum"
+
+#: admin/settings/class-formbuilder.php:2196
+msgid "Date Format :"
+msgstr "Format Tanggal:"
+
+#: admin/settings/class-uwp-settings-general.php:716
+msgid "Forgot Password Page"
+msgstr "Halaman Lupa Kata Sandi"
+
+#: admin/class-admin-setup-wizard.php:239
+#: admin/class-admin-setup-wizard.php:244
+msgid "General Settings"
+msgstr "Pengaturan Umum Listing"
+
+#: includes/helpers/pages.php:549
+msgid "Info"
+msgstr "Informasi"
+
+#: admin/menus/class-menus.php:173 admin/menus/class-menus.php:314
+msgid "Log out"
+msgstr "Keluar"
+
+#: admin/menus/class-menus.php:52 admin/menus/class-menus.php:73
+msgid "Logged-In"
+msgstr "Berhasail masuk"
+
+#: admin/menus/class-menus.php:55 admin/menus/class-menus.php:86
+msgid "Logged-Out"
+msgstr "Berhasil Keluar"
+
+#: admin/menus/class-menus.php:87
+msgid "Logged-Out links are not visible to users who are logged in."
+msgstr "Tautan Berhasil Keluar tidak tampak kepada pengguna yang masuk."
+
+#: admin/settings/class-uwp-settings-general.php:695
+msgid "Login Page"
+msgstr "Laman Masuk"
+
+#: admin/class-admin.php:243
+msgid "Option Values must not be blank"
+msgstr "Nilai-nilai pilihan tidak boleh kosong"
+
+#: admin/settings/class-formbuilder.php:42
+#: admin/settings/class-uwp-settings-general.php:70
+#: includes/class-pages.php:324 templates/bootstrap/register.php:11
+#: templates/register.php:3 widgets/register.php:63 widgets/register.php:119
+msgid "Register"
+msgstr "Mendaftar"
+
+#: admin/settings/class-uwp-settings-general.php:688
+msgid "Register Page"
+msgstr "Laman Pendaftaran"
+
+#: admin/class-admin.php:247
+msgid "This field is required."
+msgstr "Kolom wajib diisi."
+
+#: admin/settings/class-uwp-settings-general.php:681
+msgid "User Profile Page"
+msgstr "Halaman Profil Pengguna"
+
+#: admin/settings/class-uwp-settings-general.php:730
+msgid "Users List Page"
+msgstr "Halaman daftar pengguna"
+
+#: admin/settings/class-formbuilder.php:82
+msgid "Add new form field"
+msgstr "Tambah kolom isian baru"
+
+#: admin/menus/class-menus.php:62
+msgid "Common links are visible to everyone."
+msgstr "Tautan Umum tampak ke semua."
+
+#: admin/settings/class-uwp-settings-general.php:382
+msgid "Display header in profile"
+msgstr "Tampilkan Header di Halaman Profil"
+
+#: admin/settings/class-uwp-settings-emails.php:282
+msgid "Forgot password email"
+msgstr "Email lupa kata sandi"
+
+#: admin/menus/class-menus.php:74
+msgid "Logged-In links are not visible to visitors who are not logged in."
+msgstr "Tautan Telah Masuk tidak tampak kepada pengunjung yang tidak masuk."
+
+#: admin/settings/class-uwp-settings-general.php:396
+msgid "Profile avatar max file size"
+msgstr "Masukkan ukuran maksimal file Avatar profil"
+
+#: admin/settings/class-uwp-settings-general.php:405
+msgid "Profile banner max file size"
+msgstr "Masukkan ukuran maksimal file Banner profil"
+
+#: admin/settings/class-formbuilder.php:1790
+msgid "(Enter class `uwp-comma-list` to show list as comma separated)"
+msgstr "(Masukkan class 'uwp-comma-list' untuk menampilkan daftar sebagai dipisahkan oleh koma)"
+
+#: admin/settings/class-formbuilder.php:2167
+msgid "A full country list will be shown"
+msgstr "Seluruh daftar negara akan di tampilkan"
+
+#: admin/settings/class-uwp-settings-emails.php:381
+msgid "Account update email"
+msgstr "Email pembaharuan akun"
+
+#: admin/settings/class-formbuilder.php:654
+msgid "Adds a input for Country field."
+msgstr "Menambah masukan untuk bidang Negara."
+
+#: admin/settings/class-formbuilder.php:723
+msgid "Adds a input for Mobile field."
+msgstr "Menambah masukan untuk bidang Mobile."
+
+#: admin/settings/class-formbuilder.php:2518
+msgid "Click on any box below to make it appear in register form. To make a field available here, go to account tab and expand any field from selected fields panel and tick the checkbox saying 'Include this field in register form'."
+msgstr "Klik pada kotak di bawah ini untuk membuatnya muncul di formulir pendaftaran. Untuk membuat bidang tersedia di sini, buka tab custom field dan perluas bidang apa pun dari panel bidang yang dipilih dan centang kotak centang 'Sertakan bidang ini di opsi pencarian sebelumnya'."
+
+#: admin/settings/class-formbuilder.php:2539
+msgid "Click to expand and view field related settings. You may drag and drop to arrange fields order in register form."
+msgstr "Klik untuk memperluas dan melihat bidang terkait pengaturan. Anda dapat drag dan drop untuk mengatur urutan kolom formulir pendaftaran."
+
+#: admin/settings/class-formbuilder.php:3123
+msgid "Column creation failed, you may have too many columns or the default value must have in valid date format."
+msgstr "Gagal membuat kolom, mungkin Anda terlalu banyak membuat kolom atau nilai default memiliki format waktu yang salah."
+
+#: admin/settings/class-formbuilder.php:3136
+msgid "Column creation failed, you may have too many columns or the default value must have in valid time format."
+msgstr "Gagal membuat kolom, mungkin Anda terlalu banyak membuat kolom atau nilai default memiliki format waktu yang salah."
+
+#: admin/settings/class-formbuilder.php:2363
+msgid "Decimal Field"
+msgstr "Bidang Desimal"
+
+#: admin/settings/class-uwp-settings-general.php:389
+msgid "Display body in profile"
+msgstr "Tampilan Badan dalam Profil"
+
+#: admin/settings/class-formbuilder.php:2279
+msgid "Display confirm email field?:"
+msgstr "Layar konfirmasi bidang email?:"
+
+#: admin/settings/class-formbuilder.php:2248
+msgid "Display confirm password field?:"
+msgstr "Tampilkan bidang konfirmasi kata sandi?:"
+
+#: admin/settings/class-uwp-settings-general.php:445
+msgid "Enter number of items to display in profile tabs."
+msgstr "Masukkan jumlah item untuk ditampilkan di tab profil."
+
+#: admin/settings/class-formbuilder.php:1589
+msgid "If no is selected then the field will not be visible to other users."
+msgstr "Jika tidak ada yang dipilih maka bidang tidak akan terlihat oleh pengguna lain."
+
+#: admin/settings/class-formbuilder.php:2467
+msgid "Include this field ONLY in register form:"
+msgstr "Sertakan bidang ini hanya dalam formulir pendaftaran saja:"
+
+#: admin/settings/class-formbuilder.php:2442
+msgid "Include this field in register form:"
+msgstr "Sertakan bidang ini dalam formulir pendaftaran:"
+
+#: admin/settings/class-formbuilder.php:1601
+msgid "Let User Decide"
+msgstr "Memungkinakan pengguna memutuskan"
+
+#: admin/settings/class-formbuilder.php:2278
+msgid "Lets you display confirm email form field."
+msgstr "Memungkinkan Anda menampilkan bidang konfirmasi formulir email."
+
+#: admin/settings/class-formbuilder.php:2247
+msgid "Lets you display confirm password form field."
+msgstr "Memungkinkan Anda menampilkan konfirmasi bidang formulir kata sandi."
+
+#: admin/settings/class-formbuilder.php:2466
+msgid "Lets you use this field as register ONLY form field."
+msgstr "Memungkinkan Anda menggunakan bidang ini sebagai bidang untuk mendaftar saja."
+
+#: admin/settings/class-formbuilder.php:2441
+msgid "Lets you use this field as register form field, set from register tab above."
+msgstr "Memungkinkan Anda untuk menggunakan bidang ini sebagai bidang formulir pendaftaran, atur dari tab pendaftaran di atas."
+
+#: admin/settings/class-formbuilder.php:2152
+msgid "Like: Apple,Bannana,Pear,Peach"
+msgstr "Seperti: Apel,Pisang,Pir,Persik"
+
+#: admin/settings/class-uwp-settings-general.php:442
+#: admin/settings/class-uwp-settings-general.php:499
+msgid "Number of items"
+msgstr "Banyaknya item"
+
+#: admin/settings/class-formbuilder.php:2153
+msgid "Or you can show Selection/Value shown: Pets Allowed/Yes,Pets not Allowed/No"
+msgstr "Atau Anda dapat menampilkan pilihan/nilai berikut: Hewan peliharaan diperbolehkan/Ya, Hewan peliharaan tidak diperbolehkan/No"
+
+#: widgets/output-location.php:92
+msgid "Profile side"
+msgstr "Sisi Profil"
+
+#: admin/settings/class-uwp-settings-general.php:428
+msgid "Profile banner width"
+msgstr "Lebar banner profil"
+
+#: admin/settings/class-uwp-settings-emails.php:216
+msgid "Registration activate email"
+msgstr "Email activasi pendaftaran"
+
+#: admin/settings/class-uwp-settings-general.php:723
+msgid "Reset Password Page"
+msgstr "Halaman Setel Ulang Kata Sandi"
+
+#: admin/settings/class-uwp-settings-emails.php:348
+msgid "Reset password email"
+msgstr "Setel ulang email kata sandi"
+
+#: admin/settings/class-uwp-settings-general.php:710
+msgid "This is the front end Change Password page."
+msgstr "Ini adalah halaman depan Ganti Kata Sandi."
+
+#: admin/settings/class-uwp-settings-general.php:717
+msgid "This is the front end Forgot Password page. This is the page where users are sent to reset their password when they lose it."
+msgstr "Ini adalah halaman depan formulir lupa kata sandi. Ini adalah halaman dimana pengguna dikirim untuk menyetel ulang kata sandi mereka ketika mereka menghilangkannya."
+
+#: admin/settings/class-uwp-settings-general.php:724
+msgid "This is the front end Reset Password page. This is the page where users can reset their password when they lose it."
+msgstr "Ini adalah halaman depan setel ulang kata sandi. Ini adalah halaman dimana pengguna dapat menyetel ulang kata sandi mereka ketika mereka menghilangkannya."
+
+#: admin/settings/class-uwp-settings-general.php:731
+msgid "This is the front end Users List page. This is the page where all registered users of the websites are listed."
+msgstr "Ini adalah halaman depan Daftar Pengguna. Ini adalah halaman dimana seluruh pengguna terdaftar di dalam website di cantumkan."
+
+#: admin/settings/class-uwp-settings-general.php:703
+msgid "This is the front end account page. This is where users can edit their account."
+msgstr "Ini adalah halaman depan akun. Disini pengguna dapat menyunting akun mereka."
+
+#: admin/settings/class-uwp-settings-general.php:696
+msgid "This is the front end login page. This is where users will login after creating their account."
+msgstr "Ini adalah halaman depan masuk. Disini pengguna akan masuk setelah membuat akun mereka."
+
+#: admin/settings/class-uwp-settings-general.php:689
+msgid "This is the front end register page. This is where users create their account."
+msgstr "Ini adalah halaman depan pendaftaran. Disini pengguna membuat akun mereka."
+
+#: admin/settings/class-uwp-settings-general.php:682
+msgid "This is the front end user's profile page. This page automatically overrides the default WordPress author page."
+msgstr "Ini adalah halaman muka profil pengguna. Halaman ini secara otomatis menimpa bawaan."
+
+#: admin/settings/class-formbuilder.php:1389
+msgid "This will be the label for the field."
+msgstr "Ini akan menjadi label bidang"
+
+#: includes/helpers/misc.php:1503 widgets/output-location.php:90
+msgid "Users Page"
+msgstr "Halaman Pengguna"
+
+#: admin/settings/class-uwp-settings-general.php:491
+msgid "Users default layout"
+msgstr "Tata letak baku"
+
+#: includes/class-uwp-defaults.php:171
+msgid "[#site_name#] - Password has been changed"
+msgstr "[#site_name #] - Kata sandi telah berubah"
+
+#: includes/class-uwp-defaults.php:199
+msgid "[#site_name#] - Password has been reset"
+msgstr "[#site_name #] - Kata sandi telah di setel ulang"
+
+#: admin/settings/class-formbuilder.php:2149
+msgid "eg: No Dogs Allowed/0,Dogs Allowed/1"
+msgstr "misalnya: \"Tidak ada anjing diperbolehkan/0,anjing diperbolehkan/1\""
+
+#: admin/settings/class-formbuilder.php:2508
+msgid "Available register form fields."
+msgstr "Bidang formulir register yang tersedia."
+
+#: admin/settings/class-formbuilder.php:2382
+msgid "Decimal places to display after point"
+msgstr "Tempat desimal untuk ditampilkan demi titik"
+
+#: admin/settings/class-formbuilder.php:2346
+msgid "Field Data Type:"
+msgstr "Tipe kolom data"
+
+#: admin/settings/class-formbuilder.php:1630
+msgid "A default value for the field, usually blank. (for links this will be used as the link text)"
+msgstr "Nilai default untuk bidang, biasanya kosong. (untuk link ini akan digunakan sebagai teks link)"
+
+#: widgets/user-meta.php:59
+msgid "Label"
+msgstr "Label"
+
+#: admin/settings/class-uwp-settings-profile-tabs.php:221
+msgid "Shortcode"
+msgstr "Shortcode"

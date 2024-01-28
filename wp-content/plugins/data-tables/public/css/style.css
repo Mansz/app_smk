@@ -1,0 +1,18 @@
+.dtbl-wrapper .dataTables_filter input {
+  padding: 8px;
+  border-radius: 3px;
+  display: inline-block;
+  width: auto;
+}
+.dtbl-wrapper .dataTables_length select {
+  padding: 6px;
+  border-radius: 3px;
+  display: inline-block;
+  width: auto;
+}
+.dtbl-wrapper .paging_simple_numbers a {
+  font-size: 16px;
+}
+.dataTableAttachment {
+  text-align: center;
+}

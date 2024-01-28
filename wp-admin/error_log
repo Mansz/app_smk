@@ -1,0 +1,353 @@
+[06-Jan-2024 01:19:07 UTC] WordPress database error Table 'n1601386_wp29.wpka_woocommerce_sessions' doesn't exist for query SELECT session_value FROM wpka_woocommerce_sessions WHERE session_key = '1' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, wc_load_cart, WooCommerce->initialize_session, WC_Session_Handler->init, WC_Session_Handler->init_session_cookie, WC_Session_Handler->get_session_data, WC_Session_Handler->get_session
+[06-Jan-2024 01:19:07 UTC] WordPress database error Table 'n1601386_wp29.wpka_wc_webhooks' doesn't exist for query SELECT webhook_id
+				FROM wpka_wc_webhooks
+				WHERE 1=1
+				AND `status` = 'active'
+				
+				
+				
+				
+				
+				
+				ORDER BY webhook_id DESC made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, WooCommerce->load_webhooks, wc_load_webhooks, WC_Data_Store->__call, WC_Webhook_Data_Store->get_webhooks_ids, WC_Webhook_Data_Store->search_webhooks
+[06-Jan-2024 01:19:07 UTC] WordPress database error Table 'n1601386_wp29.wpka_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wpka_woocommerce_attribute_taxonomies WHERE attribute_name != '' ORDER BY attribute_name ASC; made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Post_Types::register_taxonomies, wc_get_attribute_taxonomies
+[06-Jan-2024 01:19:54 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_2.png"
+
+[06-Jan-2024 01:19:54 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-1.png"
+
+[06-Jan-2024 01:19:54 UTC] string(117) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_1_video_thumb.jpg"
+
+[06-Jan-2024 01:19:54 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-1.png"
+
+[06-Jan-2024 01:19:54 UTC] string(148) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_1_video_thumb.jpg"
+
+[06-Jan-2024 01:19:54 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_3.png"
+
+[06-Jan-2024 01:19:54 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_3.png"
+
+[06-Jan-2024 01:19:54 UTC] string(113) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics_hero.jpg"
+
+[06-Jan-2024 01:19:54 UTC] string(144) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics_hero.jpg"
+
+[06-Jan-2024 01:19:54 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_4.png"
+
+[06-Jan-2024 01:19:54 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_4.png"
+
+[06-Jan-2024 01:19:54 UTC] string(109) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/Mask-Group.png"
+
+[06-Jan-2024 01:19:54 UTC] string(140) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/Mask-Group.png"
+
+[06-Jan-2024 01:19:54 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_2.png"
+
+[06-Jan-2024 01:20:13 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-header@2x.png"
+
+[06-Jan-2024 01:20:13 UTC] string(117) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-starter-logo.png"
+
+[06-Jan-2024 01:20:13 UTC] string(148) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-starter-logo.png"
+
+[06-Jan-2024 01:20:13 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-3.png"
+
+[06-Jan-2024 01:20:13 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-3.png"
+
+[06-Jan-2024 01:20:13 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/university-video.png"
+
+[06-Jan-2024 01:20:13 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/university-video.png"
+
+[06-Jan-2024 01:20:13 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-1.png"
+
+[06-Jan-2024 01:20:13 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-1.png"
+
+[06-Jan-2024 01:20:13 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_1.png"
+
+[06-Jan-2024 01:20:13 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_1.png"
+
+[06-Jan-2024 01:20:13 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-header@2x.png"
+
+[06-Jan-2024 01:20:13 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-1.png"
+
+[06-Jan-2024 01:20:13 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-1.png"
+
+[06-Jan-2024 01:20:13 UTC] string(113) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics_hero.png"
+
+[06-Jan-2024 01:20:13 UTC] string(144) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics_hero.png"
+
+[06-Jan-2024 01:20:13 UTC] string(110) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_1_hero.jpg"
+
+[06-Jan-2024 01:20:13 UTC] string(141) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_1_hero.jpg"
+
+[06-Jan-2024 01:20:25 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-5.png"
+
+[06-Jan-2024 01:20:25 UTC] string(118) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-4-1.png"
+
+[06-Jan-2024 01:20:25 UTC] string(149) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-4-1.png"
+
+[06-Jan-2024 01:20:25 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-2.png"
+
+[06-Jan-2024 01:20:25 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-2.png"
+
+[06-Jan-2024 01:20:25 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-7.png"
+
+[06-Jan-2024 01:20:25 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-7.png"
+
+[06-Jan-2024 01:20:25 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-5.png"
+
+[06-Jan-2024 01:20:25 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-8.png"
+
+[06-Jan-2024 01:20:25 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-8.png"
+
+[06-Jan-2024 01:20:25 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-6.png"
+
+[06-Jan-2024 01:20:25 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-6.png"
+
+[06-Jan-2024 01:20:25 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-2.png"
+
+[06-Jan-2024 01:20:25 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-2.png"
+
+[06-Jan-2024 01:20:25 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-2.png"
+
+[06-Jan-2024 01:20:25 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-2.png"
+
+[06-Jan-2024 01:20:26 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-hero.jpg"
+
+[06-Jan-2024 01:20:26 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-hero.jpg"
+
+[06-Jan-2024 01:20:32 UTC] string(119) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-11-1.png"
+
+[06-Jan-2024 01:20:32 UTC] string(150) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-11-1.png"
+
+[06-Jan-2024 01:20:33 UTC] string(118) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-9-1.png"
+
+[06-Jan-2024 01:20:33 UTC] string(149) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-9-1.png"
+
+[06-Jan-2024 01:20:33 UTC] string(119) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-10-1.png"
+
+[06-Jan-2024 01:20:33 UTC] string(150) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-10-1.png"
+
+[06-Jan-2024 01:20:33 UTC] string(118) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-3-1.png"
+
+[06-Jan-2024 01:20:33 UTC] string(149) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-3-1.png"
+
+[06-Jan-2024 01:22:19 UTC] string(117) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-starter-logo.png"
+
+[06-Jan-2024 01:22:19 UTC] string(148) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-starter-logo.png"
+
+[06-Jan-2024 01:22:19 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-header@2x.png"
+
+[06-Jan-2024 01:22:19 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-header@2x.png"
+
+[06-Jan-2024 01:22:19 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_2.png"
+
+[06-Jan-2024 01:22:19 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_2.png"
+
+[06-Jan-2024 01:22:19 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-1.png"
+
+[06-Jan-2024 01:22:19 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-1.png"
+
+[06-Jan-2024 01:22:19 UTC] string(117) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_1_video_thumb.jpg"
+
+[06-Jan-2024 01:22:19 UTC] string(148) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_1_video_thumb.jpg"
+
+[06-Jan-2024 01:22:19 UTC] string(113) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics_hero.png"
+
+[06-Jan-2024 01:22:19 UTC] string(144) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics_hero.png"
+
+[06-Jan-2024 01:22:19 UTC] string(109) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/Mask-Group.png"
+
+[06-Jan-2024 01:22:19 UTC] string(140) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/Mask-Group.png"
+
+[06-Jan-2024 01:22:19 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_4.png"
+
+[06-Jan-2024 01:22:19 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_4.png"
+
+[06-Jan-2024 01:22:19 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-3.png"
+
+[06-Jan-2024 01:22:19 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-3.png"
+
+[06-Jan-2024 01:22:40 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_3.png"
+
+[06-Jan-2024 01:22:40 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-hero.jpg"
+
+[06-Jan-2024 01:22:40 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-hero.jpg"
+
+[06-Jan-2024 01:22:40 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-2.png"
+
+[06-Jan-2024 01:22:40 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-2.png"
+
+[06-Jan-2024 01:22:40 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_3.png"
+
+[06-Jan-2024 01:22:43 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-3.png"
+
+[06-Jan-2024 01:22:43 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-3.png"
+
+[06-Jan-2024 01:22:43 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-5.png"
+
+[06-Jan-2024 01:22:43 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-5.png"
+
+[06-Jan-2024 01:22:43 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-2.png"
+
+[06-Jan-2024 01:22:43 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/academics-dept-2.png"
+
+[06-Jan-2024 01:22:43 UTC] string(119) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-10-1.png"
+
+[06-Jan-2024 01:22:43 UTC] string(150) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-10-1.png"
+
+[06-Jan-2024 01:23:04 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-8.png"
+
+[06-Jan-2024 01:23:04 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-8.png"
+
+[06-Jan-2024 01:23:04 UTC] string(115) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/university-video.png"
+
+[06-Jan-2024 01:23:04 UTC] string(146) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/university-video.png"
+
+[06-Jan-2024 01:23:07 UTC] string(111) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/instructor-3.png"
+
+[06-Jan-2024 01:23:07 UTC] string(142) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/instructor-3.png"
+
+[06-Jan-2024 01:23:07 UTC] string(111) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-header.png"
+
+[06-Jan-2024 01:23:07 UTC] string(142) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-header.png"
+
+[06-Jan-2024 01:23:07 UTC] string(114) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_1.png"
+
+[06-Jan-2024 01:23:07 UTC] string(145) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/home_2_course_1.png"
+
+[06-Jan-2024 01:23:17 UTC] string(113) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/instructor-2-1.png"
+
+[06-Jan-2024 01:23:17 UTC] string(144) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/instructor-2-1.png"
+
+[06-Jan-2024 01:23:17 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-7.png"
+
+[06-Jan-2024 01:23:17 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-7.png"
+
+[06-Jan-2024 01:23:17 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-7.png"
+
+[06-Jan-2024 01:23:17 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-7.png"
+
+[06-Jan-2024 01:23:18 UTC] string(108) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/president.png"
+
+[06-Jan-2024 01:23:18 UTC] string(139) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/04/president.png"
+
+[06-Jan-2024 01:23:18 UTC] string(116) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-6.png"
+
+[06-Jan-2024 01:23:18 UTC] string(147) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/03/university-blog-6.png"
+
+[06-Jan-2024 01:23:18 UTC] string(113) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-white@2x.png"
+
+[06-Jan-2024 01:23:18 UTC] string(144) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2021/06/tutor-white@2x.png"
+
+[06-Jan-2024 01:23:18 UTC] string(119) "Error on: https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-11-1.png"
+
+[06-Jan-2024 01:23:18 UTC] string(150) "Remote server returned 404 Not Found for https://preview.tutorlms.com/elementor-university/wp-content/uploads/sites/4/2019/05/tstarter-course-11-1.png"
+
+[06-Jan-2024 01:42:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wpka_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_Lock->is_locked, ActionScheduler_OptionLock->get_expiration, ActionScheduler_OptionLock->get_existing_lock
+[06-Jan-2024 01:42:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wpka_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, ActionScheduler_OptionLock->get_existing_lock
+[06-Jan-2024 01:42:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wpka_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set
+[06-Jan-2024 01:42:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wpka_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Assets\Api->update_script_data_cache, set_transient, update_option
+[06-Jan-2024 02:48:15 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/03/about-us-1-1-bg.jpg
+[06-Jan-2024 02:48:15 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/03/about-us-1-1-bg.jpg
+[06-Jan-2024 02:48:15 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-content\/uploads\/sites\/932\/2021\/03\/about-us-1-1-bg.jpg","id":0}
+[06-Jan-2024 02:48:16 UTC] about-us-1-1-bg.jpg
+[06-Jan-2024 02:48:16 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/about-us-1-1-bg.jpg","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/about-us-1-1-bg.jpg","type":"image\/jpeg","error":false}
+[06-Jan-2024 02:48:16 UTC] {"post_title":"about-us-1-1-bg.jpg","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/about-us-1-1-bg.jpg"}
+[06-Jan-2024 02:48:16 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/about-us-1-1-bg.jpg
+[06-Jan-2024 02:48:16 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-includes/images/media/default.png
+[06-Jan-2024 02:48:16 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-includes/images/media/default.png
+[06-Jan-2024 02:48:16 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-includes\/images\/media\/default.png","id":0}
+[06-Jan-2024 02:48:17 UTC] default.png
+[06-Jan-2024 02:48:17 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/default.png","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/default.png","type":"image\/png","error":false}
+[06-Jan-2024 02:48:17 UTC] {"post_title":"default.png","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/default.png"}
+[06-Jan-2024 02:48:17 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/default.png
+[06-Jan-2024 02:48:17 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/04/law-firm-team.jpg
+[06-Jan-2024 02:48:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/04/law-firm-team.jpg
+[06-Jan-2024 02:48:17 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-content\/uploads\/sites\/932\/2021\/04\/law-firm-team.jpg","id":0}
+[06-Jan-2024 02:48:17 UTC] law-firm-team.jpg
+[06-Jan-2024 02:48:17 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-firm-team.jpg","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-firm-team.jpg","type":"image\/jpeg","error":false}
+[06-Jan-2024 02:48:17 UTC] {"post_title":"law-firm-team.jpg","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-firm-team.jpg"}
+[06-Jan-2024 02:48:17 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/law-firm-team.jpg
+[06-Jan-2024 02:48:17 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/04/law-about.jpg
+[06-Jan-2024 02:48:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/04/law-about.jpg
+[06-Jan-2024 02:48:17 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-content\/uploads\/sites\/932\/2021\/04\/law-about.jpg","id":0}
+[06-Jan-2024 02:48:18 UTC] law-about.jpg
+[06-Jan-2024 02:48:18 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-about.jpg","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-about.jpg","type":"image\/jpeg","error":false}
+[06-Jan-2024 02:48:18 UTC] {"post_title":"law-about.jpg","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-about.jpg"}
+[06-Jan-2024 02:48:18 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/law-about.jpg
+[06-Jan-2024 02:48:18 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-03.png
+[06-Jan-2024 02:48:18 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-03.png
+[06-Jan-2024 02:48:18 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-content\/uploads\/sites\/932\/2021\/08\/testimonial-03.png","id":0}
+[06-Jan-2024 02:48:19 UTC] testimonial-03.png
+[06-Jan-2024 02:48:19 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-03.png","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-03.png","type":"image\/png","error":false}
+[06-Jan-2024 02:48:19 UTC] {"post_title":"testimonial-03.png","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-03.png"}
+[06-Jan-2024 02:48:19 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/testimonial-03.png
+[06-Jan-2024 02:48:19 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-02.png
+[06-Jan-2024 02:48:19 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-02.png
+[06-Jan-2024 02:48:19 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-content\/uploads\/sites\/932\/2021\/08\/testimonial-02.png","id":0}
+[06-Jan-2024 02:48:19 UTC] testimonial-02.png
+[06-Jan-2024 02:48:19 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-02.png","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-02.png","type":"image\/png","error":false}
+[06-Jan-2024 02:48:19 UTC] {"post_title":"testimonial-02.png","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-02.png"}
+[06-Jan-2024 02:48:19 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/testimonial-02.png
+[06-Jan-2024 02:48:19 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-01.png
+[06-Jan-2024 02:48:19 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-01.png
+[06-Jan-2024 02:48:19 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-content\/uploads\/sites\/932\/2021\/08\/testimonial-01.png","id":0}
+[06-Jan-2024 02:48:20 UTC] testimonial-01.png
+[06-Jan-2024 02:48:20 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-01.png","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-01.png","type":"image\/png","error":false}
+[06-Jan-2024 02:48:20 UTC] {"post_title":"testimonial-01.png","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-01.png"}
+[06-Jan-2024 02:48:20 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/testimonial-01.png
+[06-Jan-2024 02:48:20 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/03/appointment-bg.jpg
+[06-Jan-2024 02:48:20 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/03/appointment-bg.jpg
+[06-Jan-2024 02:48:20 UTC] Log - {"url":"https:\/\/websitedemos.net\/family-lawyer-08\/wp-content\/uploads\/sites\/932\/2021\/03\/appointment-bg.jpg","id":0}
+[06-Jan-2024 02:48:20 UTC] appointment-bg.jpg
+[06-Jan-2024 02:48:20 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/appointment-bg.jpg","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/appointment-bg.jpg","type":"image\/jpeg","error":false}
+[06-Jan-2024 02:48:20 UTC] {"post_title":"appointment-bg.jpg","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/appointment-bg.jpg"}
+[06-Jan-2024 02:48:21 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/appointment-bg.jpg
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/03/about-us-1-1-bg.jpg
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13913","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/about-us-1-1-bg.jpg"}
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-includes/images/media/default.png
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13914","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/default.png"}
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/04/law-firm-team.jpg
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13915","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-firm-team.jpg"}
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/04/law-about.jpg
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13916","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/law-about.jpg"}
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-03.png
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13917","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-03.png"}
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-02.png
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13918","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-02.png"}
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/08/testimonial-01.png
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13919","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial-01.png"}
+[06-Jan-2024 02:49:35 UTC] Source - https://websitedemos.net/family-lawyer-08/wp-content/uploads/sites/932/2021/03/appointment-bg.jpg
+[06-Jan-2024 02:49:35 UTC] Log - {"id":"13920","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/appointment-bg.jpg"}
+[08-Jan-2024 14:39:38 UTC] Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/ld2.jpg
+[08-Jan-2024 14:39:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/ld2.jpg
+[08-Jan-2024 14:39:38 UTC] Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/ld2.jpg","id":0}
+[08-Jan-2024 14:39:39 UTC] ld2.jpg
+[08-Jan-2024 14:39:39 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/ld2.jpg","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/ld2.jpg","type":"image\/jpeg","error":false}
+[08-Jan-2024 14:39:39 UTC] {"post_title":"ld2.jpg","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/ld2.jpg"}
+[08-Jan-2024 14:39:40 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/ld2.jpg
+[08-Jan-2024 14:39:40 UTC] Source - https://websitedemos.net/learndash-academy-08/wp-includes/images/media/default.png
+[08-Jan-2024 14:39:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-includes/images/media/default.png
+[08-Jan-2024 14:39:40 UTC] Log - {"id":"13914","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/default.png"}
+[08-Jan-2024 14:39:40 UTC] Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/manager-free-img.png
+[08-Jan-2024 14:39:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/manager-free-img.png
+[08-Jan-2024 14:39:40 UTC] Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/manager-free-img.png","id":0}
+[08-Jan-2024 14:39:41 UTC] manager-free-img.png
+[08-Jan-2024 14:39:41 UTC] {"file":"\/home\/n1601386\/public_html\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/manager-free-img.png","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/manager-free-img.png","type":"image\/png","error":false}
+[08-Jan-2024 14:39:41 UTC] {"post_title":"manager-free-img.png","guid":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/manager-free-img.png"}
+[08-Jan-2024 14:39:41 UTC] BATCH - SUCCESS Image {Imported} - https://nuha.smkbisa.id/wp-content/uploads/2024/01/manager-free-img.png
+[08-Jan-2024 14:39:41 UTC] Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial4-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial4-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] Log - {"id":"14862","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial4-free-img.jpg"}
+[08-Jan-2024 14:39:41 UTC] Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial1-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial1-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] Log - {"id":"14866","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial1-free-img.jpg"}
+[08-Jan-2024 14:39:41 UTC] Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial3-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial3-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] Log - {"id":"14873","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial3-free-img.jpg"}
+[08-Jan-2024 14:39:41 UTC] Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial2-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial2-free-img.jpg
+[08-Jan-2024 14:39:41 UTC] Log - {"id":"14877","url":"https:\/\/nuha.smkbisa.id\/wp-content\/uploads\/2024\/01\/testimonial2-free-img.jpg"}
+[09-Jan-2024 08:25:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wpka_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_Lock->is_locked, ActionScheduler_OptionLock->get_expiration, ActionScheduler_OptionLock->get_existing_lock
+[09-Jan-2024 08:25:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wpka_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, ActionScheduler_OptionLock->get_existing_lock
+[09-Jan-2024 08:25:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wpka_options` (`option_name`, `option_value`, `autoload`) VALUES ('action_scheduler_lock_async-request-runner', '659d02f1ccb4a5.60314191|1704788781', 'no') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set
+[09-Jan-2024 08:25:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wpka_options` SET `option_value` = '1707380721' WHERE `option_name` = '_transient_timeout_woocommerce_blocks_asset_api_script_data_ssl' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Assets\Api->update_script_data_cache, set_transient, update_option
+[16-Jan-2024 06:24:01 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wpka_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_Lock->is_locked, ActionScheduler_OptionLock->get_expiration, ActionScheduler_OptionLock->get_existing_lock
+[16-Jan-2024 06:24:01 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wpka_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, ActionScheduler_OptionLock->get_existing_lock
+[16-Jan-2024 06:24:01 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wpka_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set

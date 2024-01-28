@@ -1,0 +1,62 @@
+{
+  "apiVersion": "1",
+  "name": "dtbl/data-table",
+  "title": "Data Table",
+  "description": "",
+  "category": "design",
+  "icon": "editor-table",
+  "keywords": ["data-table"],
+  "textdomain": "dtbl",
+  "attributes": {
+    "uniqueId": { "type": "string", "default": "" },
+    "data": {
+      "type": "object",
+      "default": {
+        "head": ["", "", "", ""],
+        "body": [
+          ["", "", "", ""],
+          ["", "", "", ""],
+          ["", "", "", ""],
+          ["", "", "", ""]
+        ]
+      }
+    },
+    "options": {
+      "type": "object",
+      "default": {
+        "searching": true,
+        "paging": true,
+        "stateSave": false,
+        "lengthChange": true
+      }
+    },
+    "headerStyle": {
+      "type": "object",
+      "default": {
+        "color": "#222",
+        "background": "#fff"
+      }
+    },
+    "bodyStyle": {
+      "type": "object",
+      "default": {
+        "oddColor": "#222",
+        "evenColor": "#222",
+        "oddBackground": "#F2F2F2",
+        "evenBackground": "#fff"
+      }
+    },
+    "style": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "lock": false
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  }
+}

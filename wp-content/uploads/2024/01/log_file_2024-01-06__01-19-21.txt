@@ -1,0 +1,78 @@
+
+---Downloaded files---
+The import files for: University were successfully downloaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://nuha.smkbisa.id
+Data file = /home/n1601386/public_html/nuha.smkbisa.id/wp-content/uploads/2024/01/demo-content-import-file_2024-01-06__01-19-21.xml
+Widget file = /home/n1601386/public_html/nuha.smkbisa.id/wp-content/uploads/2024/01/demo-widgets-import-file_2024-01-06__01-19-21.json
+Customizer
+
+---Importing widgets---
+Sidebar : 
+
+Cari - No Title - Widget already exists
+Pos-pos Terbaru - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+
+Footer Widget 1 : 
+
+Teks - No Title - Imported
+Teks - No Title - Imported
+
+Footer Widget 2 : 
+
+Menu Navigasi - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Menu Navigasi - Resources - Imported
+
+Footer Widget 4 : 
+
+Menu Navigasi - Support - Imported
+
+Footer Social Media : 
+
+HTML Khusus - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+Sidebar : 
+
+Cari - No Title - Widget already exists
+Pos-pos Terbaru - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+
+Footer Widget 1 : 
+
+Teks - No Title - Widget already exists
+Teks - No Title - Widget already exists
+
+Footer Widget 2 : 
+
+Menu Navigasi - Quick Links - Widget already exists
+
+Footer Widget 3 : 
+
+Menu Navigasi - Resources - Widget already exists
+
+Footer Widget 4 : 
+
+Menu Navigasi - Support - Widget already exists
+
+Footer Social Media : 
+
+HTML Khusus - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tutormate_after_import---
+
